@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/legacy/order", "destination": "/legacy/order.html" },
+    { "source": "/legacy", "destination": "/legacy/index.html" },
+    { "source": "/app", "destination": "/app.html" }
+  ]
+}
