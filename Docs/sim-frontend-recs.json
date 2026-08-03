@@ -1,0 +1,1985 @@
+{
+  "generatedAt": "2026-08-03T13:34:13.149Z",
+  "frontendInputs": {
+    "personaId": "yash",
+    "timeWindow": "morning",
+    "vegOnly": true,
+    "priceSensitive": true,
+    "needs": [
+      "protein",
+      "snack",
+      "breakfast",
+      "wellness"
+    ],
+    "goals": [
+      "fitness",
+      "weight_loss"
+    ],
+    "orderHistoryCount": 18,
+    "seedCandidates": 11,
+    "expandedPool": 181,
+    "catalogSize": 257
+  },
+  "scenarios": [
+    {
+      "name": "fitness_path_morning",
+      "timeWindow": "morning",
+      "poolSize": 181,
+      "coldDeck": [
+        {
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p90012",
+          "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 72,
+          "tags": [
+            "protein",
+            "breakfast",
+            "staples",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01267",
+          "name": "Amul Protein Blueberry Shake (20 g protein)",
+          "cat": "Lassi Shakes More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 60,
+          "tags": [
+            "beverages",
+            "breakfast",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p02062",
+          "name": "Milky Mist Low Fat High Protein Paneer",
+          "cat": "Paneer Tofu",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 120,
+          "tags": [
+            "protein",
+            "breakfast",
+            "cooking",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01916",
+          "name": "Milky Mist Skyr High Protein Plain Yogurt",
+          "cat": "Curd Yogurt",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 65,
+          "tags": [
+            "breakfast",
+            "protein",
+            "fitness"
+          ],
+          "ladder": false
+        }
+      ],
+      "swipes": [
+        {
+          "n": 1,
+          "action": "top",
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 2,
+          "action": "right",
+          "id": "p07026",
+          "name": "Boldfit Prime Digital Weighing Machine",
+          "cat": "Appliances",
+          "top": "Electronics & Appliances",
+          "level": "L3",
+          "price": 458,
+          "tags": [
+            "fitness",
+            "wellness",
+            "weight_loss"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 3,
+          "action": "right",
+          "id": "p08035",
+          "name": "MuscleBlaze Gym Shaker (Silver)",
+          "cat": "Bottles Flasks",
+          "top": "Kitchen & Dining",
+          "level": "L3",
+          "price": 499,
+          "tags": [
+            "protein",
+            "cooking",
+            "fitness"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 4,
+          "action": "right",
+          "id": "p03913",
+          "name": "MuscleBlaze Biozyme Performance Whey Protein Pow",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L2",
+          "price": 799,
+          "tags": [
+            "protein",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 5,
+          "action": "top",
+          "id": "p02125",
+          "name": "Protein Chef 42g Protein Multigrain Bread - 5 Su",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 69,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 6,
+          "action": "right",
+          "id": "p03917",
+          "name": "Nutrabay Gold Micronized Creatine Monohydrate (O",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 296,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 7,
+          "action": "right",
+          "id": "p03914",
+          "name": "Wellcore Micronised Creatine",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 539,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 8,
+          "action": "top",
+          "id": "p02629",
+          "name": "Yoga Bar 20 g Protein Bar",
+          "cat": "Energy Bars",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 99,
+          "tags": [
+            "beverages",
+            "cooking",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 9,
+          "action": "right",
+          "id": "p03915",
+          "name": "Wellcore Micronised Creatine (Tropical Tango)",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 539,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 10,
+          "action": "right",
+          "id": "p06346",
+          "name": "Lifelong Exercise Gym Gloves",
+          "cat": "Sports Fitness",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 176,
+          "tags": [
+            "fitness_gear",
+            "household",
+            "grooming"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 11,
+          "action": "left",
+          "id": "p01314",
+          "name": "Lipton Honey Lemon Green Tea Bags",
+          "cat": "Green Flavoured Tea",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 172,
+          "tags": [
+            "hydration",
+            "wellness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 12,
+          "action": "left",
+          "id": "p01313",
+          "name": "Tetley Slim Care Green Tea Bags (With L-Carnitin",
+          "cat": "Green Flavoured Tea",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 177,
+          "tags": [
+            "hydration",
+            "wellness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 13,
+          "action": "right",
+          "id": "p02591",
+          "name": "SuperYou Chocolate Wafer Protein Bar - Pack of 4",
+          "cat": "Energy Bars",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 205,
+          "tags": [
+            "beverages",
+            "hydration",
+            "indulgence",
+            "protein"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 14,
+          "action": "right",
+          "id": "p02584",
+          "name": "SuperYou Strawberry Creme Wafer Protein Bar - Pa",
+          "cat": "Energy Bars",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 205,
+          "tags": [
+            "protein",
+            "snack",
+            "fitness",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 15,
+          "action": "top",
+          "id": "p02580",
+          "name": "RiteBite Max Protein Daily Choco Almond 10 g Pro",
+          "cat": "Energy Bars",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 80,
+          "tags": [
+            "snack",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 16,
+          "action": "right",
+          "id": "p06352",
+          "name": "Cosco Stretch Resistance Band",
+          "cat": "Sports Fitness",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 399,
+          "tags": [
+            "fitness_gear",
+            "household",
+            "explore"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 17,
+          "action": "right",
+          "id": "p03901",
+          "name": "Centrum Men Multivitamin (For 18+ Years)",
+          "cat": "Health Wellness Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 437,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 18,
+          "action": "left",
+          "id": "p01190",
+          "name": "Brooke Bond Taaza Tea",
+          "cat": "Tea",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 50,
+          "tags": [
+            "beverages",
+            "hydration",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 19,
+          "action": "left",
+          "id": "p05831",
+          "name": "Act II Golden Sizzle Popcorn - Instant - Pack of",
+          "cat": "Popcorn",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 29,
+          "tags": [
+            "snack",
+            "indulgence",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 20,
+          "action": "left",
+          "id": "p05127",
+          "name": "Britannia Good Day Butter Cookies",
+          "cat": "Cookies",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 35,
+          "tags": [
+            "snack",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 21,
+          "action": "left",
+          "id": "p05126",
+          "name": "Hide & Seek Chocolate Chip Cookies",
+          "cat": "Cookies",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 48,
+          "tags": [
+            "snack",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 22,
+          "action": "left",
+          "id": "p02086",
+          "name": "Amul Salted Butter",
+          "cat": "Butter More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 58,
+          "tags": [
+            "breakfast",
+            "cooking",
+            "staples",
+            "household"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 23,
+          "action": "top",
+          "id": "p02057",
+          "name": "Amul Fresh Malai Paneer",
+          "cat": "Paneer Tofu",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 95,
+          "tags": [
+            "breakfast",
+            "protein",
+            "cooking",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 24,
+          "action": "right",
+          "id": "p06339",
+          "name": "Boldfit Wrist Strap Supporter For Gym",
+          "cat": "Sports Fitness",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 199,
+          "tags": [
+            "fitness_gear",
+            "household",
+            "grooming"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 25,
+          "action": "left",
+          "id": "p00956",
+          "name": "Kwality Wall's Cornetto Butterscotch Frozen Dess",
+          "cat": "Ice Cream Frozen Dessert",
+          "top": "Instant & Frozen",
+          "level": "L2",
+          "price": 40,
+          "tags": [
+            "breakfast",
+            "cooking",
+            "indulgence",
+            "wellness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 26,
+          "action": "left",
+          "id": "p02535",
+          "name": "Orika Red Chilli Flakes Sprinkler",
+          "cat": "Herbs Seasoning",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 76,
+          "tags": [
+            "cooking",
+            "household",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 27,
+          "action": "left",
+          "id": "p06564",
+          "name": "Tata Sampann Hing Powder",
+          "cat": "Powdered Spice",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 124,
+          "tags": [
+            "cooking",
+            "household",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 28,
+          "action": "left",
+          "id": "p00950",
+          "name": "Kwality Wall's Cornetto Double Chocolate Frozen ",
+          "cat": "Ice Cream Frozen Dessert",
+          "top": "Instant & Frozen",
+          "level": "L2",
+          "price": 40,
+          "tags": [
+            "beverages",
+            "cooking",
+            "hydration",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        }
+      ],
+      "summary": {
+        "swipes": 28,
+        "left": 11,
+        "right": 12,
+        "top": 5,
+        "uniqueSeen": 44,
+        "ladderFirstAt": 2,
+        "ladderInLog": [
+          {
+            "id": "p07026",
+            "name": "Boldfit Prime Digital Weighing Machine",
+            "at": 2
+          },
+          {
+            "id": "p08035",
+            "name": "MuscleBlaze Gym Shaker (Silver)",
+            "at": 3
+          },
+          {
+            "id": "p06346",
+            "name": "Lifelong Exercise Gym Gloves",
+            "at": 10
+          },
+          {
+            "id": "p06352",
+            "name": "Cosco Stretch Resistance Band",
+            "at": 16
+          },
+          {
+            "id": "p06339",
+            "name": "Boldfit Wrist Strap Supporter For Gym",
+            "at": 24
+          }
+        ],
+        "boldness": 0,
+        "resolvedGoal": "fitness",
+        "cartCount": 5,
+        "savedCount": 12,
+        "topCategories": [
+          {
+            "key": "Energy Bars",
+            "w": 6
+          },
+          {
+            "key": "Protein And Workout Supplements",
+            "w": 4
+          },
+          {
+            "key": "Pharma & Wellness",
+            "w": 4
+          },
+          {
+            "key": "Sports Fitness",
+            "w": 3
+          },
+          {
+            "key": "Non Prescription Medicines",
+            "w": 2
+          },
+          {
+            "key": "Bread Pav",
+            "w": 2
+          }
+        ],
+        "topTags": [
+          {
+            "key": "fitness",
+            "w": 32
+          },
+          {
+            "key": "protein",
+            "w": 14
+          },
+          {
+            "key": "weight_loss",
+            "w": 6
+          },
+          {
+            "key": "supplements",
+            "w": 3
+          },
+          {
+            "key": "fitness_gear",
+            "w": 3
+          },
+          {
+            "key": "grooming",
+            "w": 3
+          },
+          {
+            "key": "snack",
+            "w": 2.4
+          },
+          {
+            "key": "staples",
+            "w": 0.8
+          }
+        ]
+      },
+      "rails": {
+        "learned": true,
+        "reason": "Just ordered Amul Fresh Malai Paneer — picks refreshed",
+        "topPicks": [
+          {
+            "id": "p02579",
+            "name": "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar - Pack of 2",
+            "price": 156,
+            "ladder": false
+          },
+          {
+            "id": "p01931",
+            "name": "Amul Probiotic High Protein Curd",
+            "price": 80,
+            "ladder": false
+          },
+          {
+            "id": "p01267",
+            "name": "Amul Protein Blueberry Shake (20 g protein)",
+            "price": 60,
+            "ladder": false
+          },
+          {
+            "id": "p01419",
+            "name": "So Good High Protein Plant Based Soy Beverage",
+            "price": 136,
+            "ladder": false
+          },
+          {
+            "id": "p06349",
+            "name": "Boldfit Gym Supporter Trunks for Men (Black)",
+            "price": 329,
+            "ladder": true
+          },
+          {
+            "id": "p06348",
+            "name": "Boldfit Gym Gallon Plastic Bottle - 2 L",
+            "price": 448,
+            "ladder": true
+          },
+          {
+            "id": "p01574",
+            "name": "PHC Metal Hair Band (Black)",
+            "price": 49,
+            "ladder": false
+          },
+          {
+            "id": "p03605",
+            "name": "FURR Reusable German Blade Face Razor - Pack of 3",
+            "price": 185,
+            "ladder": false
+          }
+        ],
+        "somethingDifferent": [
+          {
+            "id": "p07027",
+            "name": "Striff Blaze1 Camera Portable LED Light",
+            "price": 518,
+            "ladder": true
+          },
+          {
+            "id": "p07021",
+            "name": "Kent Stainless Steel Hand Blender (450 W",
+            "price": 1652,
+            "ladder": true
+          },
+          {
+            "id": "p06924",
+            "name": "Hammer 27 W Type C to Lightning Cable",
+            "price": 199,
+            "ladder": true
+          },
+          {
+            "id": "p06995",
+            "name": "boAt Bassheads 95 Wired Earphones (Raging Red)",
+            "price": 279,
+            "ladder": true
+          },
+          {
+            "id": "p01797",
+            "name": "Faces Canada Ultime Pro Splash Mini Nail Paint Kit (Pastel Paradise)",
+            "price": 199,
+            "ladder": false
+          },
+          {
+            "id": "p01487",
+            "name": "RENEE Disney Moana Mini Tinted Lip Balm (Beachy Peachy)",
+            "price": 219,
+            "ladder": false
+          },
+          {
+            "id": "p01543",
+            "name": "L'Oreal Paris Casting Creme Gloss 400 Creme Hair Colour (Dark Brown)",
+            "price": 268,
+            "ladder": false
+          },
+          {
+            "id": "p01708",
+            "name": "Lakme 9To5 Powerplay Priming Matte Lipstick (Mauve Matter)",
+            "price": 488,
+            "ladder": false
+          }
+        ]
+      },
+      "nextHandAfterSwipes": [],
+      "sampleNudge": {
+        "product_id": "p07026",
+        "name": "Boldfit Prime Digital Weighing Machine",
+        "chip": "Price drop ₹92",
+        "body": "Chadho mujhpe roz subah, sach bataungi — Boldfit Digital Weighing Machine",
+        "cta": "Add to cart",
+        "source": "static"
+      }
+    },
+    {
+      "name": "reject_heavy",
+      "timeWindow": "morning",
+      "poolSize": 181,
+      "coldDeck": [
+        {
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p90012",
+          "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 72,
+          "tags": [
+            "protein",
+            "breakfast",
+            "staples",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01267",
+          "name": "Amul Protein Blueberry Shake (20 g protein)",
+          "cat": "Lassi Shakes More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 60,
+          "tags": [
+            "beverages",
+            "breakfast",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p02062",
+          "name": "Milky Mist Low Fat High Protein Paneer",
+          "cat": "Paneer Tofu",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 120,
+          "tags": [
+            "protein",
+            "breakfast",
+            "cooking",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01916",
+          "name": "Milky Mist Skyr High Protein Plain Yogurt",
+          "cat": "Curd Yogurt",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 65,
+          "tags": [
+            "breakfast",
+            "protein",
+            "fitness"
+          ],
+          "ladder": false
+        }
+      ],
+      "swipes": [
+        {
+          "n": 1,
+          "action": "left",
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 2,
+          "action": "left",
+          "id": "p90012",
+          "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 72,
+          "tags": [
+            "protein",
+            "breakfast",
+            "staples",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 3,
+          "action": "left",
+          "id": "p01267",
+          "name": "Amul Protein Blueberry Shake (20 g protein)",
+          "cat": "Lassi Shakes More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 60,
+          "tags": [
+            "beverages",
+            "breakfast",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 4,
+          "action": "left",
+          "id": "p02062",
+          "name": "Milky Mist Low Fat High Protein Paneer",
+          "cat": "Paneer Tofu",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 120,
+          "tags": [
+            "protein",
+            "breakfast",
+            "cooking",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 5,
+          "action": "left",
+          "id": "p01916",
+          "name": "Milky Mist Skyr High Protein Plain Yogurt",
+          "cat": "Curd Yogurt",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 65,
+          "tags": [
+            "breakfast",
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 6,
+          "action": "left",
+          "id": "p02535",
+          "name": "Orika Red Chilli Flakes Sprinkler",
+          "cat": "Herbs Seasoning",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 76,
+          "tags": [
+            "cooking",
+            "household",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 7,
+          "action": "left",
+          "id": "p02643",
+          "name": "Tata Sampann Unpolished Masoor Dal",
+          "cat": "Moong Masoor",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 81,
+          "tags": [
+            "household",
+            "staples",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 8,
+          "action": "left",
+          "id": "p01419",
+          "name": "So Good High Protein Plant Based Soy Beverage",
+          "cat": "Lactose Free Drink",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 136,
+          "tags": [
+            "beverages",
+            "breakfast",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 9,
+          "action": "left",
+          "id": "p02642",
+          "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli)",
+          "cat": "Moong Masoor",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 99,
+          "tags": [
+            "household",
+            "staples",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 10,
+          "action": "left",
+          "id": "p06564",
+          "name": "Tata Sampann Hing Powder",
+          "cat": "Powdered Spice",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 124,
+          "tags": [
+            "cooking",
+            "household",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 11,
+          "action": "left",
+          "id": "p05997",
+          "name": "Bingo Mad Angles Achaari Masti Crisps / Chips",
+          "cat": "Chips Crisps",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 19,
+          "tags": [
+            "snack",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 12,
+          "action": "left",
+          "id": "p05998",
+          "name": "Uncle Chipps Spicy Treat Flavour Potato Chips",
+          "cat": "Chips Crisps",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 20,
+          "tags": [
+            "snack",
+            "indulgence"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 13,
+          "action": "left",
+          "id": "p01931",
+          "name": "Amul Probiotic High Protein Curd",
+          "cat": "Curd Yogurt",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 80,
+          "tags": [
+            "breakfast",
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 14,
+          "action": "left",
+          "id": "p05831",
+          "name": "Act II Golden Sizzle Popcorn - Instant - Pack of",
+          "cat": "Popcorn",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 29,
+          "tags": [
+            "snack",
+            "indulgence",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 15,
+          "action": "left",
+          "id": "p07861",
+          "name": "Femora Clear Beer Mug (Glass)",
+          "cat": "Barware",
+          "top": "Kitchen & Dining",
+          "level": "L2",
+          "price": 119,
+          "tags": [
+            "novelty",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 16,
+          "action": "left",
+          "id": "p03415",
+          "name": "Closeup Everfresh+ Gel Toothpaste (Red Hot)",
+          "cat": "Oral Care",
+          "top": "Personal Care",
+          "level": "L2",
+          "price": 117,
+          "tags": [
+            "wellness",
+            "grooming"
+          ],
+          "ladder": false,
+          "ok": true
+        }
+      ],
+      "summary": {
+        "swipes": 16,
+        "left": 16,
+        "right": 0,
+        "top": 0,
+        "uniqueSeen": 16,
+        "ladderFirstAt": null,
+        "ladderInLog": [],
+        "boldness": 0,
+        "resolvedGoal": null,
+        "cartCount": 0,
+        "savedCount": 0,
+        "topCategories": [
+          {
+            "key": "Pharma & Wellness",
+            "w": -0.48
+          },
+          {
+            "key": "Bakery & Biscuits",
+            "w": -0.48
+          },
+          {
+            "key": "Kitchen & Dining",
+            "w": -0.48
+          },
+          {
+            "key": "Personal Care",
+            "w": -0.48
+          },
+          {
+            "key": "Non Prescription Medicines",
+            "w": -1.2
+          },
+          {
+            "key": "Bread Pav",
+            "w": -1.2
+          }
+        ],
+        "topTags": [
+          {
+            "key": "supplements",
+            "w": -1.2
+          },
+          {
+            "key": "novelty",
+            "w": -1.2
+          },
+          {
+            "key": "wellness",
+            "w": -2.4
+          },
+          {
+            "key": "beverages",
+            "w": -2.4
+          },
+          {
+            "key": "hydration",
+            "w": -2.4
+          },
+          {
+            "key": "grooming",
+            "w": -2.4
+          },
+          {
+            "key": "weight_loss",
+            "w": -3.6
+          },
+          {
+            "key": "staples",
+            "w": -3.6
+          }
+        ]
+      },
+      "rails": {
+        "learned": true,
+        "reason": "Updated from your swipes",
+        "topPicks": [],
+        "somethingDifferent": [
+          {
+            "id": "p00494",
+            "name": "Nature Forever Society Bird Food",
+            "price": 199,
+            "ladder": false
+          },
+          {
+            "id": "p00471",
+            "name": "PurePet Odor Control Lavender Cat Litter",
+            "price": 285,
+            "ladder": false
+          },
+          {
+            "id": "p00483",
+            "name": "Foodie Puppies Bird Food for Cockatiels",
+            "price": 300,
+            "ladder": false
+          },
+          {
+            "id": "p01894",
+            "name": "Herbal Brews Natural Cleansing Detox Foot Patch",
+            "price": 299,
+            "ladder": false
+          },
+          {
+            "id": "p03348",
+            "name": "Dettol Liquid Hand Wash Refill Pouch (Original Germ Protection)",
+            "price": 173,
+            "ladder": false
+          },
+          {
+            "id": "p03515",
+            "name": "Nivea Men Fresh Active Men's Roll On",
+            "price": 185,
+            "ladder": false
+          },
+          {
+            "id": "p03415",
+            "name": "Closeup Everfresh+ Gel Toothpaste (Red Hot)",
+            "price": 117,
+            "ladder": false
+          },
+          {
+            "id": "p03277",
+            "name": "Joy Pure Aloe Multi Benefit Moisturizing Cream",
+            "price": 143,
+            "ladder": false
+          }
+        ]
+      },
+      "nextHandAfterSwipes": [
+        {
+          "id": "p04081",
+          "name": "Silverex Ionic Gel",
+          "cat": "Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L2",
+          "price": 113,
+          "tags": [
+            "wellness",
+            "beauty"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p02125",
+          "name": "Protein Chef 42g Protein Multigrain Bread - 5 Su",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 69,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01574",
+          "name": "PHC Metal Hair Band (Black)",
+          "cat": "Hair Styling Treatment",
+          "top": "Beauty",
+          "level": "L2",
+          "price": 49,
+          "tags": [
+            "beauty",
+            "household",
+            "grooming"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p03277",
+          "name": "Joy Pure Aloe Multi Benefit Moisturizing Cream",
+          "cat": "Face Body Moisturizers",
+          "top": "Personal Care",
+          "level": "L2",
+          "price": 143,
+          "tags": [
+            "novelty",
+            "explore"
+          ],
+          "ladder": false
+        }
+      ],
+      "sampleNudge": null
+    },
+    {
+      "name": "cart_heavy_protein",
+      "timeWindow": "morning",
+      "poolSize": 181,
+      "coldDeck": [
+        {
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p90012",
+          "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+          "cat": "Bread Pav",
+          "top": "Bakery & Biscuits",
+          "level": "L2",
+          "price": 72,
+          "tags": [
+            "protein",
+            "breakfast",
+            "staples",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01267",
+          "name": "Amul Protein Blueberry Shake (20 g protein)",
+          "cat": "Lassi Shakes More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 60,
+          "tags": [
+            "beverages",
+            "breakfast",
+            "hydration",
+            "protein"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p02062",
+          "name": "Milky Mist Low Fat High Protein Paneer",
+          "cat": "Paneer Tofu",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 120,
+          "tags": [
+            "protein",
+            "breakfast",
+            "cooking",
+            "fitness"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p01916",
+          "name": "Milky Mist Skyr High Protein Plain Yogurt",
+          "cat": "Curd Yogurt",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 65,
+          "tags": [
+            "breakfast",
+            "protein",
+            "fitness"
+          ],
+          "ladder": false
+        }
+      ],
+      "swipes": [
+        {
+          "n": 1,
+          "action": "top",
+          "id": "p04110",
+          "name": "Supradyn Daily Multivitamin For Men & Women",
+          "cat": "Non Prescription Medicines",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 68,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 2,
+          "action": "top",
+          "id": "p07026",
+          "name": "Boldfit Prime Digital Weighing Machine",
+          "cat": "Appliances",
+          "top": "Electronics & Appliances",
+          "level": "L3",
+          "price": 458,
+          "tags": [
+            "fitness",
+            "wellness",
+            "weight_loss"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 3,
+          "action": "top",
+          "id": "p03901",
+          "name": "Centrum Men Multivitamin (For 18+ Years)",
+          "cat": "Health Wellness Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 437,
+          "tags": [
+            "wellness",
+            "supplements",
+            "fitness",
+            "weight_loss"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 4,
+          "action": "top",
+          "id": "p03917",
+          "name": "Nutrabay Gold Micronized Creatine Monohydrate (O",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 296,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 5,
+          "action": "top",
+          "id": "p03914",
+          "name": "Wellcore Micronised Creatine",
+          "cat": "Protein And Workout Supplements",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 539,
+          "tags": [
+            "protein",
+            "fitness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 6,
+          "action": "left",
+          "id": "p01448",
+          "name": "Tencha Hibiscus Flower Herbal Tea",
+          "cat": "Herbal Infusion",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 299,
+          "tags": [
+            "hydration",
+            "wellness"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 7,
+          "action": "top",
+          "id": "p06348",
+          "name": "Boldfit Gym Gallon Plastic Bottle - 2 L",
+          "cat": "Sports Fitness",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 448,
+          "tags": [
+            "fitness_gear",
+            "household",
+            "explore"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 8,
+          "action": "top",
+          "id": "p06349",
+          "name": "Boldfit Gym Supporter Trunks for Men (Black)",
+          "cat": "Sports Fitness",
+          "top": "Pharma & Wellness",
+          "level": "L3",
+          "price": 329,
+          "tags": [
+            "fitness_gear",
+            "household",
+            "grooming"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 9,
+          "action": "left",
+          "id": "p02086",
+          "name": "Amul Salted Butter",
+          "cat": "Butter More",
+          "top": "Dairy & Breakfast",
+          "level": "L2",
+          "price": 58,
+          "tags": [
+            "breakfast",
+            "cooking",
+            "staples",
+            "household"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 10,
+          "action": "left",
+          "id": "p01289",
+          "name": "Sleepy Owl Assorted Instant Coffee",
+          "cat": "Coffee",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 99,
+          "tags": [
+            "beverages",
+            "hydration",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 11,
+          "action": "left",
+          "id": "p01344",
+          "name": "Nestea Ice Tea Premix - Lemon Flavour",
+          "cat": "Cold Coffee Ice Tea",
+          "top": "Beverages",
+          "level": "L4",
+          "price": 186,
+          "tags": [
+            "beverages",
+            "hydration",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 12,
+          "action": "top",
+          "id": "p07027",
+          "name": "Striff Blaze1 Camera Portable LED Light",
+          "cat": "Appliances",
+          "top": "Electronics & Appliances",
+          "level": "L3",
+          "price": 518,
+          "tags": [
+            "household",
+            "electronics",
+            "explore"
+          ],
+          "ladder": true,
+          "ok": true
+        },
+        {
+          "n": 13,
+          "action": "left",
+          "id": "p05831",
+          "name": "Act II Golden Sizzle Popcorn - Instant - Pack of",
+          "cat": "Popcorn",
+          "top": "Snacks & Munchies",
+          "level": "L2",
+          "price": 29,
+          "tags": [
+            "snack",
+            "indulgence",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 14,
+          "action": "left",
+          "id": "p01057",
+          "name": "Choki Choki Chocomilk Shaped Chocolates",
+          "cat": "Chocolate Packs",
+          "top": "Sweet Tooth",
+          "level": "L2",
+          "price": 113,
+          "tags": [
+            "indulgence",
+            "novelty",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 15,
+          "action": "left",
+          "id": "p01062",
+          "name": "Galaxy Smooth Milk Minis Chocolate Pack",
+          "cat": "Chocolate Packs",
+          "top": "Sweet Tooth",
+          "level": "L2",
+          "price": 115,
+          "tags": [
+            "indulgence",
+            "novelty",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 16,
+          "action": "left",
+          "id": "p07861",
+          "name": "Femora Clear Beer Mug (Glass)",
+          "cat": "Barware",
+          "top": "Kitchen & Dining",
+          "level": "L2",
+          "price": 119,
+          "tags": [
+            "novelty",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 17,
+          "action": "left",
+          "id": "p03277",
+          "name": "Joy Pure Aloe Multi Benefit Moisturizing Cream",
+          "cat": "Face Body Moisturizers",
+          "top": "Personal Care",
+          "level": "L2",
+          "price": 143,
+          "tags": [
+            "novelty",
+            "explore"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 18,
+          "action": "left",
+          "id": "p02535",
+          "name": "Orika Red Chilli Flakes Sprinkler",
+          "cat": "Herbs Seasoning",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 76,
+          "tags": [
+            "cooking",
+            "household",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 19,
+          "action": "left",
+          "id": "p02643",
+          "name": "Tata Sampann Unpolished Masoor Dal",
+          "cat": "Moong Masoor",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 81,
+          "tags": [
+            "household",
+            "staples",
+            "convenience"
+          ],
+          "ladder": false,
+          "ok": true
+        },
+        {
+          "n": 20,
+          "action": "left",
+          "id": "p03415",
+          "name": "Closeup Everfresh+ Gel Toothpaste (Red Hot)",
+          "cat": "Oral Care",
+          "top": "Personal Care",
+          "level": "L2",
+          "price": 117,
+          "tags": [
+            "wellness",
+            "grooming"
+          ],
+          "ladder": false,
+          "ok": true
+        }
+      ],
+      "summary": {
+        "swipes": 20,
+        "left": 12,
+        "right": 0,
+        "top": 8,
+        "uniqueSeen": 55,
+        "ladderFirstAt": 2,
+        "ladderInLog": [
+          {
+            "id": "p07026",
+            "name": "Boldfit Prime Digital Weighing Machine",
+            "at": 2
+          },
+          {
+            "id": "p06348",
+            "name": "Boldfit Gym Gallon Plastic Bottle - 2 L",
+            "at": 7
+          },
+          {
+            "id": "p06349",
+            "name": "Boldfit Gym Supporter Trunks for Men (Black)",
+            "at": 8
+          },
+          {
+            "id": "p07027",
+            "name": "Striff Blaze1 Camera Portable LED Light",
+            "at": 12
+          }
+        ],
+        "boldness": 0,
+        "resolvedGoal": "fitness",
+        "cartCount": 8,
+        "savedCount": 0,
+        "topCategories": [
+          {
+            "key": "Pharma & Wellness",
+            "w": 4.8
+          },
+          {
+            "key": "Appliances",
+            "w": 4
+          },
+          {
+            "key": "Protein And Workout Supplements",
+            "w": 4
+          },
+          {
+            "key": "Sports Fitness",
+            "w": 4
+          },
+          {
+            "key": "Non Prescription Medicines",
+            "w": 2
+          },
+          {
+            "key": "Health Wellness Supplements",
+            "w": 2
+          }
+        ],
+        "topTags": [
+          {
+            "key": "fitness",
+            "w": 20
+          },
+          {
+            "key": "weight_loss",
+            "w": 8
+          },
+          {
+            "key": "supplements",
+            "w": 4
+          },
+          {
+            "key": "protein",
+            "w": 4
+          },
+          {
+            "key": "fitness_gear",
+            "w": 4
+          },
+          {
+            "key": "electronics",
+            "w": 2
+          },
+          {
+            "key": "grooming",
+            "w": 1.6
+          },
+          {
+            "key": "wellness",
+            "w": 1.2
+          }
+        ]
+      },
+      "rails": {
+        "learned": true,
+        "reason": "Just ordered Striff Blaze1 Camera Portable LED … — picks refreshed",
+        "topPicks": [
+          {
+            "id": "p03913",
+            "name": "MuscleBlaze Biozyme Performance Whey Protein Powder Sachets (Rich Chocolate)",
+            "price": 799,
+            "ladder": false
+          },
+          {
+            "id": "p03915",
+            "name": "Wellcore Micronised Creatine (Tropical Tango)",
+            "price": 539,
+            "ladder": false
+          },
+          {
+            "id": "p02125",
+            "name": "Protein Chef 42g Protein Multigrain Bread - 5 Superfoods",
+            "price": 69,
+            "ladder": false
+          },
+          {
+            "id": "p01931",
+            "name": "Amul Probiotic High Protein Curd",
+            "price": 80,
+            "ladder": false
+          },
+          {
+            "id": "p08035",
+            "name": "MuscleBlaze Gym Shaker (Silver)",
+            "price": 499,
+            "ladder": true
+          },
+          {
+            "id": "p06346",
+            "name": "Lifelong Exercise Gym Gloves",
+            "price": 176,
+            "ladder": true
+          },
+          {
+            "id": "p06339",
+            "name": "Boldfit Wrist Strap Supporter For Gym",
+            "price": 199,
+            "ladder": true
+          },
+          {
+            "id": "p01267",
+            "name": "Amul Protein Blueberry Shake (20 g protein)",
+            "price": 60,
+            "ladder": false
+          }
+        ],
+        "somethingDifferent": [
+          {
+            "id": "p06352",
+            "name": "Cosco Stretch Resistance Band",
+            "price": 399,
+            "ladder": true
+          },
+          {
+            "id": "p07021",
+            "name": "Kent Stainless Steel Hand Blender (450 W",
+            "price": 1652,
+            "ladder": true
+          },
+          {
+            "id": "p06924",
+            "name": "Hammer 27 W Type C to Lightning Cable",
+            "price": 199,
+            "ladder": true
+          },
+          {
+            "id": "p06995",
+            "name": "boAt Bassheads 95 Wired Earphones (Raging Red)",
+            "price": 279,
+            "ladder": true
+          },
+          {
+            "id": "p01574",
+            "name": "PHC Metal Hair Band (Black)",
+            "price": 49,
+            "ladder": false
+          },
+          {
+            "id": "p03605",
+            "name": "FURR Reusable German Blade Face Razor - Pack of 3",
+            "price": 185,
+            "ladder": false
+          },
+          {
+            "id": "p01797",
+            "name": "Faces Canada Ultime Pro Splash Mini Nail Paint Kit (Pastel Paradise)",
+            "price": 199,
+            "ladder": false
+          },
+          {
+            "id": "p01487",
+            "name": "RENEE Disney Moana Mini Tinted Lip Balm (Beachy Peachy)",
+            "price": 219,
+            "ladder": false
+          }
+        ]
+      },
+      "nextHandAfterSwipes": [
+        {
+          "id": "p05630",
+          "name": "Mother's Recipe Tamarind Paste",
+          "cat": "Cooking Sauces Vinegar",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 59,
+          "tags": [
+            "cooking",
+            "staples",
+            "household"
+          ],
+          "ladder": false
+        },
+        {
+          "id": "p02737",
+          "name": "Fortune Sooji - Pack of 2",
+          "cat": "Besan Sooji Maida",
+          "top": "Grocery Staples",
+          "level": "L2",
+          "price": 77,
+          "tags": [
+            "cooking",
+            "staples",
+            "household"
+          ],
+          "ladder": false
+        }
+      ],
+      "sampleNudge": null
+    }
+  ]
+}

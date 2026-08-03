@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Order again — Swipe discovery MVP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./app.css">
+<style>
+.lead{font-size:12px;color:var(--ink-soft);margin:-4px 0 12px;line-height:1.4}
+.order-card{
+  display:flex;gap:12px;align-items:center;padding:12px;margin-bottom:10px;
+  border:1px solid var(--line);border-radius:var(--r-md);background:#fff;
+}
+.order-card.live{border-color:#9fd4b0;background:#f3fbf6}
+.order-card img{width:56px;height:56px;object-fit:contain;border-radius:10px;background:var(--tile)}
+.order-card strong{display:block;font-size:13px;margin-bottom:2px}
+.order-card .meta{font-size:11px;color:var(--ink-soft)}
+.order-card .tag{
+  display:inline-block;margin-top:4px;font-size:10px;font-weight:800;
+  color:#0d5c2e;background:#e8f7ee;padding:2px 8px;border-radius:999px;
+}
+.order-card button{
+  margin-left:auto;flex:0 0 auto;border:none;border-radius:var(--r-pill);
+  padding:8px 12px;background:var(--brand-green);color:#fff;font:inherit;font-size:11px;font-weight:800;cursor:pointer;
+}
+.order-card button:focus-visible{outline:2px solid var(--cerise);outline-offset:2px}
+.toast{text-align:center;font-size:11px;padding:8px;border-radius:var(--r-sm);background:var(--cerise);color:#fff;display:none;margin-bottom:10px}
+</style>
+</head>
+<body>
+<div class="phone">
+  <div class="scroll">
+    <div id="hero-host"></div>
+    <main class="body">
+      <h2 class="sec-title" id="page-title">Order again</h2>
+      <p class="lead" id="page-lead">Reorder from your last basket. Tap a category above to browse that aisle.</p>
+      <div class="toast" id="toast" role="status"></div>
+      <div id="list"></div>
+    </main>
+  </div>
+  <nav class="nav" id="nav-host"></nav>
+</div>
+<script type="module">
+import { getPersona, setPersonaId, PERSONAS } from "./recommend.js";
+import { mountNav } from "./nav.js";
+import { mountHero, productsForCategory } from "./hero.js";
+import { mountCartSheet } from "./cartSheet.js";
+import { ensureEngine, snapshot } from "./engineBridge.js";
+import { productImageUrl } from "../src/lib/productImage.js";
+import { catalog } from "../src/data/loadDemoData.js";
+
+setPersonaId("yash");
+const persona = PERSONAS.yash || getPersona();
+const toast = document.getElementById("toast");
+const list = document.getElementById("list");
+const titleEl = document.getElementById("page-title");
+const leadEl = document.getElementById("page-lead");
+const catalogById = new Map(catalog.map((p) => [p.id, p]));
+
+function say(msg) {
+  toast.textContent = msg;
+  toast.style.display = "block";
+  setTimeout(() => { toast.style.display = "none"; }, 1400);
+}
+
+function shortName(name = "") {
+  const cut = String(name).split(",")[0].trim();
+  return cut.length > 48 ? `${cut.slice(0, 46)}…` : cut;
+}
+
+/** Live checkout/top-swipe orders + static demo basket. */
+function orderAgainItems() {
+  const snap = snapshot();
+  const liveHist = snap?.persona?.order_history || snap?.state?.last_order?.items || [];
+  const live = [];
+  const seen = new Set();
+
+  // Newest live orders first
+  for (const h of [...liveHist].reverse()) {
+    const id = h.product_id || h.id;
+    if (!id || seen.has(id)) continue;
+    seen.add(id);
+    const cat = catalogById.get(id);
+    live.push({
+      id,
+      name: shortName(h.name || cat?.name || id),
+      price: Math.round(h.price ?? cat?.price ?? 0),
+      cat: h.category || cat?.category || "",
+      image: productImageUrl(cat || h, h.image_url || cat?.image_url),
+      live: true,
+      ordered_at: h.ordered_at || null,
+    });
+  }
+
+  for (const b of persona.basket || []) {
+    const key = b.id || b.name;
+    if (!key || seen.has(key) || seen.has(b.name)) continue;
+    seen.add(key);
+    if (b.id) seen.add(b.id);
+    live.push({
+      id: b.id,
+      name: b.name,
+      price: b.price,
+      cat: b.cat || "",
+      image: b.image,
+      live: false,
+    });
+  }
+  return live;
+}
+
+function render(filterName = "All") {
+  const basket = orderAgainItems();
+  let items;
+  if (filterName === "All") {
+    const liveCount = basket.filter((b) => b.live).length;
+    titleEl.textContent = "Order again";
+    leadEl.textContent = liveCount
+      ? `${basket.length} items · ${liveCount} from orders this session (newest first).`
+      : `Your last orders (${basket.length} items). Checkout or swipe-up adds here live.`;
+    items = basket;
+  } else {
+    titleEl.textContent = filterName;
+    const key = filterName.toLowerCase();
+    const fromOrders = basket.filter((b) => {
+      const cat = (b.cat || "").toLowerCase();
+      return (
+        cat.includes(key) ||
+        key.includes(cat.split(" ")[0] || "") ||
+        (key === "dairy" && cat.includes("dairy")) ||
+        (key === "snacks" && cat.includes("snack")) ||
+        (key === "pharmacy" && cat.includes("pharma"))
+      );
+    });
+    const aisle = productsForCategory(filterName);
+    const seen = new Set(fromOrders.map((p) => p.name));
+    items = [
+      ...fromOrders,
+      ...aisle
+        .filter((p) => !seen.has(p.name))
+        .map((p) => ({
+          id: p.id,
+          name: p.name,
+          price: p.price,
+          cat: p.cat || "",
+          image: p.image,
+          live: false,
+        })),
+    ];
+    leadEl.textContent = fromOrders.length
+      ? `${fromOrders.length} from your orders in ${filterName}, plus aisle picks.`
+      : `Products in ${filterName}. None of these were in your last orders.`;
+  }
+
+  list.innerHTML = items.length
+    ? items
+        .map(
+          (p) => `
+      <article class="order-card${p.live ? " live" : ""}">
+        <img src="${p.image}" alt="">
+        <div>
+          <strong>${p.name}</strong>
+          <div class="meta">Rs ${p.price}${p.cat ? " · " + p.cat : ""}</div>
+          ${p.live ? `<span class="tag">Ordered this session</span>` : ""}
+        </div>
+        <button type="button" data-name="${p.name}">Add</button>
+      </article>`,
+        )
+        .join("")
+    : `<p class="lead">No products in ${filterName} yet.</p>`;
+
+  list.querySelectorAll("button").forEach((btn) => {
+    btn.onclick = () => say(`Added ${btn.dataset.name}`);
+  });
+}
+
+mountHero(document.getElementById("hero-host"), {
+  activeTab: "All",
+  onTabSelect: render,
+});
+mountNav(document.getElementById("nav-host"), "order-again");
+mountCartSheet();
+
+await ensureEngine("yash");
+render("All");
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FBE9E7"/>
+  <circle cx="300" cy="230" r="90" fill="#D84315" opacity="0.15"/>
+  <text x="300" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#D84315" font-weight="700">OG</text>
+  <text x="300" y="380" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#D84315">Oreo Golden Vanilla Sandwich Crea…</text>
+  <text x="300" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#D84315" opacity="0.75">Bakery & Biscuits</text>
+  <text x="300" y="470" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#D84315" font-weight="700">₹76</text>
+  <text x="300" y="560" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#D84315" opacity="0.45">p05195</text>
+</svg>

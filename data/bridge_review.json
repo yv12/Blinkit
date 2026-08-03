@@ -1,0 +1,106 @@
+{
+  "instructions": "Human spot-check 20-30 bridges. Reject any without an honest history link.",
+  "count": 10,
+  "items": [
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Amul Protein Blueberry Shake (20 g protein)",
+      "shared_tag": "beverages",
+      "bridge": "You keep buying Milky Mist paneer, Skyr, and protein bars — this is the same protein habit, new pack.",
+      "bio": "High-protein, no fridge required. Your kind of snack.",
+      "confidence": 0.9,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Amul Taaza Toned Milk",
+      "shared_tag": "breakfast",
+      "bridge": "Between Skyr, Greek yogurt, and high-protein paneer, dairy protein is clearly your lane.",
+      "bio": "Creamy protein, fridge-side. Fits right next to your Skyr.",
+      "confidence": 0.88,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Amul Kool Cafe Hazelnut Flavoured Milk",
+      "shared_tag": "beverages",
+      "bridge": "Between Skyr, Greek yogurt, and high-protein paneer, dairy protein is clearly your lane.",
+      "bio": "Creamy protein, fridge-side. Fits right next to your Skyr.",
+      "confidence": 0.88,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Amul Gold Full Cream Milk",
+      "shared_tag": "breakfast",
+      "bridge": "Between Skyr, Greek yogurt, and high-protein paneer, dairy protein is clearly your lane.",
+      "bio": "Creamy protein, fridge-side. Fits right next to your Skyr.",
+      "confidence": 0.88,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Mother Dairy Full Cream Milk",
+      "shared_tag": "breakfast",
+      "bridge": "Between Skyr, Greek yogurt, and high-protein paneer, dairy protein is clearly your lane.",
+      "bio": "Creamy protein, fridge-side. Fits right next to your Skyr.",
+      "confidence": 0.88,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "4700BC Instant Barbeque Popcorn Jumbo Size",
+      "shared_tag": "cooking",
+      "bridge": "You already rotate Tedhe Medhe, Crax Zero, and Lite Mixture — this is the next munch in that aisle.",
+      "bio": "Crunchy, impulsive, still on-brand for your snack runs.",
+      "confidence": 0.84,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Act II Golden Sizzle Popcorn - Instant - Pack of 3",
+      "shared_tag": "indulgence",
+      "bridge": "You already rotate Tedhe Medhe, Crax Zero, and Lite Mixture — this is the next munch in that aisle.",
+      "bio": "Crunchy, impulsive, still on-brand for your snack runs.",
+      "confidence": 0.84,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L2",
+      "name": "Lotus Biscoff Caramelized Cookies",
+      "shared_tag": "snack",
+      "bridge": "You already rotate Tedhe Medhe, Crax Zero, and Lite Mixture — this is the next munch in that aisle.",
+      "bio": "Crunchy, impulsive, still on-brand for your snack runs.",
+      "confidence": 0.84,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L4",
+      "name": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+      "shared_tag": "wellness",
+      "bridge": "Given your usual Milky Mist Skyr High Protein Plain Yogurt, this late-night treat still fits the story.",
+      "bio": "Late-night soft yes. Cold, impulsive, honest.",
+      "confidence": 0.7,
+      "review_status": "pending"
+    },
+    {
+      "persona": "yash",
+      "level": "L4",
+      "name": "Vahdam Chamomile Mint Citrus Green Tea Bags",
+      "shared_tag": "sleep",
+      "bridge": "Protein-heavy days often need a wind-down — chamomile is the soft hop from your fitness lane.",
+      "bio": "Quiet evening energy. No crunch, no guilt.",
+      "confidence": 0.62,
+      "review_status": "pending"
+    }
+  ]
+}

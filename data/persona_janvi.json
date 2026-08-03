@@ -1,0 +1,124 @@
+{
+  "id": "janvi",
+  "name": "Janvi",
+  "label": "household",
+  "constraints": {
+    "veg_only": false,
+    "price_sensitive": true,
+    "distrusted_top_categories": []
+  },
+  "needs": [
+    "household",
+    "staples",
+    "beverages"
+  ],
+  "goals": [
+    "household"
+  ],
+  "order_history": [
+    {
+      "product_id": "p02102",
+      "name": "English Oven Zero Maida Atta/ Wheat Bread",
+      "category": "Bread Pav",
+      "top_category": "Bakery & Biscuits",
+      "price": 60.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p02103",
+      "name": "Harvest Gold White Bread",
+      "category": "Bread Pav",
+      "top_category": "Bakery & Biscuits",
+      "price": 65.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p02086",
+      "name": "Amul Salted Butter",
+      "category": "Butter More",
+      "top_category": "Dairy & Breakfast",
+      "price": 58.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p01291",
+      "name": "Bru Instant Coffee",
+      "category": "Coffee",
+      "top_category": "Beverages",
+      "price": 119.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p00222",
+      "name": "Wheel Active 2 in 1 Detergent Powder",
+      "category": "Household Needs",
+      "top_category": "Home & Cleaning",
+      "price": 280.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p00223",
+      "name": "Rin Detergent Bar",
+      "category": "Household Needs",
+      "top_category": "Home & Cleaning",
+      "price": 10.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p04345",
+      "name": "Coca-Cola Soft Drink",
+      "category": "Soft Drinks",
+      "top_category": "Beverages",
+      "price": 40.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p04347",
+      "name": "Sprite Lime Flavored Soft Drink",
+      "category": "Soft Drinks",
+      "top_category": "Beverages",
+      "price": 36.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p02642",
+      "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split",
+      "category": "Moong Masoor",
+      "top_category": "Grocery Staples",
+      "price": 99.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p02643",
+      "name": "Tata Sampann Unpolished Masoor Dal",
+      "category": "Moong Masoor",
+      "top_category": "Grocery Staples",
+      "price": 81.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p01905",
+      "name": "Mother Dairy Classic Pouch Curd",
+      "category": "Curd Yogurt",
+      "top_category": "Dairy & Breakfast",
+      "price": 35.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p02034",
+      "name": "Mother Dairy Full Cream Milk",
+      "category": "Milk",
+      "top_category": "Dairy & Breakfast",
+      "price": 36.0,
+      "unit": ""
+    }
+  ],
+  "state": {
+    "accepted_count": 0,
+    "consecutive_dismissals": 0,
+    "boldness_stage": 0,
+    "saved_list": [],
+    "cart": [],
+    "hidden_products": {}
+  }
+}

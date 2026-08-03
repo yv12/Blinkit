@@ -1,0 +1,1423 @@
+[
+  {
+    "product_id": "p01267",
+    "name": "Amul Protein Blueberry Shake (20 g protein)",
+    "category": "Lassi Shakes More",
+    "top_category": "Dairy & Breakfast",
+    "price": 60,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Amul Protein Blueberry Shake (20 g protein) is a great beverage to pair with your breakfast, just like how you've been enjoying Bru Instant Coffee.",
+    "bio": "Janvi, a household enthusiast who loves trying new beverages.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "breakfast",
+      "hydration",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p01267.jpg"
+  },
+  {
+    "product_id": "p04533",
+    "name": "Mogu Mogu Orange Fruit Drink",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "price": 68,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Mogu Mogu Orange Fruit Drink is a great beverage option, just like how you've been enjoying Bru Instant Coffee.",
+    "bio": "Janvi, a household enthusiast who loves trying new beverages.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04533.svg"
+  },
+  {
+    "product_id": "p04527",
+    "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "price": 73,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Mogu Mogu Grape Fruit Drink with Nata De Coco is a great beverage option, just like how you've been enjoying Bru Instant Coffee.",
+    "bio": "Janvi, a household enthusiast who loves trying new beverages.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04527.jpg"
+  },
+  {
+    "product_id": "p04530",
+    "name": "Mogu Mogu Pineapple Fruit Drink",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "price": 73,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Mogu Mogu Pineapple Fruit Drink is a great beverage option, just like how you've been enjoying Bru Instant Coffee.",
+    "bio": "Janvi, a household enthusiast who loves trying new beverages.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04530.svg"
+  },
+  {
+    "product_id": "p03021",
+    "name": "Harpic Advanced Disinfectant Toilet Cleaner",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 123,
+    "level": "L2",
+    "shared_tag": "cleaning",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same cleaning need, just a new category.",
+    "bio": "Single, packed with cleaning, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p03021.svg"
+  },
+  {
+    "product_id": "p02210",
+    "name": "Licious Brown Eggs",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "price": 123,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same breakfast need, just a new category.",
+    "bio": "Single, packed with breakfast, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p02210.svg"
+  },
+  {
+    "product_id": "p06564",
+    "name": "Tata Sampann Hing Powder,Compounded Asafoetida (Bandhani Hing) (Bandhani Hing)",
+    "category": "Powdered Spice",
+    "top_category": "Grocery Staples",
+    "price": 124,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06564.jpg"
+  },
+  {
+    "product_id": "p01419",
+    "name": "So Good High Protein Plant Based Soy Beverage",
+    "category": "Lactose Free Drink",
+    "top_category": "Dairy & Breakfast",
+    "price": 136,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same beverages need, just a new category.",
+    "bio": "Single, packed with beverages, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "breakfast",
+      "hydration",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p01419.jpg"
+  },
+  {
+    "product_id": "p00416",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "price": 138,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same breakfast need, just a new category.",
+    "bio": "Single, packed with breakfast, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00416.jpg"
+  },
+  {
+    "product_id": "p04528",
+    "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco - Pack of 2",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "price": 143,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same beverages need, just a new category.",
+    "bio": "Single, packed with beverages, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04528.svg"
+  },
+  {
+    "product_id": "p04531",
+    "name": "Mogu Mogu Pineapple Fruit Drink - Pack of 2",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "price": 143,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same beverages need, just a new category.",
+    "bio": "Single, packed with beverages, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04531.svg"
+  },
+  {
+    "product_id": "p05363",
+    "name": "Britannia Vita Gold Marie Biscuits",
+    "category": "Glucose Marie",
+    "top_category": "Bakery & Biscuits",
+    "price": 145,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same breakfast need, just a new category.",
+    "bio": "Single, packed with breakfast, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "snack",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p05363.jpg"
+  },
+  {
+    "product_id": "p05969",
+    "name": "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana",
+    "category": "Makhana More",
+    "top_category": "Snacks & Munchies",
+    "price": 150,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "image_url": "/images/p05969.jpg"
+  },
+  {
+    "product_id": "p00350",
+    "name": "Dam Good Fish Rohu Curry Cut with Head",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "price": 152,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same breakfast need, just a new category.",
+    "bio": "Single, packed with breakfast, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00350.jpg"
+  },
+  {
+    "product_id": "p01952",
+    "name": "Quaker Rolled Instant Oats Breakfast Cereal",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "price": 160,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same breakfast need, just a new category.",
+    "bio": "Single, packed with breakfast, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01952.jpg"
+  },
+  {
+    "product_id": "p00401",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Salami (Frozen)",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "price": 165,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy English Oven Zero Maida Atta/ Wheat Bread and Harvest Gold White Bread — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": false,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "protein"
+    ],
+    "goal_tags": [
+      "convenience",
+      "fitness"
+    ],
+    "image_url": "/images/p00401.jpg"
+  },
+  {
+    "product_id": "p01359",
+    "name": "Amul Kool Cafe Hazelnut Flavoured Milk",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "price": 30,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Considering you've bought Coca-Cola Soft Drink, I recommend Amul Kool Cafe Hazelnut Flavoured Milk from the Cold Coffee Ice Tea category to add some extra flavor to your beverages.",
+    "bio": "Janvi, a household enthusiast, loves trying new drinks and is always on the lookout for unique flavors.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01359.jpg"
+  },
+  {
+    "product_id": "p01190",
+    "name": "Brooke Bond Taaza Tea",
+    "category": "Tea",
+    "top_category": "Beverages",
+    "price": 50,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Considering you've bought Coca-Cola Soft Drink, I recommend Brooke Bond Taaza Tea from the Tea category to add some extra flavor to your beverages.",
+    "bio": "Janvi, a household enthusiast, loves trying new drinks and is always on the lookout for unique flavors.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01190.jpg"
+  },
+  {
+    "product_id": "p02193",
+    "name": "Nutrich Farm Fresh Protein Rich Eggs",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "price": 61,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Nutrich Farm Fresh Protein Rich Eggs are a great breakfast option, just like how you've been enjoying English Oven Zero Maida Atta/ Wheat Bread.",
+    "bio": "Janvi, a household enthusiast who loves trying new breakfast recipes.",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p02193.jpg"
+  },
+  {
+    "product_id": "p02195",
+    "name": "Table White Eggs (6 pcs)",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "price": 66,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Table White Eggs (6 pcs) are a great breakfast option, just like how you've been enjoying English Oven Zero Maida Atta/ Wheat Bread.",
+    "bio": "Janvi, a household enthusiast who loves trying new breakfast recipes.",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p02195.svg"
+  },
+  {
+    "product_id": "p01953",
+    "name": "Quaker Rolled Instant Oats",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "price": 86,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Quaker Rolled Instant Oats is a great breakfast option, just like how you've been enjoying English Oven Zero Maida Atta/ Wheat Bread.",
+    "bio": "Janvi, a household enthusiast who loves trying new breakfast recipes.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01953.svg"
+  },
+  {
+    "product_id": "p02205",
+    "name": "Happinest White Eggs",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "price": 88,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You've been buying bread and butter, so I think you'd love Happinest White Eggs for a delicious breakfast!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p02205.svg"
+  },
+  {
+    "product_id": "p00950",
+    "name": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 40,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Since you've purchased Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split, I recommend Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone from the Ice Cream Frozen Dessert category to add some extra flavor to your household.",
+    "bio": "Janvi, a household enthusiast, loves trying new recipes and is always on the lookout for unique ingredients to try.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00950.jpg"
+  },
+  {
+    "product_id": "p05630",
+    "name": "Mother's Recipe Tamarind Paste",
+    "category": "Cooking Sauces Vinegar",
+    "top_category": "Grocery Staples",
+    "price": 59,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Mother's Recipe Tamarind Paste is a great cooking companion, just like how you've been using Wheel Active 2 in 1 Detergent Powder.",
+    "bio": "Janvi, a household enthusiast who loves trying new cooking recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p05630.jpg"
+  },
+  {
+    "product_id": "p02299",
+    "name": "Knorr Spicy Korean Kimchi Soup with No Added Preservatives",
+    "category": "Soup",
+    "top_category": "Instant & Frozen",
+    "price": 62,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Knorr Spicy Korean Kimchi Soup with No Added Preservatives is a great cooking option, just like how you've been using Wheel Active 2 in 1 Detergent Powder.",
+    "bio": "Janvi, a household enthusiast who loves trying new cooking recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02299.jpg"
+  },
+  {
+    "product_id": "p02535",
+    "name": "Orika Red Chilli Flakes Sprinkler",
+    "category": "Herbs Seasoning",
+    "top_category": "Grocery Staples",
+    "price": 76,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Orika Red Chilli Flakes Sprinkler is a great cooking option, just like how you've been using Wheel Active 2 in 1 Detergent Powder.",
+    "bio": "Janvi, a household enthusiast who loves trying new cooking recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02535.jpg"
+  },
+  {
+    "product_id": "p02737",
+    "name": "Fortune Sooji - Pack of 2",
+    "category": "Besan Sooji Maida",
+    "top_category": "Grocery Staples",
+    "price": 77,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Fortune Sooji - Pack of 2 is a great cooking option, just like how you've been using Wheel Active 2 in 1 Detergent Powder.",
+    "bio": "Janvi, a household enthusiast who loves trying new cooking recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p02737.jpg"
+  },
+  {
+    "product_id": "p02057",
+    "name": "Amul Fresh Malai Paneer",
+    "category": "Paneer Tofu",
+    "top_category": "Dairy & Breakfast",
+    "price": 95,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Since you've been purchasing Mother Dairy Full Cream Milk, I think Amul Fresh Malai Paneer would be a great addition to your breakfast routine!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02057.jpg"
+  },
+  {
+    "product_id": "p00126",
+    "name": "Maggi Nutrilicious Veg Atta Noodles Made with Only Atta Flour",
+    "category": "Noodles Pasta Instant",
+    "top_category": "Instant & Frozen",
+    "price": 97,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your history of buying English Oven Zero Maida Atta/ Wheat Bread, I think Maggi Nutrilicious Veg Atta Noodles Made with Only Atta Flour would be a great choice for your cooking needs!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience",
+      "household"
+    ],
+    "image_url": "/images/p00126.jpg"
+  },
+  {
+    "product_id": "p00952",
+    "name": "Amul Gold Duetz Mango Ice Cream Stick",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 20,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your purchase of Amul Salted Butter, I think Amul Gold Duetz Mango Ice Cream Stick from the Ice Cream Frozen Dessert category would be a tasty addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves indulging in sweet treats and is always on the lookout for new desserts to try.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00952.jpg"
+  },
+  {
+    "product_id": "p05875",
+    "name": "4700BC Instant Barbeque Popcorn Jumbo Size",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "price": 27,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your purchase of Rin Detergent Bar, I think 4700BC Instant Barbeque Popcorn Jumbo Size from the Popcorn category would be a fun addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves hosting movie nights and is always on the lookout for new snacks to try.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "snack"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p05875.svg"
+  },
+  {
+    "product_id": "p01574",
+    "name": "PHC Metal Hair Band (Black)",
+    "category": "Hair Styling Treatment",
+    "top_category": "Beauty",
+    "price": 49,
+    "level": "L2",
+    "shared_tag": "household",
+    "tag_type": "need",
+    "bridge": "Since you've purchased Tata Sampann Unpolished Masoor Dal, I recommend PHC Metal Hair Band (Black) from the Hair Styling Treatment category to add some extra style to your household.",
+    "bio": "Janvi, a household enthusiast, loves keeping her home clean and organized, and is always on the lookout for new ways to do so.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p01574.jpg"
+  },
+  {
+    "product_id": "p05743",
+    "name": "Haldiram's Classic Salted Peanuts",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "price": 60,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Haldiram's Classic Salted Peanuts are a great snack to munch on, just like how you've been enjoying Amul Salted Butter.",
+    "bio": "Janvi, a household enthusiast who loves trying new snacks.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "image_url": "/images/p05743.svg"
+  },
+  {
+    "product_id": "p02058",
+    "name": "Mother Dairy Paneer",
+    "category": "Paneer Tofu",
+    "top_category": "Dairy & Breakfast",
+    "price": 95,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Given your history of buying bread and Mother Dairy Full Cream Milk, I think Mother Dairy Paneer would be a fantastic choice for your breakfast!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02058.svg"
+  },
+  {
+    "product_id": "p02629",
+    "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 99,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Since you've been buying Bru Instant Coffee, I think Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar would be a great addition to your beverage routine!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "protein",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "fitness",
+      "household",
+      "indulgence"
+    ],
+    "image_url": "/images/p02629.jpg"
+  },
+  {
+    "product_id": "p01315",
+    "name": "Girnar Detox Desi Kahwa",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 100,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Given your history of buying Bru Instant Coffee, I think Girnar Detox Desi Kahwa would be a great choice for your beverage needs!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01315.jpg"
+  },
+  {
+    "product_id": "p05746",
+    "name": "Let's Try Signature Chana Dal Namkeen - Pack of 2",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "price": 101,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Since you've been buying Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split and Tata Sampann Unpolished Masoor Dal, I think Let's Try Signature Chana Dal Namkeen - Pack of 2 would be a great addition to your cooking needs!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.4,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "image_url": "/images/p05746.jpg"
+  },
+  {
+    "product_id": "p02196",
+    "name": "Licious Farm Fresh Classic White Protein Rich Eggs",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "price": 106,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "Given your history of buying English Oven Zero Maida Atta/ Wheat Bread, I think Licious Farm Fresh Classic White Protein Rich Eggs would be a great choice for your breakfast needs!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.4,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p02196.jpg"
+  },
+  {
+    "product_id": "p03022",
+    "name": "Harpic Disinfectant Liquid Bathroom Cleaner (Lemon - 500 ml)",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 120,
+    "level": "L2",
+    "shared_tag": "cleaning",
+    "tag_type": "need",
+    "bridge": "Since you've been buying Rin Detergent Bar and Wheel Active 2 in 1 Detergent Powder, I think Harpic Disinfectant Liquid Bathroom Cleaner (Lemon - 500 ml) would be a great addition to your cleaning routine!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.4,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p03022.jpg"
+  },
+  {
+    "product_id": "p06928",
+    "name": "Lenovo Standard USB Type-C 65W Laptop Charger (65 W)",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "price": 1455,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "You might want to consider getting a Lenovo Standard USB Type-C 65W Laptop Charger (65 W) since you purchased a Mother Dairy Full Cream Milk recently, which suggests you have a laptop to charge.",
+    "bio": "Janvi here, a busy household manager who's always on the go!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06928.svg"
+  },
+  {
+    "product_id": "p00161",
+    "name": "Banana",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "price": 48,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Given your purchase of Mother Dairy Full Cream Milk, I think Banana from the Vegetables Fruits category would be a great addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves starting her day with a healthy breakfast and is always on the lookout for new fruits to try.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00161.jpg"
+  },
+  {
+    "product_id": "p06497",
+    "name": "Green Chilli (Hari Mirch)",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 16,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Considering you've bought English Oven Zero Maida Atta/ Wheat Bread, I think Green Chilli (Hari Mirch) from the Fresh Vegetables category would be a great addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves baking bread at home and is always on the lookout for fresh ingredients to elevate her recipes.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06497.svg"
+  },
+  {
+    "product_id": "p06498",
+    "name": "Orange Carrot (Gajar)",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 20,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Considering you've bought Bru Instant Coffee, I recommend Orange Carrot (Gajar) from the Fresh Vegetables category to add some extra crunch to your breakfast.",
+    "bio": "Janvi, a household enthusiast, loves starting her day with a cup of coffee and some fresh veggies.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06498.svg"
+  },
+  {
+    "product_id": "p06496",
+    "name": "Onion (Pyaz)",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 41,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Considering you've bought Mother Dairy Classic Pouch Curd, I recommend Onion (Pyaz) from the Fresh Vegetables category to add some extra flavor to your cooking.",
+    "bio": "Janvi, a household enthusiast, loves experimenting with new recipes and is always on the lookout for unique ingredients to try.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06496.jpg"
+  },
+  {
+    "product_id": "p00188",
+    "name": "Organically Grown Brown Coconut",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "price": 54,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "I'd recommend Organically Grown Brown Coconut because it's a great addition to your breakfast routine, just like how you've been enjoying English Oven Zero Maida Atta/ Wheat Bread.",
+    "bio": "Janvi, a household enthusiast who loves trying new breakfast recipes.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00188.jpg"
+  },
+  {
+    "product_id": "p06495",
+    "name": "Onion Pack of 2 (Pyaz)",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 81,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Onion Pack of 2 (Pyaz) is a great breakfast option, just like how you've been enjoying English Oven Zero Maida Atta/ Wheat Bread.",
+    "bio": "Janvi, a household enthusiast who loves trying new breakfast recipes.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06495.svg"
+  },
+  {
+    "product_id": "p04127",
+    "name": "Prolyte Liquid ORS (Orange) - Pack of 3",
+    "category": "Pure Otc",
+    "top_category": "Pharma & Wellness",
+    "price": 95,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Since you've been buying Coca-Cola Soft Drink and Sprite Lime Flavored Soft Drink, I think Prolyte Liquid ORS (Orange) would be a great addition to your hydration routine!",
+    "bio": "Janvi, a household manager, who loves cooking and trying new recipes.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04127.jpg"
+  },
+  {
+    "product_id": "p06478",
+    "name": "Neem Leaves",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "price": 16,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Since you've purchased Harvest Gold White Bread, I recommend Neem Leaves from the Flowers Leaves category to add some extra flavor to your breakfast.",
+    "bio": "Janvi, a household enthusiast, loves experimenting with new recipes and is always on the lookout for unique ingredients to try.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06478.jpg"
+  },
+  {
+    "product_id": "p06499",
+    "name": "Lemon",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 22,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Since you've purchased Wheel Active 2 in 1 Detergent Powder, I recommend Lemon from the Fresh Vegetables category to add some extra freshness to your household.",
+    "bio": "Janvi, a household enthusiast, loves keeping her home clean and organized, and is always on the lookout for new ways to do so.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06499.svg"
+  },
+  {
+    "product_id": "p06423",
+    "name": "Fresh Rosemary",
+    "category": "Exotics",
+    "top_category": "Fruits & Vegetables",
+    "price": 33,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Since you've purchased Sprite Lime Flavored Soft Drink, I recommend Fresh Rosemary from the Exotics category to add some extra flavor to your cooking.",
+    "bio": "Janvi, a household enthusiast, loves experimenting with new recipes and is always on the lookout for unique ingredients to try.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06423.jpg"
+  },
+  {
+    "product_id": "p06500",
+    "name": "Desi Tomato - Pack of 2 (Tamatar)",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "price": 53,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Given your purchase of Rin Detergent Bar, I think Desi Tomato - Pack of 2 (Tamatar) from the Fresh Vegetables category would be a great addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves keeping her home clean and organized, and is always on the lookout for new ways to do so.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06500.svg"
+  },
+  {
+    "product_id": "p00956",
+    "name": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 40,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Given your purchase of Mother Dairy Full Cream Milk, I think Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone from the Ice Cream Frozen Dessert category would be a tasty addition to your household.",
+    "bio": "Janvi, a household enthusiast, loves indulging in sweet treats and is always on the lookout for new desserts to try.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence",
+      "wellness"
+    ],
+    "image_url": "/images/p00956.jpg"
+  },
+  {
+    "product_id": "p03415",
+    "name": "Closeup Everfresh+ Gel Toothpaste (Red Hot)",
+    "category": "Oral Care",
+    "top_category": "Personal Care",
+    "price": 117,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "With your recent purchase of Amul Salted Butter, you might appreciate the whitening benefits of Closeup Everfresh+ Gel Toothpaste (Red Hot).",
+    "bio": "Janvi here, a busy household manager who's always on the go!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p03415.jpg"
+  },
+  {
+    "product_id": "p00177",
+    "name": "Thai Guava (Amrud)",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "price": 124,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "One hop from your wellness vibe — a small lifestyle upgrade worth a peek.",
+    "bio": "Soft launch into wellness. No pressure, just good timing.",
+    "confidence": 0.55,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00177.jpg"
+  }
+]

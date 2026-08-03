@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Print — Swipe discovery MVP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./app.css">
+<style>
+.upload-box{
+  border:1px dashed var(--rose-line);background:var(--rose-tint);border-radius:var(--r-lg);
+  padding:28px 16px;text-align:center;margin-bottom:12px;
+}
+.upload-box p{margin:0 0 12px;font-size:13px;color:var(--rose-dust);line-height:1.4}
+.upload-box strong{display:block;font-size:15px;color:var(--maroon);margin-bottom:6px}
+.upload-box input[type="file"]{display:none}
+.upload-btn,.print-btn{
+  display:inline-block;padding:12px 18px;border:none;border-radius:var(--r-md);cursor:pointer;
+  background:var(--cerise);color:#fff;font:inherit;font-weight:800;font-size:14px;
+}
+.print-btn{display:block;width:100%;margin-top:8px}
+.upload-btn:focus-visible,.print-btn:focus-visible{outline:2px solid var(--cerise);outline-offset:2px}
+.file-name{font-size:12px;color:var(--ink);margin-top:10px;word-break:break-all}
+.preview{margin-top:12px;border:1px solid var(--rose-line);border-radius:var(--r-md);overflow:hidden;display:none}
+.preview img,.preview embed{width:100%;max-height:420px;display:block;background:#fff}
+@media print{
+  body{background:#fff;padding:0}
+  .phone{max-width:none;border-radius:0;max-height:none;height:auto}
+  .nav,.upload-box,.print-btn,.searchbar,.tabs{display:none !important}
+  .preview{display:block !important;border:none}
+  .scroll{overflow:visible}
+}
+</style>
+</head>
+<body>
+<div class="phone">
+  <div class="scroll">
+    <div id="hero-host"></div>
+    <main class="body">
+      <div class="upload-box">
+        <strong>Upload a doc to print</strong>
+        <p>PDF or image — then hit print. No ladder dump on this screen.</p>
+        <label class="upload-btn" for="file">Choose file</label>
+        <input id="file" type="file" accept=".pdf,image/*">
+        <div class="file-name" id="file-name" hidden></div>
+      </div>
+      <div class="preview" id="preview"></div>
+      <button type="button" class="print-btn" id="print" disabled>Print</button>
+    </main>
+  </div>
+  <nav class="nav" id="nav-host"></nav>
+</div>
+<script type="module">
+import { mountNav } from "./nav.js";
+import { mountHero } from "./hero.js";
+import { mountCartSheet } from "./cartSheet.js";
+
+mountHero(document.getElementById("hero-host"));
+mountNav(document.getElementById("nav-host"), "print");
+mountCartSheet();
+
+const input = document.getElementById("file");
+const nameEl = document.getElementById("file-name");
+const preview = document.getElementById("preview");
+const printBtn = document.getElementById("print");
+let objectUrl = null;
+
+input.addEventListener("change", () => {
+  const file = input.files?.[0];
+  if (objectUrl) URL.revokeObjectURL(objectUrl);
+  objectUrl = null;
+  preview.innerHTML = "";
+  preview.style.display = "none";
+  printBtn.disabled = true;
+  if (!file) {
+    nameEl.hidden = true;
+    return;
+  }
+  nameEl.hidden = false;
+  nameEl.textContent = file.name;
+  objectUrl = URL.createObjectURL(file);
+  if (file.type.startsWith("image/")) {
+    preview.innerHTML = `<img src="${objectUrl}" alt="Upload preview">`;
+  } else {
+    preview.innerHTML = `<embed src="${objectUrl}" type="${file.type || "application/pdf"}" height="420">`;
+  }
+  preview.style.display = "block";
+  printBtn.disabled = false;
+});
+
+printBtn.onclick = () => {
+  if (!objectUrl) return;
+  window.print();
+};
+</script>
+</body>
+</html>

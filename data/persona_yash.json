@@ -1,0 +1,174 @@
+{
+  "id": "yash",
+  "name": "Yash",
+  "label": "high-protein-cut",
+  "constraints": {
+    "veg_only": true,
+    "price_sensitive": true,
+    "distrusted_top_categories": []
+  },
+  "needs": [
+    "protein",
+    "snack",
+    "breakfast",
+    "wellness"
+  ],
+  "goals": [
+    "fitness",
+    "weight_loss"
+  ],
+  "order_history": [
+    {
+      "product_id": "p01916",
+      "name": "Milky Mist Skyr High Protein Plain Yogurt",
+      "category": "Curd Yogurt",
+      "top_category": "Dairy & Breakfast",
+      "price": 65,
+      "unit": "100 g"
+    },
+    {
+      "product_id": "p02062",
+      "name": "Milky Mist Low Fat High Protein Paneer",
+      "category": "Paneer Tofu",
+      "top_category": "Dairy & Breakfast",
+      "price": 120,
+      "unit": "200 g"
+    },
+    {
+      "product_id": "p02580",
+      "name": "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar",
+      "category": "Energy Bars",
+      "top_category": "Snacks & Munchies",
+      "price": 80,
+      "unit": "50 g"
+    },
+    {
+      "product_id": "p02629",
+      "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+      "category": "Energy Bars",
+      "top_category": "Snacks & Munchies",
+      "price": 99,
+      "unit": "70 g"
+    },
+    {
+      "product_id": "p02591",
+      "name": "SuperYou Chocolate Wafer Protein Bar - Pack of 4",
+      "category": "Energy Bars",
+      "top_category": "Snacks & Munchies",
+      "price": 205,
+      "unit": "40 g"
+    },
+    {
+      "product_id": "p01961",
+      "name": "Yoga Bar Premium Golden Rolled Oats (Gluten Free)",
+      "category": "Oats",
+      "top_category": "Dairy & Breakfast",
+      "price": 230,
+      "unit": "1 kg"
+    },
+    {
+      "product_id": "p90012",
+      "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+      "category": "Bread Pav",
+      "top_category": "Bakery & Biscuits",
+      "price": 72,
+      "unit": "350 g"
+    },
+    {
+      "product_id": "p05999",
+      "name": "Lay's India's Magic Masala Potato Chips",
+      "category": "Chips Crisps",
+      "top_category": "Snacks & Munchies",
+      "price": 25,
+      "unit": "52.9 g"
+    },
+    {
+      "product_id": "p05997",
+      "name": "Bingo Mad Angles Achaari Masti Crisps / Chips",
+      "category": "Chips Crisps",
+      "top_category": "Snacks & Munchies",
+      "price": 19,
+      "unit": "75 g"
+    },
+    {
+      "product_id": "p05746",
+      "name": "Let's Try Signature Chana Dal Namkeen - Pack of 2",
+      "category": "Bhujia Namkeen",
+      "top_category": "Snacks & Munchies",
+      "price": 57,
+      "unit": "173 g"
+    },
+    {
+      "product_id": "p04339",
+      "name": "Coca-Cola Diet-Coke Diets & Lights - Pack of 6",
+      "category": "Soft Drinks",
+      "top_category": "Beverages",
+      "price": 36,
+      "unit": "750 ml"
+    },
+    {
+      "product_id": "p03022",
+      "name": "Harpic Disinfectant Liquid Bathroom Cleaner (Lemon - 500 ml)",
+      "category": "Toilet Bathroom Cleaners",
+      "top_category": "Home & Cleaning",
+      "price": 163,
+      "unit": "425 ml"
+    },
+    {
+      "product_id": "yash_ors",
+      "name": "Electral ORS Pouch",
+      "category": "Oral Rehydration",
+      "top_category": "Pharma & Wellness",
+      "price": 23,
+      "unit": "21.8 g"
+    },
+    {
+      "product_id": "yash_chana",
+      "name": "Modern Kitchen Roasted Chana",
+      "category": "Roasted Snacks",
+      "top_category": "Snacks & Munchies",
+      "price": 56,
+      "unit": "450 g"
+    },
+    {
+      "product_id": "yash_cheese",
+      "name": "Go Cheese Slices",
+      "category": "Cheese",
+      "top_category": "Dairy & Breakfast",
+      "price": 91,
+      "unit": "200 g"
+    },
+    {
+      "product_id": "yash_crax",
+      "name": "Crax Zero No Palm Oil Masala Potato Chips",
+      "category": "Chips Crisps",
+      "top_category": "Snacks & Munchies",
+      "price": 32,
+      "unit": "65 g"
+    },
+    {
+      "product_id": "yash_soya",
+      "name": "MasterChow Dark Soya Sauce",
+      "category": "Sauces Spreads",
+      "top_category": "Sauces & Spreads",
+      "price": 51,
+      "unit": "210 g"
+    },
+    {
+      "product_id": "yash_bura",
+      "name": "Uttam Double Refined Sulphurfree Bura Sugar",
+      "category": "Sugar",
+      "top_category": "Grocery Staples",
+      "price": 50,
+      "unit": "500 g"
+    }
+  ],
+  "state": {
+    "accepted_count": 0,
+    "consecutive_dismissals": 0,
+    "boldness_stage": 0,
+    "saved_list": [],
+    "cart": [],
+    "hidden_products": {}
+  }
+}

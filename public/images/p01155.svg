@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FCE4EC"/>
+  <circle cx="300" cy="230" r="90" fill="#C2185B" opacity="0.15"/>
+  <text x="300" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#C2185B" font-weight="700">LL</text>
+  <text x="300" y="380" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#C2185B">Lindt Lindor Assorted Chocolate G…</text>
+  <text x="300" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#C2185B" opacity="0.75">Sweet Tooth</text>
+  <text x="300" y="470" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#C2185B" font-weight="700">₹1199</text>
+  <text x="300" y="560" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#C2185B" opacity="0.45">p01155</text>
+</svg>

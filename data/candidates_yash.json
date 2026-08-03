@@ -1,0 +1,301 @@
+[
+  {
+    "product_id": "p03913",
+    "name": "MuscleBlaze Biozyme Performance Whey Protein Powder Sachets (Rich Chocolate)",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 799,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "As a consumer of high-protein products such as Milky Mist Low Fat High Protein Paneer, MuscleBlaze Biozyme Performance Whey Protein Powder Sachets could be a great addition to Yash's fitness routine.",
+    "bio": "Protein power, activate!",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "fitness"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "image_url": "/images/p03913.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p01267",
+    "name": "Amul Protein Blueberry Shake (20 g protein)",
+    "category": "Lassi Shakes More",
+    "top_category": "Dairy & Breakfast",
+    "price": 60,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Yash has been buying high-protein items like Milky Mist Skyr High Protein Plain Yogurt and RiteBite Max Protein Daily Choco Almond 10 g Protein Bar, so a protein shake like Amul Protein Blueberry Shake would fit their needs.",
+    "bio": "Shake things up with a protein boost!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "breakfast",
+      "hydration",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p01267.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p04110",
+    "name": "Supradyn Daily Multivitamin For Men & Women",
+    "category": "Non Prescription Medicines",
+    "top_category": "Pharma & Wellness",
+    "price": 68,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "As Yash is focused on fitness and weight loss, a daily multivitamin like Supradyn Daily Multivitamin For Men & Women could support their overall wellness goals.",
+    "bio": "Fuel your fitness journey with the right supplements!",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "wellness",
+      "supplements"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "image_url": "/images/p04110.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p03917",
+    "name": "Nutrabay Gold Micronized Creatine Monohydrate (Orange)",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 296,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Yash buys high-protein items like Milky Mist Skyr High Protein Plain Yogurt and RiteBite Max Protein Daily Choco Almond 10 g Protein Bar, so a protein supplement like Wellcore Micronised Creatine fits their needs.",
+    "bio": "Get fit with me!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p03917.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p08035",
+    "name": "MuscleBlaze Gym Shaker (Silver)",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "price": 499,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Yash buys high-protein items like Milky Mist Skyr High Protein Plain Yogurt and has a history of purchasing fitness-related snacks, so a hydration-focused product like Borosil Go Sport Thermal Bottle fits their needs.",
+    "bio": "Stay hydrated with me!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p08035.webp",
+    "in_stock": true
+  },
+  {
+    "product_id": "p06346",
+    "name": "Lifelong Exercise Gym Gloves",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "price": 176,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Yash's interest in high-protein products and fitness suggests they might be working out, making gym gloves like Lifelong Exercise Gym Gloves a useful addition to their routine.",
+    "bio": "Grip your fitness goals with confidence!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p06346.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p03901",
+    "name": "Centrum Men Multivitamin (For 18+ Years)",
+    "category": "Health Wellness Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 437,
+    "level": "L3",
+    "shared_tag": "weight_loss",
+    "tag_type": "goal",
+    "bridge": "Given Yash's purchase history of low-sugar and high-protein items, a multivitamin like Centrum Men Multivitamin could support their weight loss and fitness goals.",
+    "bio": "Nourish your body for a healthier tomorrow!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "wellness",
+      "supplements"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "image_url": "/images/p03901.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p07026",
+    "name": "Boldfit Prime Digital Weighing Machine",
+    "category": "Appliances",
+    "top_category": "Electronics & Appliances",
+    "price": 458,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Given Yash's history of purchasing high-protein items and protein bars, a digital weighing machine like Boldfit Prime Digital Weighing Machine can help track progress towards their fitness goals.",
+    "bio": "Weigh your way to fitness!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "fitness",
+      "wellness"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "image_url": "/images/p07026.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p06352",
+    "name": "Cosco Stretch Resistance Band",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "price": 399,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Yash's interest in high-protein products suggests a focus on fitness; Cosco Stretch Resistance Band can aid in achieving fitness goals through varied workouts.",
+    "bio": "Stretch your limits!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06352.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p03886",
+    "name": "Vicks ZzzQuil Natura Melatonin Sleep Gummies",
+    "category": "Health Wellness Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 204,
+    "level": "L4",
+    "shared_tag": "sleep",
+    "tag_type": "halo",
+    "bridge": "With a focus on fitness and weight loss, adequate sleep is crucial; Vicks ZzzQuil Natura Melatonin Sleep Gummies could help Yash recover and sleep better.",
+    "bio": "Sleep better, recover faster!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "sleep",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p03886.jpg",
+    "in_stock": true
+  },
+  {
+    "product_id": "p01340",
+    "name": "Vahdam Chamomile Mint Citrus Green Tea Bags",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 208,
+    "level": "L4",
+    "shared_tag": "sleep",
+    "tag_type": "halo",
+    "bridge": "After a workout, recovery is key; Blue Tea Chamomile Flower Herbal Infusion can help Yash unwind and improve sleep quality, supporting overall wellness.",
+    "bio": "Sleep tight, fitness friend!",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01340.jpg",
+    "in_stock": true
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "id": "bardhan",
+  "name": "Bardhan",
+  "label": "explorer",
+  "constraints": {
+    "veg_only": false,
+    "price_sensitive": false,
+    "distrusted_top_categories": [
+      "Electronics & Appliances"
+    ]
+  },
+  "needs": [
+    "indulgence",
+    "novelty"
+  ],
+  "goals": [
+    "explore"
+  ],
+  "order_history": [
+    {
+      "product_id": "p04527",
+      "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco",
+      "category": "Imported Beverages",
+      "top_category": "Beverages",
+      "price": 73.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p04530",
+      "name": "Mogu Mogu Pineapple Fruit Drink",
+      "category": "Imported Beverages",
+      "top_category": "Beverages",
+      "price": 73.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p04533",
+      "name": "Mogu Mogu Orange Fruit Drink",
+      "category": "Imported Beverages",
+      "top_category": "Beverages",
+      "price": 68.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p00951",
+      "name": "Amul Vanilla Magic Ice Cream Tub",
+      "category": "Ice Cream Frozen Dessert",
+      "top_category": "Instant & Frozen",
+      "price": 195.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p00950",
+      "name": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+      "category": "Ice Cream Frozen Dessert",
+      "top_category": "Instant & Frozen",
+      "price": 40.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p00954",
+      "name": "Havmor Slice Cassata Ice Cream",
+      "category": "Ice Cream Frozen Dessert",
+      "top_category": "Instant & Frozen",
+      "price": 65.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p05127",
+      "name": "Britannia Good Day Butter Cookies",
+      "category": "Cookies",
+      "top_category": "Bakery & Biscuits",
+      "price": 35.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p05126",
+      "name": "Hide & Seek Chocolate Chip Cookies",
+      "category": "Cookies",
+      "top_category": "Bakery & Biscuits",
+      "price": 48.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p05131",
+      "name": "Lotus Biscoff Caramelized Cookies",
+      "category": "Cookies",
+      "top_category": "Bakery & Biscuits",
+      "price": 30.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p04340",
+      "name": "Diet Coke Diets & Lights",
+      "category": "Soft Drinks",
+      "top_category": "Beverages",
+      "price": 50.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p01371",
+      "name": "Flurys Pure Chamomile Organic Herbal Infusion Bags",
+      "category": "Imported Tea Coffee",
+      "top_category": "Beverages",
+      "price": 234.0,
+      "unit": ""
+    },
+    {
+      "product_id": "p05996",
+      "name": "Bingo Mad Angles Achaari Masti Crisps / Chips - Pack of 3",
+      "category": "Chips Crisps",
+      "top_category": "Snacks & Munchies",
+      "price": 51.0,
+      "unit": ""
+    }
+  ],
+  "state": {
+    "accepted_count": 0,
+    "consecutive_dismissals": 0,
+    "boldness_stage": 0,
+    "saved_list": [],
+    "cart": [],
+    "hidden_products": {}
+  }
+}

@@ -1,0 +1,1817 @@
+[
+  {
+    "product_id": "p02432",
+    "name": "Cornitos Sliced Jalapeno Peppers - Pack of 3",
+    "category": "Ready To Cook Eat",
+    "top_category": "Instant & Frozen",
+    "price": 369,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Cornitos Sliced Jalapeno Peppers - Pack of 3 are a great addition to your kitchen, perfect for making a variety of spicy dishes, including those you might enjoy after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02432.jpg"
+  },
+  {
+    "product_id": "p03020",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) Pack of 2",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 414,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) Pack of 2 is a great addition to your cleaning routine, perfect for keeping your kitchen clean after making a variety of dishes, including those you might enjoy after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03020.svg"
+  },
+  {
+    "product_id": "p08035",
+    "name": "MuscleBlaze Gym Shaker (Silver)",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "price": 499,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "MuscleBlaze Gym Shaker (Silver) is a great addition to your kitchen, perfect for making a variety of protein shakes, including those you might enjoy after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p08035.webp"
+  },
+  {
+    "product_id": "p07913",
+    "name": "Lifelong 3 Plates Idli Maker (Stainless Steel)",
+    "category": "Cookware Sets",
+    "top_category": "Kitchen & Dining",
+    "price": 707,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Lifelong 3 Plates Idli Maker (Stainless Steel) is a great addition to your kitchen, perfect for making a variety of dishes, including those you might enjoy after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07913.jpg"
+  },
+  {
+    "product_id": "p00037",
+    "name": "Rosier Bilona A2 Gir Ghee (Made from Curd)",
+    "category": "Grocery Staples",
+    "top_category": "Grocery Staples",
+    "price": 2024,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Rosier Bilona A2 Gir Ghee (Made from Curd) is a great addition to your kitchen, perfect for making a variety of dishes, including those you might enjoy after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00037.jpg"
+  },
+  {
+    "product_id": "p01952",
+    "name": "Quaker Rolled Instant Oats Breakfast Cereal",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "price": 160,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01952.jpg"
+  },
+  {
+    "product_id": "p00401",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Salami (Frozen)",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "price": 165,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": false,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "protein"
+    ],
+    "goal_tags": [
+      "convenience",
+      "fitness"
+    ],
+    "image_url": "/images/p00401.jpg"
+  },
+  {
+    "product_id": "p01344",
+    "name": "Nestea Ice Tea Premix - Lemon Flavour",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "price": 186,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "You buy Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink — this hits the same beverages need, just a new category.",
+    "bio": "Single, packed with beverages, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01344.jpg"
+  },
+  {
+    "product_id": "p03845",
+    "name": "THE MODERN RITUAL Lemon Anti Hangover Effervescent Tablets",
+    "category": "Hangover Cure",
+    "top_category": "Pharma & Wellness",
+    "price": 189,
+    "level": "L2",
+    "shared_tag": "novelty",
+    "tag_type": "need",
+    "bridge": "You buy Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink — this hits the same novelty need, just a new category.",
+    "bio": "Single, packed with novelty, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p03845.jpg"
+  },
+  {
+    "product_id": "p04458",
+    "name": "Raw Pressery Coconut Water - Pack of 6",
+    "category": "Coconut Water",
+    "top_category": "Beverages",
+    "price": 190,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "You buy Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink — this hits the same beverages need, just a new category.",
+    "bio": "Single, packed with beverages, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p04458.jpg"
+  },
+  {
+    "product_id": "p01103",
+    "name": "Alpenliebe Eclairs Toffee Bouquet",
+    "category": "Candies Gum",
+    "top_category": "Sweet Tooth",
+    "price": 213,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Alpenliebe Eclairs Toffee Bouquet is a great indulgence product to try, just like how you enjoy Amul Vanilla Magic Ice Cream Tub.",
+    "bio": "Bardhan loves indulging in tasty treats!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p01103.jpg"
+  },
+  {
+    "product_id": "p05867",
+    "name": "4700BC Microwave Cheese Popcorn with Seasoning - Pack of 3",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "price": 215,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "4700BC Microwave Cheese Popcorn with Seasoning - Pack of 3 is a great indulgence product to try, just like how you enjoy Amul Vanilla Magic Ice Cream Tub.",
+    "bio": "Bardhan loves indulging in tasty treats!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p05867.svg"
+  },
+  {
+    "product_id": "p05452",
+    "name": "The Baker's Dozen Dark Chocolate Cookies",
+    "category": "Gourmet Bakery",
+    "top_category": "Bakery & Biscuits",
+    "price": 225,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Try The Baker's Dozen Dark Chocolate Cookies to satisfy your sweet tooth like you do with Mogu Mogu Grape Fruit Drink with Nata De Coco.",
+    "bio": "Bardhan's a sucker for sweet treats!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p05452.jpg"
+  },
+  {
+    "product_id": "p01961",
+    "name": "Yoga Bar Premium Golden Rolled Oats (Gluten Free)",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "price": 230,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Yoga Bar Premium Golden Rolled Oats (Gluten Free) is a great cooking companion, just like Mother Dairy Salted Butter (500 g)!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01961.jpg"
+  },
+  {
+    "product_id": "p00528",
+    "name": "HUFT Sara's Wholesome Fresh Dog Food - Classic Chicken & Brown Rice",
+    "category": "Dog Needs",
+    "top_category": "Pet Care",
+    "price": 238,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "HUFT Sara's Wholesome Fresh Dog Food - Classic Chicken & Brown Rice is a great cooking companion, just like Mother Dairy Salted Butter (500 g)!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cooking",
+      "pet",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "pet_care"
+    ],
+    "image_url": "/images/p00528.jpg"
+  },
+  {
+    "product_id": "p05970",
+    "name": "Only Truth Premium Makhana",
+    "category": "Makhana More",
+    "top_category": "Snacks & Munchies",
+    "price": 269,
+    "level": "L2",
+    "shared_tag": "snack",
+    "tag_type": "need",
+    "bridge": "Only Truth Premium Makhana is a tasty snack, just like Britannia Good Day Butter Cookies!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "image_url": "/images/p05970.jpg"
+  },
+  {
+    "product_id": "p05469",
+    "name": "Sapphire Butter Biscuits Gift Pack (Gold Collection)",
+    "category": "Biscuit Gift Pack",
+    "top_category": "Bakery & Biscuits",
+    "price": 299,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Sapphire Butter Biscuits Gift Pack (Gold Collection) is a sweet indulgence, just like Amul Vanilla Magic Ice Cream Tub!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p05469.jpg"
+  },
+  {
+    "product_id": "p01223",
+    "name": "Complan Kids Nutrition Drink Mix (Royal Chocolate)",
+    "category": "Milk Drinks",
+    "top_category": "Dairy & Breakfast",
+    "price": 300,
+    "level": "L2",
+    "shared_tag": "hydration",
+    "tag_type": "need",
+    "bridge": "Complan Kids Nutrition Drink Mix (Royal Chocolate) is a great hydration companion, just like Flurys Pure Chamomile Organic Herbal Infusion Bags!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "snack",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience",
+      "wellness"
+    ],
+    "image_url": "/images/p01223.jpg"
+  },
+  {
+    "product_id": "p02090",
+    "name": "Mother Dairy Salted Butter (500 g)",
+    "category": "Butter More",
+    "top_category": "Dairy & Breakfast",
+    "price": 310,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You already know the taste of Amul Vanilla Magic Ice Cream Tub, so why not try Mother Dairy Salted Butter (500 g) for cooking?",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p02090.svg"
+  },
+  {
+    "product_id": "p04042",
+    "name": "SynoCare Disposable Surgical Mask (Black)",
+    "category": "Masks Sanitizers",
+    "top_category": "Personal Care",
+    "price": 365,
+    "level": "L2",
+    "shared_tag": "novelty",
+    "tag_type": "need",
+    "bridge": "Try SynoCare Disposable Surgical Mask (Black) to stay safe and healthy, just like you did with Mogu Mogu Grape Fruit Drink with Nata De Coco!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p04042.jpg"
+  },
+  {
+    "product_id": "p01167",
+    "name": "4700BC Nutty Tuxedo Chocolate Gourmet Popcorn Tin",
+    "category": "Chocolate Gift Pack",
+    "top_category": "Sweet Tooth",
+    "price": 428,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "4700BC Nutty Tuxedo Chocolate Gourmet Popcorn Tin is a great indulgence after enjoying a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p01167.jpg"
+  },
+  {
+    "product_id": "p08019",
+    "name": "Borosil Go Sport Thermal Bottle (Black)",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "price": 809,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You might enjoy the Borosil Go Sport Thermal Bottle (Black) as it's perfect for keeping your imported Mogu Mogu drinks chilled on-the-go.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p08019.jpg"
+  },
+  {
+    "product_id": "p01155",
+    "name": "Lindt Lindor Assorted Chocolate Gift Pack",
+    "category": "Chocolate Gift Pack",
+    "top_category": "Sweet Tooth",
+    "price": 1199,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Treat yourself to Lindt Lindor Assorted Chocolate Gift Pack, the perfect indulgence after enjoying a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p01155.jpg"
+  },
+  {
+    "product_id": "p02591",
+    "name": "SuperYou Chocolate Wafer Protein Bar - Pack of 4",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 205,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "SuperYou Chocolate Wafer Protein Bar - Pack of 4 is a great snack product to try, just like how you enjoy Bingo Mad Angles Achaari Masti Crisps / Chips - Pack of 3.",
+    "bio": "Bardhan loves snacking on the go!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration",
+      "indulgence",
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02591.jpg"
+  },
+  {
+    "product_id": "p02584",
+    "name": "SuperYou Strawberry Creme Wafer Protein Bar - Pack of 4",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 205,
+    "level": "L2",
+    "shared_tag": "snack",
+    "tag_type": "need",
+    "bridge": "SuperYou Strawberry Creme Wafer Protein Bar - Pack of 4 is a great snack product to try, just like how you enjoy Bingo Mad Angles Achaari Masti Crisps / Chips - Pack of 3.",
+    "bio": "Bardhan loves snacking on the go!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02584.jpg"
+  },
+  {
+    "product_id": "p03561",
+    "name": "The Derma Co Sali-Cinamide Anti-Acne Face Wash",
+    "category": "Face Cleaning",
+    "top_category": "Personal Care",
+    "price": 224,
+    "level": "L2",
+    "shared_tag": "novelty",
+    "tag_type": "need",
+    "bridge": "The Derma Co Sali-Cinamide Anti-Acne Face Wash is a great novelty product to try, just like how you enjoy trying new flavors of Mogu Mogu Fruit Drinks.",
+    "bio": "Bardhan loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p03561.jpg"
+  },
+  {
+    "product_id": "p01287",
+    "name": "Nescafe Classic - 100% Pure Instant Coffee Powder",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "price": 230,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Nescafe Classic - 100% Pure Instant Coffee Powder is a great beverage, just like Mogu Mogu Grape Fruit Drink with Nata De Coco!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01287.jpg"
+  },
+  {
+    "product_id": "p00997",
+    "name": "Rasgulla by Haldiram's",
+    "category": "Indian Sweets",
+    "top_category": "Sweet Tooth",
+    "price": 240,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Rasgulla by Haldiram's is a sweet indulgence, just like Amul Vanilla Magic Ice Cream Tub!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p00997.jpg"
+  },
+  {
+    "product_id": "p02190",
+    "name": "Real Thai Rice Vermicelli",
+    "category": "Vermicelli",
+    "top_category": "Instant & Frozen",
+    "price": 270,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Real Thai Rice Vermicelli is a great cooking companion, just like Mother Dairy Salted Butter (500 g)!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience",
+      "household"
+    ],
+    "image_url": "/images/p02190.jpg"
+  },
+  {
+    "product_id": "p02587",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 4",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 304,
+    "level": "L2",
+    "shared_tag": "snack",
+    "tag_type": "need",
+    "bridge": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 4 is a great snack, just like Hide & Seek Chocolate Chip Cookies!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02587.svg"
+  },
+  {
+    "product_id": "p02468",
+    "name": "Meatzza Krispy Fried Chicken (Frozen)",
+    "category": "Frozen Non Veg Snacks",
+    "top_category": "Instant & Frozen",
+    "price": 323,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Meatzza Krispy Fried Chicken (Frozen) is a great cooking companion, just like Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": false,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "snack"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p02468.jpg"
+  },
+  {
+    "product_id": "p06680",
+    "name": "Dates Laddu by Sweet Karam Coffee (No Added Sugar) - Pack of 2",
+    "category": "Dry Fruit Gift Packs",
+    "top_category": "Grocery Staples",
+    "price": 728,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Indulge in the sweet treat of Dates Laddu by Sweet Karam Coffee (No Added Sugar) - Pack of 2, perfect for satisfying your cravings after a Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06680.jpg"
+  },
+  {
+    "product_id": "p03019",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original)",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 209,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) is a great cooking product to try, but it doesn't seem to align with your recent purchases.",
+    "bio": "Bardhan's a fan of cooking!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03019.jpg"
+  },
+  {
+    "product_id": "p03028",
+    "name": "Harpic Disinfectant Toilet Bleach (White and Shine) Pack of 2",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 212,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Harpic Disinfectant Toilet Bleach (White and Shine) Pack of 2 is a great cooking product to try, but it doesn't seem to align with your recent purchases.",
+    "bio": "Bardhan's a fan of cooking!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03028.svg"
+  },
+  {
+    "product_id": "p01286",
+    "name": "Nescafe Classic Black Roast Instant Coffee (Rich & Strong)",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "price": 404,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Nescafe Classic Black Roast Instant Coffee (Rich & Strong) is a great companion to your active lifestyle, especially after enjoying a refreshing Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01286.jpg"
+  },
+  {
+    "product_id": "p02578",
+    "name": "Green Protein Crave Protein Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 627,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Green Protein Crave Protein Bar is a great companion to your active lifestyle, especially after enjoying a refreshing Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "image_url": "/images/p02578.svg"
+  },
+  {
+    "product_id": "p04173",
+    "name": "Tata 1mg Compact Nebulizer (for Respiratory Care)",
+    "category": "Healthcare Devices Test Kits",
+    "top_category": "Pharma & Wellness",
+    "price": 1542,
+    "level": "L2",
+    "shared_tag": "novelty",
+    "tag_type": "need",
+    "bridge": "Tata 1mg Compact Nebulizer (for Respiratory Care) is a great companion to your active lifestyle, especially after enjoying a refreshing Mogu Mogu drink.",
+    "bio": "Bardhan, the explorer, loves trying new things.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p04173.jpg"
+  },
+  {
+    "product_id": "p00349",
+    "name": "ITC Master Chef Medium Prawns with Piri Piri Masala",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "price": 200,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Try ITC Master Chef Medium Prawns with Piri Piri Masala for a convenient seafood option, just like how you enjoy the convenience of Mogu Mogu Orange Fruit Drink (https://example.com/product/Mogu%20Mogu%20Orange%20Fruit%20Drink).",
+    "bio": "You're a seafood explorer at heart, Bardhan!",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00349.jpg"
+  },
+  {
+    "product_id": "p00347",
+    "name": "ITC Master Chef Large Prawns Peeled & Deveined",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "price": 226,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Try ITC Master Chef Large Prawns Peeled & Deveined for a convenient seafood option, just like how you enjoy the convenience of Mogu Mogu Grape Fruit Drink with Nata De Coco (https://example.com/product/Mogu%20Mogu%20Grape%20Fruit%20Drink%20with%20Nata%20De%20Coco).",
+    "bio": "You're a seafood explorer at heart, Bardhan!",
+    "confidence": 0.8,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00347.jpg"
+  },
+  {
+    "product_id": "p00287",
+    "name": "420 Rolling Tray - LIT",
+    "category": "Household Items",
+    "top_category": "Home & Cleaning",
+    "price": 449,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd love the 420 Rolling Tray - LIT because you've shown a penchant for trying new things with your frequent purchases of Mogu Mogu Grape Fruit Drink with Nata De Coco and Mogu Mogu Pineapple Fruit Drink.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00287.jpg"
+  },
+  {
+    "product_id": "p06293",
+    "name": "Brass Aaradhya Akhand Diya by Shubhkart (9.5 x 12 cm)",
+    "category": "Home Decor",
+    "top_category": "Home & Cleaning",
+    "price": 478,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Brass Aaradhya Akhand Diya by Shubhkart (9.5 x 12 cm) is a great convenience product to try, just like how you enjoy Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan loves convenience!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06293.jpg"
+  },
+  {
+    "product_id": "p07890",
+    "name": "Irida Naturals Wheat Straw Plate Set (Multicolour)",
+    "category": "Dining And Serveware",
+    "top_category": "Kitchen & Dining",
+    "price": 499,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Irida Naturals Wheat Straw Plate Set (Multicolour) is a great convenience product to try, just like how you enjoy Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan loves convenience!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07890.jpg"
+  },
+  {
+    "product_id": "p02169",
+    "name": "Mother Dairy - Dairy Whitener - Pack of 2",
+    "category": "Cream Whitener",
+    "top_category": "Dairy & Breakfast",
+    "price": 533,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Mother Dairy - Dairy Whitener - Pack of 2 is a great convenience product to try, just like how you enjoy Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan loves convenience!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02169.svg"
+  },
+  {
+    "product_id": "p00221",
+    "name": "Surf Excel Easy Wash Detergent Powder",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "price": 778,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Surf Excel Easy Wash Detergent Powder is a great convenience product to try, just like how you enjoy Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan loves convenience!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00221.jpg"
+  },
+  {
+    "product_id": "p01933",
+    "name": "Epigamia Natural Greek Yogurt (400 g) - Pack of 6",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "price": 1425,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Epigamia Natural Greek Yogurt (400 g) - Pack of 6 is a great convenience product to try, just like how you enjoy Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan loves convenience!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01933.jpg"
+  },
+  {
+    "product_id": "p00350",
+    "name": "Dam Good Fish Rohu Curry Cut with Head",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "price": 152,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Dam Good Fish Rohu Curry Cut with Head is a great choice for a convenient meal, similar to how you often grab Britannia Good Day Butter Cookies (https://example.com/product/Britannia%20Good%20Day%20Butter%20Cookies).",
+    "bio": "You're always on the lookout for a quick and easy meal, Bardhan!",
+    "confidence": 0.7,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00350.jpg"
+  },
+  {
+    "product_id": "p00356",
+    "name": "Licious Chicken Curry Cut (Small Pieces)",
+    "category": "Chicken",
+    "top_category": "Meat Fish & Eggs",
+    "price": 215,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Licious Chicken Curry Cut (Small Pieces) is a great choice for a convenient meal, similar to how you often grab Mogu Mogu Pineapple Fruit Drink (https://example.com/product/Mogu%20Mogu%20Pineapple%20Fruit%20Drink).",
+    "bio": "You're always on the lookout for a quick and easy meal, Bardhan!",
+    "confidence": 0.7,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00356.jpg"
+  },
+  {
+    "product_id": "p06352",
+    "name": "Cosco Stretch Resistance Band",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "price": 399,
+    "level": "L3",
+    "shared_tag": "explore",
+    "tag_type": "goal",
+    "bridge": "I think you'd enjoy the Cosco Stretch Resistance Band because your love for imported beverages, like Mogu Mogu Pineapple Fruit Drink, suggests you're always looking for ways to stay active.",
+    "bio": "Bardhan, the explorer, is always on the move!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06352.jpg"
+  },
+  {
+    "product_id": "p06348",
+    "name": "Boldfit Gym Gallon Plastic Bottle - 2 L",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "price": 448,
+    "level": "L3",
+    "shared_tag": "explore",
+    "tag_type": "goal",
+    "bridge": "I think you'd appreciate the Boldfit Gym Gallon Plastic Bottle - 2 L because your love for imported beverages, like Mogu Mogu Orange Fruit Drink, suggests you're always looking for ways to stay active.",
+    "bio": "Bardhan, the explorer, is always on the move!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06348.jpg"
+  },
+  {
+    "product_id": "p03021",
+    "name": "Harpic Advanced Disinfectant Toilet Cleaner",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 123,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "You're clearly into convenience — people on that path usually try this next.",
+    "bio": "Not your usual aisle. Same convenience energy, different craving.",
+    "confidence": 0.68,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p03021.svg"
+  },
+  {
+    "product_id": "p00416",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "price": 138,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "You're clearly into convenience — people on that path usually try this next.",
+    "bio": "Not your usual aisle. Same convenience energy, different craving.",
+    "confidence": 0.68,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00416.jpg"
+  },
+  {
+    "product_id": "p01938",
+    "name": "Epigamia Mixed Berries Flavoured Greek Yogurt - Pack of 3",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "price": 207,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Epigamia Mixed Berries Flavoured Greek Yogurt - Pack of 3 is a great option for a healthy snack, just like how you enjoy Amul Vanilla Magic Ice Cream Tub (https://example.com/product/Amul%20Vanilla%20Magic%20Ice%20Cream%20Tub).",
+    "bio": "You're a yogurt lover, Bardhan!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01938.jpg"
+  },
+  {
+    "product_id": "p00222",
+    "name": "Wheel Active 2 in 1 Detergent Powder",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "price": 280,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd find the Wheel Active 2 in 1 Detergent Powder useful because your frequent purchases of imported beverages, like Mogu Mogu Orange Fruit Drink, suggest you value convenience.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00222.jpg"
+  },
+  {
+    "product_id": "p07937",
+    "name": "Nayasa Plastic Fusion Container Set",
+    "category": "Storage Containers",
+    "top_category": "Kitchen & Dining",
+    "price": 383,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd find the Nayasa Plastic Fusion Container Set useful because your frequent purchases of imported beverages, like Mogu Mogu Orange Fruit Drink, suggest you value convenience.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07937.jpg"
+  },
+  {
+    "product_id": "p03216",
+    "name": "Godrej Fab Top Load Liquid Detergent Refill",
+    "category": "Liquid Detergents",
+    "top_category": "Home & Cleaning",
+    "price": 412,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd find the Godrej Fab Top Load Liquid Detergent Refill useful because your frequent purchases of imported beverages, like Mogu Mogu Grape Fruit Drink with Nata De Coco, suggest you value convenience.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p03216.jpg"
+  },
+  {
+    "product_id": "p06255",
+    "name": "Beco Super Soft Bamboo Face Tissue Paper - Buy 3 Get 3 Free (2 Ply)",
+    "category": "Tissues Disposables",
+    "top_category": "Home & Cleaning",
+    "price": 229,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd appreciate the Beco Super Soft Bamboo Face Tissue Paper - Buy 3 Get 3 Free (2 Ply) because your love for indulging in Mogu Mogu Grape Fruit Drink with Nata De Coco and other treats suggests you enjoy relaxation.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06255.jpg"
+  },
+  {
+    "product_id": "p02170",
+    "name": "Mother Dairy - Dairy Whitener",
+    "category": "Cream Whitener",
+    "top_category": "Dairy & Breakfast",
+    "price": 269,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd appreciate the Mother Dairy - Dairy Whitener because your love for indulging in Mogu Mogu Grape Fruit Drink with Nata De Coco and other treats suggests you enjoy relaxation.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02170.svg"
+  },
+  {
+    "product_id": "p00315",
+    "name": "Hookah Pipe By Pravāh",
+    "category": "Household Items",
+    "top_category": "Home & Cleaning",
+    "price": 325,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd appreciate the Hookah Pipe By Pravāh because your love for indulging in Mogu Mogu Grape Fruit Drink with Nata De Coco and other treats suggests you enjoy relaxation.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00315.jpg"
+  },
+  {
+    "product_id": "p00348",
+    "name": "Godrej Real Good Large Prawns Peeled & Devined",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "price": 250,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "I think you'd enjoy the Godrej Real Good Large Prawns Peeled & Devined because your love for trying new things, like Mogu Mogu Pineapple Fruit Drink, suggests you appreciate novelty.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.4,
+    "veg_flag": false,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p00348.jpg"
+  },
+  {
+    "product_id": "p03515",
+    "name": "Nivea Men Fresh Active Men's Roll On",
+    "category": "Deodorant Talc",
+    "top_category": "Personal Care",
+    "price": 185,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Try Nivea Men Fresh Active Men's Roll On to complement your imported beverages, like Mogu Mogu Grape Fruit Drink with Nata De Coco.",
+    "bio": "Bardhan, the explorer, loves trying new things, and Nivea Men Fresh Active Men's Roll On is a great addition to his wellness routine.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p03515.jpg"
+  },
+  {
+    "product_id": "p01336",
+    "name": "Blendart Pure Chamomile Herbal Infusion Bags",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 279,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Blendart Pure Chamomile Herbal Infusion Bags is a soothing tea, just like Flurys Pure Chamomile Organic Herbal Infusion Bags!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01336.jpg"
+  },
+  {
+    "product_id": "p01317",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Ginger, Mint & Lemon)",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 177,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Pair Tetley Slim Care Green Tea Bags (With L-Carnitine, Ginger, Mint & Lemon) with your Amul Vanilla Magic Ice Cream Tub for a refreshing treat.",
+    "bio": "Bardhan, the explorer, enjoys trying new flavors, and Tetley Slim Care Green Tea Bags are a great match for his sweet tooth.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01317.jpg"
+  },
+  {
+    "product_id": "p01340",
+    "name": "Vahdam Chamomile Mint Citrus Green Tea Bags",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 208,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Vahdam Chamomile Mint Citrus Green Tea Bags is a great hydration product to try, just like how you enjoy Flurys Pure Chamomile Organic Herbal Infusion Bags.",
+    "bio": "Bardhan loves staying hydrated!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01340.jpg"
+  },
+  {
+    "product_id": "p01431",
+    "name": "Blue Tea Chamomile Flower Herbal Infusion",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "price": 299,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Blue Tea Chamomile Flower Herbal Infusion is a soothing drink, just like Mogu Mogu Grape Fruit Drink with Nata De Coco!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01431.jpg"
+  },
+  {
+    "product_id": "p01448",
+    "name": "Tencha Hibiscus Flower Herbal Tea",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "price": 299,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Tencha Hibiscus Flower Herbal Tea is a refreshing drink, just like Mogu Mogu Pineapple Fruit Drink!",
+    "bio": "I'm Bardhan, an explorer who loves trying new things!",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01448.jpg"
+  },
+  {
+    "product_id": "p01313",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Lemon & Honey)",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 177,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Lemon & Honey) are a soothing match for your Hide & Seek Chocolate Chip Cookies.",
+    "bio": "Bardhan, the explorer, appreciates a good balance of sweet and savory, and Tetley Slim Care Green Tea Bags deliver.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01313.jpg"
+  },
+  {
+    "product_id": "p02403",
+    "name": "Pillsbury Pancake Mix (Butterscotch)",
+    "category": "Dessert Cake Mixes",
+    "top_category": "Grocery Staples",
+    "price": 217,
+    "level": "L4",
+    "shared_tag": "indulgence",
+    "tag_type": "halo",
+    "bridge": "Pillsbury Pancake Mix (Butterscotch) is a great cooking product to try, but it doesn't seem to align with your recent purchases.",
+    "bio": "Bardhan's a fan of cooking!",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "staples",
+      "wellness"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence",
+      "wellness"
+    ],
+    "image_url": "/images/p02403.jpg"
+  },
+  {
+    "product_id": "p03348",
+    "name": "Dettol Liquid Hand Wash Refill Pouch (Original Germ Protection)",
+    "category": "Handwash",
+    "top_category": "Personal Care",
+    "price": 173,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Dettol Liquid Hand Wash Refill Pouch (Original Germ Protection) is a practical choice to pair with your Britannia Good Day Butter Cookies.",
+    "bio": "Bardhan, the explorer, values cleanliness and convenience, making Dettol Liquid Hand Wash Refill Pouch a great addition to his routine.",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p03348.jpg"
+  },
+  {
+    "product_id": "p06493",
+    "name": "Ugaoo Syngonium Pink Premium Plant with White Ibiza Pot",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "price": 239,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "I think you'd find the Ugaoo Syngonium Pink Premium Plant with White Ibiza Pot useful because your love for trying new things, like Mogu Mogu Orange Fruit Drink, suggests you value novelty.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.4,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06493.svg"
+  },
+  {
+    "product_id": "p06492",
+    "name": "Ugaoo Golden Money Plant In Self Watering Pot",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "price": 289,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "I think you'd enjoy the Ugaoo Golden Money Plant In Self Watering Pot because your love for trying new things, like Mogu Mogu Pineapple Fruit Drink, suggests you appreciate novelty.",
+    "bio": "Bardhan, the explorer, loves trying new things!",
+    "confidence": 0.4,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06492.jpg"
+  }
+]

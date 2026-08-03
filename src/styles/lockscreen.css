@@ -1,0 +1,110 @@
+.lockscreen {
+  position: absolute;
+  inset: 0;
+  z-index: 80;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 28px 18px 24px;
+  background:
+    radial-gradient(120% 80% at 50% -10%, #2a3344 0%, transparent 55%),
+    linear-gradient(180deg, #0b0f16 0%, #151b26 48%, #0a0d12 100%);
+  color: #f4f6fa;
+}
+
+.lockscreen-status {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  opacity: 0.9;
+}
+
+.lockscreen-dots {
+  letter-spacing: 0.2em;
+  opacity: 0.55;
+}
+
+.lockscreen-date {
+  margin: 48px 0 28px;
+  text-align: center;
+  font-size: 1.35rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  opacity: 0.92;
+}
+
+.lockscreen-notif {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  width: 100%;
+  margin: 0;
+  padding: 14px 14px 16px;
+  border: 0;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(18px);
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.lockscreen-icon {
+  flex: 0 0 36px;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  display: grid;
+  place-content: center;
+  background: #0c831f;
+  color: #fff;
+  font-weight: 800;
+  font-size: 1.1rem;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.lockscreen-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.lockscreen-app {
+  font-size: 12px;
+  text-transform: lowercase;
+  opacity: 0.75;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.lockscreen-now {
+  opacity: 0.65;
+}
+
+.lockscreen-title {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.lockscreen-body {
+  font-size: 13px;
+  line-height: 1.35;
+  opacity: 0.88;
+}
+
+.lockscreen-dismiss {
+  margin-top: auto;
+  align-self: center;
+  border: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 13px;
+  padding: 12px;
+  cursor: pointer;
+}

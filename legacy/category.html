@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Category — Swipe discovery MVP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./app.css">
+<style>
+.lead{font-size:12px;color:var(--ink-soft);margin:-4px 0 12px;line-height:1.4}
+.tile{text-align:center;cursor:pointer}
+.tile .n{font-weight:800;color:var(--maroon);min-height:auto}
+.tile .logo{
+  height:52px;border-radius:8px;margin-bottom:6px;display:grid;place-items:center;
+  background:var(--tile);font-size:22px;
+}
+.tile.on{border-color:var(--cerise);box-shadow:inset 0 0 0 1px var(--cerise)}
+.products{margin-top:8px}
+.product{
+  display:flex;gap:12px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);
+}
+.product img{width:48px;height:48px;object-fit:contain;border-radius:10px;background:var(--tile)}
+.product strong{display:block;font-size:13px}
+.product .meta{font-size:11px;color:var(--ink-soft)}
+.product button{
+  margin-left:auto;flex:0 0 auto;border:none;border-radius:var(--r-pill);
+  padding:8px 12px;background:var(--brand-green);color:#fff;font:inherit;font-size:11px;font-weight:800;cursor:pointer;
+}
+.toast{text-align:center;font-size:11px;padding:8px;border-radius:var(--r-sm);background:var(--cerise);color:#fff;display:none;margin-bottom:10px}
+</style>
+</head>
+<body>
+<div class="phone">
+  <div class="scroll">
+    <div id="hero-host"></div>
+    <main class="body">
+      <h2 class="sec-title" id="cat-title">All categories</h2>
+      <p class="lead" id="cat-lead">Pick a category — products from that aisle, not your past orders.</p>
+      <div class="toast" id="toast" role="status"></div>
+      <div class="grid" id="cats"></div>
+      <div class="products" id="products"></div>
+    </main>
+  </div>
+  <nav class="nav" id="nav-host"></nav>
+</div>
+<script type="module">
+import { mountNav } from "./nav.js";
+import { mountHero, TAB_CATS, productsForCategory } from "./hero.js";
+import { mountCartSheet } from "./cartSheet.js";
+
+const params = new URLSearchParams(location.search);
+const initial = params.get("cat") || "All";
+const valid = TAB_CATS.some(t => t.name === initial) ? initial : "All";
+
+const catsEl = document.getElementById("cats");
+const productsEl = document.getElementById("products");
+const titleEl = document.getElementById("cat-title");
+const leadEl = document.getElementById("cat-lead");
+const toast = document.getElementById("toast");
+
+function say(msg) {
+  toast.textContent = msg;
+  toast.style.display = "block";
+  setTimeout(() => { toast.style.display = "none"; }, 1400);
+}
+
+function showCategory(name) {
+  titleEl.textContent = name === "All" ? "All categories" : name;
+  leadEl.textContent = name === "All"
+    ? "Pick a category — products from that aisle, not your past orders."
+    : `Browsing ${name}. Tap Add to try something new.`;
+
+  catsEl.innerHTML = TAB_CATS.map(t => `
+    <div class="tile${t.name === name ? " on" : ""}" data-cat="${t.name}">
+      <div class="logo">${t.logo}</div>
+      <div class="n">${t.name}</div>
+    </div>
+  `).join("");
+
+  catsEl.querySelectorAll(".tile").forEach(tile => {
+    tile.onclick = () => showCategory(tile.dataset.cat);
+  });
+
+  document.querySelectorAll(".tab-item").forEach(t => {
+    t.classList.toggle("on", t.dataset.cat === name);
+  });
+
+  const items = productsForCategory(name).slice(0, name === "All" ? 12 : 10);
+  productsEl.innerHTML = items.length
+    ? items.map(p => `
+      <article class="product">
+        <img src="${p.image}" alt="">
+        <div>
+          <strong>${p.name}</strong>
+          <div class="meta">Rs ${p.price}${p.cat ? " · " + p.cat : ""}</div>
+        </div>
+        <button type="button" data-name="${p.name}">Add</button>
+      </article>`).join("")
+    : `<p class="lead">No products in ${name} yet.</p>`;
+
+  productsEl.querySelectorAll("button").forEach(btn => {
+    btn.onclick = () => say(`Added ${btn.dataset.name}`);
+  });
+
+  const url = new URL(location.href);
+  if (name === "All") url.searchParams.delete("cat");
+  else url.searchParams.set("cat", name);
+  history.replaceState(null, "", url);
+}
+
+mountHero(document.getElementById("hero-host"), {
+  activeTab: valid,
+  onTabSelect: showCategory
+});
+mountNav(document.getElementById("nav-host"), "category");
+mountCartSheet();
+
+showCategory(valid);
+</script>
+</body>
+</html>

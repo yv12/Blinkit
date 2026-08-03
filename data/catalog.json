@@ -1,0 +1,6345 @@
+[
+  {
+    "id": "p00037",
+    "name": "Rosier Bilona A2 Gir Ghee (Made from Curd)",
+    "brand": "Rosier",
+    "category": "Grocery Staples",
+    "top_category": "Grocery Staples",
+    "subcategory": "Ghee Vanaspati",
+    "price": 2024,
+    "mrp": 2024,
+    "unit": "",
+    "image_url": "/images/p00037.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p00126",
+    "name": "Maggi Nutrilicious Veg Atta Noodles Made with Only Atta Flour",
+    "brand": "Maggi",
+    "category": "Noodles Pasta Instant",
+    "top_category": "Instant & Frozen",
+    "subcategory": "Pasta Noodles",
+    "price": 97,
+    "mrp": 97,
+    "unit": "",
+    "image_url": "/images/p00126.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience",
+      "household"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00161",
+    "name": "Banana",
+    "brand": "Banana",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "price": 48,
+    "mrp": 48,
+    "unit": "",
+    "image_url": "/images/p00161.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p00177",
+    "name": "Thai Guava (Amrud)",
+    "brand": "Thai",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "price": 124,
+    "mrp": 124,
+    "unit": "",
+    "image_url": "/images/p00177.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p00188",
+    "name": "Organically Grown Brown Coconut",
+    "brand": "Organically",
+    "category": "Vegetables Fruits",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "price": 54,
+    "mrp": 54,
+    "unit": "",
+    "image_url": "/images/p00188.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p00221",
+    "name": "Surf Excel Easy Wash Detergent Powder",
+    "brand": "Surf Excel",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "subcategory": "Laundry Detergents",
+    "price": 778,
+    "mrp": 778,
+    "unit": "",
+    "image_url": "/images/p00221.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00222",
+    "name": "Wheel Active 2 in 1 Detergent Powder",
+    "brand": "Wheel",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "subcategory": "Laundry Detergents",
+    "price": 280,
+    "mrp": 280,
+    "unit": "",
+    "image_url": "/images/p00222.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00223",
+    "name": "Rin Detergent Bar",
+    "brand": "Rin",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "subcategory": "Laundry Detergents",
+    "price": 10,
+    "mrp": 10,
+    "unit": "",
+    "image_url": "/images/p00223.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00224",
+    "name": "Surf Excel Stain Eraser Detergent Bar 80 g",
+    "brand": "Surf Excel",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "subcategory": "Laundry Detergents",
+    "price": 10,
+    "mrp": 10,
+    "unit": "",
+    "image_url": "/images/p00224.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00232",
+    "name": "Surf Excel Quick Wash Detergent Powder",
+    "brand": "Surf Excel",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "subcategory": "Laundry Detergents",
+    "price": 118,
+    "mrp": 118,
+    "unit": "",
+    "image_url": "/images/p00232.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00287",
+    "name": "420 Rolling Tray - LIT",
+    "brand": "420",
+    "category": "Household Items",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 449,
+    "mrp": 449,
+    "unit": "1 pc",
+    "image_url": "/images/p00287.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00315",
+    "name": "Hookah Pipe By Pravāh",
+    "brand": "Hookah",
+    "category": "Household Items",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 325,
+    "mrp": 325,
+    "unit": "1 pc",
+    "image_url": "/images/p00315.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00347",
+    "name": "ITC Master Chef Large Prawns Peeled & Deveined",
+    "brand": "ITC",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 226,
+    "mrp": 226,
+    "unit": "",
+    "image_url": "/images/p00347.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00348",
+    "name": "Godrej Real Good Large Prawns Peeled & Devined",
+    "brand": "Godrej",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 250,
+    "mrp": 250,
+    "unit": "",
+    "image_url": "/images/p00348.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00349",
+    "name": "ITC Master Chef Medium Prawns with Piri Piri Masala",
+    "brand": "ITC",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 200,
+    "mrp": 200,
+    "unit": "",
+    "image_url": "/images/p00349.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00350",
+    "name": "Dam Good Fish Rohu Curry Cut with Head",
+    "brand": "Dam",
+    "category": "Fish Seafood",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 152,
+    "mrp": 152,
+    "unit": "",
+    "image_url": "/images/p00350.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00356",
+    "name": "Licious Chicken Curry Cut (Small Pieces)",
+    "brand": "Licious",
+    "category": "Chicken",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 215,
+    "mrp": 215,
+    "unit": "",
+    "image_url": "/images/p00356.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00399",
+    "name": "Prasuma Chicken Ham",
+    "brand": "Prasuma",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 200,
+    "mrp": 200,
+    "unit": "",
+    "image_url": "/images/p00399.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00401",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Salami (Frozen)",
+    "brand": "Godrej",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 165,
+    "mrp": 165,
+    "unit": "",
+    "image_url": "/images/p00401.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "cooking",
+      "protein"
+    ],
+    "goal_tags": [
+      "convenience",
+      "fitness"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00416",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "brand": "Delichic",
+    "category": "Sausage Salami Ham",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 138,
+    "mrp": 138,
+    "unit": "",
+    "image_url": "/images/p00416.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p00471",
+    "name": "PurePet Odor Control Lavender Cat Litter",
+    "brand": "PurePet",
+    "category": "Cat Needs",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 285,
+    "mrp": 285,
+    "unit": "",
+    "image_url": "/images/p00471.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00472",
+    "name": "Sheba Melty Creamy Cat Treat (Sasami Selection Chicken & Whitefish Flavors)",
+    "brand": "Sheba",
+    "category": "Cat Needs",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 105,
+    "mrp": 105,
+    "unit": "",
+    "image_url": "/images/p00472.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00483",
+    "name": "Foodie Puppies Bird Food for Cockatiels",
+    "brand": "Foodie",
+    "category": "Diverse Pet Food",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 300,
+    "mrp": 300,
+    "unit": "",
+    "image_url": "/images/p00483.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00490",
+    "name": "Foodie Puppies Taiyo Pluss Discovery Fish Food",
+    "brand": "Foodie",
+    "category": "Diverse Pet Food",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p00490.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00494",
+    "name": "Nature Forever Society Bird Food",
+    "brand": "Nature",
+    "category": "Diverse Pet Food",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p00494.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00497",
+    "name": "Boltz Dried Blood Worms Fish Food",
+    "brand": "Boltz",
+    "category": "Diverse Pet Food",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 319,
+    "mrp": 319,
+    "unit": "",
+    "image_url": "/images/p00497.svg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "pet"
+    ],
+    "goal_tags": [
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00528",
+    "name": "HUFT Sara's Wholesome Fresh Dog Food - Classic Chicken & Brown Rice",
+    "brand": "HUFT",
+    "category": "Dog Needs",
+    "top_category": "Pet Care",
+    "subcategory": "",
+    "price": 238,
+    "mrp": 238,
+    "unit": "",
+    "image_url": "/images/p00528.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "cooking",
+      "pet",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "pet_care"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p00597",
+    "name": "LuvLap Anti Spill Baby Sipper (150 ml, Green)",
+    "brand": "LuvLap",
+    "category": "Feeding Essentials",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 240,
+    "mrp": 240,
+    "unit": "",
+    "image_url": "/images/p00597.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00628",
+    "name": "Oyo Baby Blanket (Pink)",
+    "brand": "Oyo",
+    "category": "Nursing",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 257,
+    "mrp": 257,
+    "unit": "",
+    "image_url": "/images/p00628.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00651",
+    "name": "Little's Soft Cleansing Baby Wipes Lid Pack | Wet Wipes - Pack of 2",
+    "brand": "Little's",
+    "category": "Baby Wipes",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 150,
+    "mrp": 150,
+    "unit": "",
+    "image_url": "/images/p00651.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00673",
+    "name": "Mother Sparsh Plant Powered Natural Baby Wipes",
+    "brand": "Mother",
+    "category": "Baby Wipes",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 112,
+    "mrp": 112,
+    "unit": "",
+    "image_url": "/images/p00673.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00809",
+    "name": "Tuco Kids Kids Soap",
+    "brand": "Tuco",
+    "category": "Bathing Needs",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 322,
+    "mrp": 322,
+    "unit": "",
+    "image_url": "/images/p00809.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00855",
+    "name": "Amulspray Baby Milk Powder",
+    "brand": "Amul",
+    "category": "Baby Food",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 255,
+    "mrp": 255,
+    "unit": "",
+    "image_url": "/images/p00855.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00943",
+    "name": "Apex Piano Gym Baby Play Mat (0+ months)",
+    "brand": "Apex",
+    "category": "Baby Gear",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 735,
+    "mrp": 735,
+    "unit": "",
+    "image_url": "/images/p00943.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p00949",
+    "name": "Kwality Wall's Feast Cadbury Crackle Frozen Dessert Stick",
+    "brand": "Kwality Wall",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 194,
+    "mrp": 194,
+    "unit": "",
+    "image_url": "/images/p00949.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00950",
+    "name": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+    "brand": "Kwality Wall",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 40,
+    "mrp": 40,
+    "unit": "",
+    "image_url": "/images/p00950.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00951",
+    "name": "Amul Vanilla Magic Ice Cream Tub",
+    "brand": "Amul",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 195,
+    "mrp": 195,
+    "unit": "",
+    "image_url": "/images/p00951.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00952",
+    "name": "Amul Gold Duetz Mango Ice Cream Stick",
+    "brand": "Amul",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 20,
+    "mrp": 20,
+    "unit": "",
+    "image_url": "/images/p00952.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00953",
+    "name": "Huber & Holly Hazelnut Mudslide Mini Ice Cream Cone",
+    "brand": "Huber",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p00953.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00954",
+    "name": "Havmor Slice Cassata Ice Cream",
+    "brand": "Havmor",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 65,
+    "mrp": 65,
+    "unit": "",
+    "image_url": "/images/p00954.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00955",
+    "name": "Amul Butterscotch Bliss Ice Cream Tub",
+    "brand": "Amul",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 215,
+    "mrp": 215,
+    "unit": "",
+    "image_url": "/images/p00955.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence",
+      "wellness"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ]
+  },
+  {
+    "id": "p00956",
+    "name": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+    "brand": "Kwality Wall",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 40,
+    "mrp": 40,
+    "unit": "",
+    "image_url": "/images/p00956.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence",
+      "wellness"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ]
+  },
+  {
+    "id": "p00964",
+    "name": "Mother Dairy Dubblez Vanilla & Mango Ice Cream Tub",
+    "brand": "Mother Dairy",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 190,
+    "mrp": 190,
+    "unit": "",
+    "image_url": "/images/p00964.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00973",
+    "name": "Amul Chocolate Magic Sundae Ice Cream Tub",
+    "brand": "Amul",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 215,
+    "mrp": 215,
+    "unit": "",
+    "image_url": "/images/p00973.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p00997",
+    "name": "Rasgulla by Haldiram's",
+    "brand": "Rasgulla",
+    "category": "Indian Sweets",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 240,
+    "mrp": 240,
+    "unit": "",
+    "image_url": "/images/p00997.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01057",
+    "name": "Choki Choki Chocomilk Shaped Chocolates",
+    "brand": "Choki",
+    "category": "Chocolate Packs",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 113,
+    "mrp": 113,
+    "unit": "",
+    "image_url": "/images/p01057.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01062",
+    "name": "Galaxy Smooth Milk Minis Chocolate Pack",
+    "brand": "Galaxy",
+    "category": "Chocolate Packs",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 115,
+    "mrp": 115,
+    "unit": "",
+    "image_url": "/images/p01062.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01091",
+    "name": "Ultra Mintz Sensational Strawberry Mint Candies (Sugar Free)",
+    "brand": "Ultra",
+    "category": "Candies Gum",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 150,
+    "mrp": 150,
+    "unit": "",
+    "image_url": "/images/p01091.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01103",
+    "name": "Alpenliebe Eclairs Toffee Bouquet",
+    "brand": "Alpenliebe",
+    "category": "Candies Gum",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 213,
+    "mrp": 213,
+    "unit": "",
+    "image_url": "/images/p01103.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01155",
+    "name": "Lindt Lindor Assorted Chocolate Gift Pack",
+    "brand": "Lindt",
+    "category": "Chocolate Gift Pack",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 1199,
+    "mrp": 1199,
+    "unit": "",
+    "image_url": "/images/p01155.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01167",
+    "name": "4700BC Nutty Tuxedo Chocolate Gourmet Popcorn Tin",
+    "brand": "4700BC",
+    "category": "Chocolate Gift Pack",
+    "top_category": "Sweet Tooth",
+    "subcategory": "",
+    "price": 428,
+    "mrp": 428,
+    "unit": "",
+    "image_url": "/images/p01167.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01176",
+    "name": "Cocosutra Hazelnut Hot Chocolate",
+    "brand": "Cocosutra",
+    "category": "Hot Chocolate",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 99,
+    "mrp": 99,
+    "unit": "",
+    "image_url": "/images/p01176.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "id": "p01190",
+    "name": "Brooke Bond Taaza Tea",
+    "brand": "Brooke",
+    "category": "Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 50,
+    "mrp": 50,
+    "unit": "",
+    "image_url": "/images/p01190.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01223",
+    "name": "Complan Kids Nutrition Drink Mix (Royal Chocolate)",
+    "brand": "Complan",
+    "category": "Milk Drinks",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 300,
+    "mrp": 300,
+    "unit": "",
+    "image_url": "/images/p01223.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "snack",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience",
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01267",
+    "name": "Amul Protein Blueberry Shake (20 g protein)",
+    "brand": "Amul",
+    "category": "Lassi Shakes More",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 60,
+    "mrp": 60,
+    "unit": "",
+    "image_url": "/images/p01267.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "breakfast",
+      "hydration",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01286",
+    "name": "Nescafe Classic Black Roast Instant Coffee (Rich & Strong)",
+    "brand": "Nescafe",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 404,
+    "mrp": 404,
+    "unit": "",
+    "image_url": "/images/p01286.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01287",
+    "name": "Nescafe Classic - 100% Pure Instant Coffee Powder",
+    "brand": "Nescafe",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 230,
+    "mrp": 230,
+    "unit": "",
+    "image_url": "/images/p01287.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01288",
+    "name": "Nescafe Classic Pure Instant Coffee",
+    "brand": "Nescafe",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 135,
+    "mrp": 135,
+    "unit": "",
+    "image_url": "/images/p01288.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01289",
+    "name": "Sleepy Owl Assorted Instant Coffee",
+    "brand": "Sleepy",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 99,
+    "mrp": 99,
+    "unit": "",
+    "image_url": "/images/p01289.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01291",
+    "name": "Bru Instant Coffee",
+    "brand": "Bru",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 119,
+    "mrp": 119,
+    "unit": "",
+    "image_url": "/images/p01291.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01313",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Lemon & Honey)",
+    "brand": "Tetley",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 177,
+    "mrp": 177,
+    "unit": "",
+    "image_url": "/images/p01313.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01314",
+    "name": "Lipton Honey Lemon Green Tea Bags",
+    "brand": "Lipton",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 172,
+    "mrp": 172,
+    "unit": "",
+    "image_url": "/images/p01314.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01315",
+    "name": "Girnar Detox Desi Kahwa",
+    "brand": "Girnar",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 100,
+    "mrp": 100,
+    "unit": "",
+    "image_url": "/images/p01315.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01316",
+    "name": "Lipton Lemongrass Ginger Green Tea Bags",
+    "brand": "Lipton",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 168,
+    "mrp": 168,
+    "unit": "",
+    "image_url": "/images/p01316.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01317",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Ginger, Mint & Lemon)",
+    "brand": "Tetley",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 177,
+    "mrp": 177,
+    "unit": "",
+    "image_url": "/images/p01317.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01318",
+    "name": "Tetley Lemon & Honey Green Tea Bags",
+    "brand": "Tetley",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 169,
+    "mrp": 169,
+    "unit": "",
+    "image_url": "/images/p01318.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01336",
+    "name": "Blendart Pure Chamomile Herbal Infusion Bags",
+    "brand": "Blendart",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 279,
+    "mrp": 279,
+    "unit": "",
+    "image_url": "/images/p01336.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01340",
+    "name": "Vahdam Chamomile Mint Citrus Green Tea Bags",
+    "brand": "Vahdam",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 208,
+    "mrp": 208,
+    "unit": "",
+    "image_url": "/images/p01340.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01344",
+    "name": "Nestea Ice Tea Premix - Lemon Flavour",
+    "brand": "Nestea",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 186,
+    "mrp": 186,
+    "unit": "",
+    "image_url": "/images/p01344.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01359",
+    "name": "Amul Kool Cafe Hazelnut Flavoured Milk",
+    "brand": "Amul",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 30,
+    "mrp": 30,
+    "unit": "",
+    "image_url": "/images/p01359.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01371",
+    "name": "Flurys Pure Chamomile Organic Herbal Infusion Bags",
+    "brand": "Flurys",
+    "category": "Imported Tea Coffee",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 234,
+    "mrp": 234,
+    "unit": "",
+    "image_url": "/images/p01371.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01419",
+    "name": "So Good High Protein Plant Based Soy Beverage",
+    "brand": "So",
+    "category": "Lactose Free Drink",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 136,
+    "mrp": 136,
+    "unit": "",
+    "image_url": "/images/p01419.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "breakfast",
+      "hydration",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01431",
+    "name": "Blue Tea Chamomile Flower Herbal Infusion",
+    "brand": "Blue Tea",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 299,
+    "mrp": 299,
+    "unit": "",
+    "image_url": "/images/p01431.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01440",
+    "name": "Kalprishi Blue Pea Herbal Infusion",
+    "brand": "Kalprishi",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 151,
+    "mrp": 151,
+    "unit": "",
+    "image_url": "/images/p01440.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01448",
+    "name": "Tencha Hibiscus Flower Herbal Tea",
+    "brand": "Tencha",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 299,
+    "mrp": 299,
+    "unit": "",
+    "image_url": "/images/p01448.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p01477",
+    "name": "Laneige Glowy Tinted Lip Balm (Blueberry)",
+    "brand": "Laneige",
+    "category": "Lip Eye Care",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 675,
+    "mrp": 675,
+    "unit": "",
+    "image_url": "/images/p01477.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01487",
+    "name": "RENEE Disney Moana Mini Tinted Lip Balm (Beachy Peachy)",
+    "brand": "RENEE",
+    "category": "Lip Eye Care",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 219,
+    "mrp": 219,
+    "unit": "",
+    "image_url": "/images/p01487.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01543",
+    "name": "L'Oreal Paris Casting Creme Gloss 400 Creme Hair Colour (Dark Brown)",
+    "brand": "L'Oreal",
+    "category": "Hair Styling Treatment",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 268,
+    "mrp": 268,
+    "unit": "",
+    "image_url": "/images/p01543.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01574",
+    "name": "PHC Metal Hair Band (Black)",
+    "brand": "PHC",
+    "category": "Hair Styling Treatment",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 49,
+    "mrp": 49,
+    "unit": "",
+    "image_url": "/images/p01574.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01708",
+    "name": "Lakme 9To5 Powerplay Priming Matte Lipstick (Mauve Matter)",
+    "brand": "Lakme",
+    "category": "Lip Cosmetics",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 488,
+    "mrp": 488,
+    "unit": "",
+    "image_url": "/images/p01708.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01772",
+    "name": "FAE Beauty Lip Whip Matte 12H Liquid Lipstick (Revenge)",
+    "brand": "FAE",
+    "category": "Lip Cosmetics",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 501,
+    "mrp": 501,
+    "unit": "",
+    "image_url": "/images/p01772.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01797",
+    "name": "Faces Canada Ultime Pro Splash Mini Nail Paint Kit (Pastel Paradise)",
+    "brand": "Faces",
+    "category": "Nail Cosmetics",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p01797.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01894",
+    "name": "Herbal Brews Natural Cleansing Detox Foot Patch",
+    "brand": "Herbal",
+    "category": "Body Skin Care",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 299,
+    "mrp": 299,
+    "unit": "",
+    "image_url": "/images/p01894.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01905",
+    "name": "Mother Dairy Classic Pouch Curd",
+    "brand": "Mother Dairy",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 35,
+    "mrp": 35,
+    "unit": "",
+    "image_url": "/images/p01905.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01916",
+    "name": "Milky Mist Skyr High Protein Plain Yogurt",
+    "brand": "Milky",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 65,
+    "mrp": 65,
+    "unit": "",
+    "image_url": "/images/p01916.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01931",
+    "name": "Amul Probiotic High Protein Curd",
+    "brand": "Amul",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 80,
+    "mrp": 80,
+    "unit": "",
+    "image_url": "/images/p01931.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01933",
+    "name": "Epigamia Natural Greek Yogurt (400 g) - Pack of 6",
+    "brand": "Epigamia",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 1425,
+    "mrp": 1425,
+    "unit": "",
+    "image_url": "/images/p01933.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01938",
+    "name": "Epigamia Mixed Berries Flavoured Greek Yogurt - Pack of 3",
+    "brand": "Epigamia",
+    "category": "Curd Yogurt",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 207,
+    "mrp": 207,
+    "unit": "",
+    "image_url": "/images/p01938.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p01952",
+    "name": "Quaker Rolled Instant Oats Breakfast Cereal",
+    "brand": "Quaker",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 160,
+    "mrp": 160,
+    "unit": "",
+    "image_url": "/images/p01952.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01953",
+    "name": "Quaker Rolled Instant Oats",
+    "brand": "Quaker",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 86,
+    "mrp": 86,
+    "unit": "",
+    "image_url": "/images/p01953.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p01961",
+    "name": "Yoga Bar Premium Golden Rolled Oats (Gluten Free)",
+    "brand": "Yoga Bar",
+    "category": "Oats",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 230,
+    "mrp": 230,
+    "unit": "",
+    "image_url": "/images/p01961.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02030",
+    "name": "Amul Gold Full Cream Milk",
+    "brand": "Amul",
+    "category": "Milk",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 36,
+    "mrp": 36,
+    "unit": "",
+    "image_url": "/images/p02030.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02031",
+    "name": "Amul Taaza Toned Milk",
+    "brand": "Amul",
+    "category": "Milk",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 17,
+    "mrp": 17,
+    "unit": "",
+    "image_url": "/images/p02031.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience",
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02034",
+    "name": "Mother Dairy Full Cream Milk",
+    "brand": "Mother Dairy",
+    "category": "Milk",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 36,
+    "mrp": 36,
+    "unit": "",
+    "image_url": "/images/p02034.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "staples",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience",
+      "wellness"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02057",
+    "name": "Amul Fresh Malai Paneer",
+    "brand": "Amul",
+    "category": "Paneer Tofu",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 95,
+    "mrp": 95,
+    "unit": "",
+    "image_url": "/images/p02057.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02058",
+    "name": "Mother Dairy Paneer",
+    "brand": "Mother Dairy",
+    "category": "Paneer Tofu",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 95,
+    "mrp": 95,
+    "unit": "",
+    "image_url": "/images/p02058.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02086",
+    "name": "Amul Salted Butter",
+    "brand": "Amul",
+    "category": "Butter More",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 58,
+    "mrp": 58,
+    "unit": "",
+    "image_url": "/images/p02086.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "evening",
+      "morning"
+    ]
+  },
+  {
+    "id": "p02087",
+    "name": "Amul Salted Butter (200 g)",
+    "brand": "Amul",
+    "category": "Butter More",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 130,
+    "mrp": 130,
+    "unit": "",
+    "image_url": "/images/p02087.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "evening",
+      "morning"
+    ]
+  },
+  {
+    "id": "p02090",
+    "name": "Mother Dairy Salted Butter (500 g)",
+    "brand": "Mother Dairy",
+    "category": "Butter More",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 310,
+    "mrp": 310,
+    "unit": "",
+    "image_url": "/images/p02090.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "evening",
+      "morning"
+    ]
+  },
+  {
+    "id": "p02102",
+    "name": "English Oven Zero Maida Atta/ Wheat Bread",
+    "brand": "English Oven",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 60,
+    "mrp": 60,
+    "unit": "",
+    "image_url": "/images/p02102.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02103",
+    "name": "Harvest Gold White Bread",
+    "brand": "Harvest Gold",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 65,
+    "mrp": 65,
+    "unit": "",
+    "image_url": "/images/p02103.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02104",
+    "name": "Harvest Gold Atta Whole Wheat Bread",
+    "brand": "Harvest Gold",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 65,
+    "mrp": 65,
+    "unit": "",
+    "image_url": "/images/p02104.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02105",
+    "name": "English Oven Brown Bread",
+    "brand": "English Oven",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 60,
+    "mrp": 60,
+    "unit": "",
+    "image_url": "/images/p02105.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02125",
+    "name": "Protein Chef 42g Protein Multigrain Bread - 5 Superfoods",
+    "brand": "Protein",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 69,
+    "mrp": 69,
+    "unit": "",
+    "image_url": "/images/p02125.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02169",
+    "name": "Mother Dairy - Dairy Whitener - Pack of 2",
+    "brand": "Mother Dairy",
+    "category": "Cream Whitener",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 533,
+    "mrp": 533,
+    "unit": "",
+    "image_url": "/images/p02169.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02170",
+    "name": "Mother Dairy - Dairy Whitener",
+    "brand": "Mother Dairy",
+    "category": "Cream Whitener",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "",
+    "price": 269,
+    "mrp": 269,
+    "unit": "",
+    "image_url": "/images/p02170.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02190",
+    "name": "Real Thai Rice Vermicelli",
+    "brand": "Real",
+    "category": "Vermicelli",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 270,
+    "mrp": 270,
+    "unit": "",
+    "image_url": "/images/p02190.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience",
+      "household"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02193",
+    "name": "Nutrich Farm Fresh Protein Rich Eggs",
+    "brand": "Nutrich",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 61,
+    "mrp": 61,
+    "unit": "",
+    "image_url": "/images/p02193.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02194",
+    "name": "Table White White Eggs",
+    "brand": "Table",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 305,
+    "mrp": 305,
+    "unit": "",
+    "image_url": "/images/p02194.svg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02195",
+    "name": "Table White Eggs (6 pcs)",
+    "brand": "Table",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 66,
+    "mrp": 66,
+    "unit": "",
+    "image_url": "/images/p02195.svg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02196",
+    "name": "Licious Farm Fresh Classic White Protein Rich Eggs",
+    "brand": "Licious",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 106,
+    "mrp": 106,
+    "unit": "",
+    "image_url": "/images/p02196.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02205",
+    "name": "Happinest White Eggs",
+    "brand": "Happinest",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 88,
+    "mrp": 88,
+    "unit": "",
+    "image_url": "/images/p02205.svg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02210",
+    "name": "Licious Brown Eggs",
+    "brand": "Licious",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 123,
+    "mrp": 123,
+    "unit": "",
+    "image_url": "/images/p02210.svg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02212",
+    "name": "Hen Fruit -30 Max Protein Speciality Eggs",
+    "brand": "Hen",
+    "category": "Eggs",
+    "top_category": "Meat Fish & Eggs",
+    "subcategory": "",
+    "price": 439,
+    "mrp": 439,
+    "unit": "",
+    "image_url": "/images/p02212.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "protein",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "id": "p02299",
+    "name": "Knorr Spicy Korean Kimchi Soup with No Added Preservatives",
+    "brand": "Knorr",
+    "category": "Soup",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 62,
+    "mrp": 62,
+    "unit": "",
+    "image_url": "/images/p02299.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02403",
+    "name": "Pillsbury Pancake Mix (Butterscotch)",
+    "brand": "Pillsbury",
+    "category": "Dessert Cake Mixes",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 217,
+    "mrp": 217,
+    "unit": "",
+    "image_url": "/images/p02403.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "staples",
+      "wellness"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence",
+      "wellness"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ]
+  },
+  {
+    "id": "p02432",
+    "name": "Cornitos Sliced Jalapeno Peppers - Pack of 3",
+    "brand": "Cornitos",
+    "category": "Ready To Cook Eat",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 369,
+    "mrp": 369,
+    "unit": "",
+    "image_url": "/images/p02432.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02468",
+    "name": "Meatzza Krispy Fried Chicken (Frozen)",
+    "brand": "Meatzza",
+    "category": "Frozen Non Veg Snacks",
+    "top_category": "Instant & Frozen",
+    "subcategory": "",
+    "price": 323,
+    "mrp": 323,
+    "unit": "",
+    "image_url": "/images/p02468.jpg",
+    "in_stock": true,
+    "veg_flag": false,
+    "need_tags": [
+      "cooking",
+      "snack"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02535",
+    "name": "Orika Red Chilli Flakes Sprinkler",
+    "brand": "Orika",
+    "category": "Herbs Seasoning",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 76,
+    "mrp": 76,
+    "unit": "",
+    "image_url": "/images/p02535.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p02578",
+    "name": "Green Protein Crave Protein Bar",
+    "brand": "Green Protein",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 627,
+    "mrp": 627,
+    "unit": "",
+    "image_url": "/images/p02578.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02579",
+    "name": "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar - Pack of 2",
+    "brand": "RiteBite",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 156,
+    "mrp": 156,
+    "unit": "",
+    "image_url": "/images/p02579.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02580",
+    "name": "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar",
+    "brand": "RiteBite",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 80,
+    "mrp": 80,
+    "unit": "",
+    "image_url": "/images/p02580.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02581",
+    "name": "Phab 10g Protein Cookies & Cream Millet Wafer Bar",
+    "brand": "Phab",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 56,
+    "mrp": 56,
+    "unit": "",
+    "image_url": "/images/p02581.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p02584",
+    "name": "SuperYou Strawberry Creme Wafer Protein Bar - Pack of 4",
+    "brand": "SuperYou",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 205,
+    "mrp": 205,
+    "unit": "",
+    "image_url": "/images/p02584.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02585",
+    "name": "SuperYou Strawberry Creme Wafer Protein Bar",
+    "brand": "SuperYou",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 57,
+    "mrp": 57,
+    "unit": "",
+    "image_url": "/images/p02585.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02586",
+    "name": "SuperYou Strawberry Creme Wafer Protein Bar - Pack of 2",
+    "brand": "SuperYou",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 105,
+    "mrp": 105,
+    "unit": "",
+    "image_url": "/images/p02586.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02587",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 4",
+    "brand": "RiteBite",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 304,
+    "mrp": 304,
+    "unit": "",
+    "image_url": "/images/p02587.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02588",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar",
+    "brand": "RiteBite",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 80,
+    "mrp": 80,
+    "unit": "",
+    "image_url": "/images/p02588.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02589",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 2",
+    "brand": "RiteBite",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 156,
+    "mrp": 156,
+    "unit": "",
+    "image_url": "/images/p02589.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02590",
+    "name": "Yoga Bar Cookies & Cream 10g Protein Wafer Bar",
+    "brand": "Yoga Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 42,
+    "mrp": 42,
+    "unit": "",
+    "image_url": "/images/p02590.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02591",
+    "name": "SuperYou Chocolate Wafer Protein Bar - Pack of 4",
+    "brand": "SuperYou",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 205,
+    "mrp": 205,
+    "unit": "",
+    "image_url": "/images/p02591.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration",
+      "indulgence",
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p02629",
+    "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+    "brand": "Yoga Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 99,
+    "mrp": 99,
+    "unit": "",
+    "image_url": "/images/p02629.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "protein",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "fitness",
+      "household",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ]
+  },
+  {
+    "id": "p02642",
+    "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split",
+    "brand": "Tata Sampann",
+    "category": "Moong Masoor",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 99,
+    "mrp": 99,
+    "unit": "",
+    "image_url": "/images/p02642.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p02643",
+    "name": "Tata Sampann Unpolished Masoor Dal",
+    "brand": "Tata Sampann",
+    "category": "Moong Masoor",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 81,
+    "mrp": 81,
+    "unit": "",
+    "image_url": "/images/p02643.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p02648",
+    "name": "Tata Sampann Unpolished Green Moong (Sabut) Whole",
+    "brand": "Tata Sampann",
+    "category": "Moong Masoor",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 86,
+    "mrp": 86,
+    "unit": "",
+    "image_url": "/images/p02648.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p02737",
+    "name": "Fortune Sooji - Pack of 2",
+    "brand": "Fortune",
+    "category": "Besan Sooji Maida",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 77,
+    "mrp": 77,
+    "unit": "",
+    "image_url": "/images/p02737.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p03018",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) Pack of 3",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 548,
+    "mrp": 548,
+    "unit": "",
+    "image_url": "/images/p03018.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p03019",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original)",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 209,
+    "mrp": 209,
+    "unit": "",
+    "image_url": "/images/p03019.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p03020",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) Pack of 2",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 414,
+    "mrp": 414,
+    "unit": "",
+    "image_url": "/images/p03020.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p03021",
+    "name": "Harpic Advanced Disinfectant Toilet Cleaner",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 123,
+    "mrp": 123,
+    "unit": "",
+    "image_url": "/images/p03021.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03022",
+    "name": "Harpic Disinfectant Liquid Bathroom Cleaner (Lemon - 500 ml)",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 120,
+    "mrp": 120,
+    "unit": "",
+    "image_url": "/images/p03022.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03028",
+    "name": "Harpic Disinfectant Toilet Bleach (White and Shine) Pack of 2",
+    "brand": "Harpic",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 212,
+    "mrp": 212,
+    "unit": "",
+    "image_url": "/images/p03028.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p03216",
+    "name": "Godrej Fab Top Load Liquid Detergent Refill",
+    "brand": "Godrej",
+    "category": "Liquid Detergents",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 412,
+    "mrp": 412,
+    "unit": "",
+    "image_url": "/images/p03216.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03277",
+    "name": "Joy Pure Aloe Multi Benefit Moisturizing Cream",
+    "brand": "Joy",
+    "category": "Face Body Moisturizers",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 143,
+    "mrp": 143,
+    "unit": "",
+    "image_url": "/images/p03277.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03348",
+    "name": "Dettol Liquid Hand Wash Refill Pouch (Original Germ Protection)",
+    "brand": "Dettol",
+    "category": "Handwash",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 173,
+    "mrp": 173,
+    "unit": "",
+    "image_url": "/images/p03348.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03415",
+    "name": "Closeup Everfresh+ Gel Toothpaste (Red Hot)",
+    "brand": "Closeup",
+    "category": "Oral Care",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 117,
+    "mrp": 117,
+    "unit": "",
+    "image_url": "/images/p03415.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03515",
+    "name": "Nivea Men Fresh Active Men's Roll On",
+    "brand": "Nivea",
+    "category": "Deodorant Talc",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 185,
+    "mrp": 185,
+    "unit": "",
+    "image_url": "/images/p03515.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03561",
+    "name": "The Derma Co Sali-Cinamide Anti-Acne Face Wash",
+    "brand": "The",
+    "category": "Face Cleaning",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 224,
+    "mrp": 224,
+    "unit": "",
+    "image_url": "/images/p03561.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03605",
+    "name": "FURR Reusable German Blade Face Razor - Pack of 3",
+    "brand": "FURR",
+    "category": "Womens Grooming",
+    "top_category": "Beauty",
+    "subcategory": "",
+    "price": 185,
+    "mrp": 185,
+    "unit": "",
+    "image_url": "/images/p03605.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beauty",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03845",
+    "name": "THE MODERN RITUAL Lemon Anti Hangover Effervescent Tablets",
+    "brand": "THE",
+    "category": "Hangover Cure",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 189,
+    "mrp": 189,
+    "unit": "",
+    "image_url": "/images/p03845.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p03886",
+    "name": "Vicks ZzzQuil Natura Melatonin Sleep Gummies",
+    "brand": "Vicks",
+    "category": "Health Wellness Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 204,
+    "mrp": 204,
+    "unit": "",
+    "image_url": "/images/p03886.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "sleep",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p03914",
+    "name": "Wellcore Micronised Creatine",
+    "brand": "Wellcore",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 539,
+    "mrp": 539,
+    "unit": "",
+    "image_url": "/images/p03914.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p03915",
+    "name": "Wellcore Micronised Creatine (Tropical Tango)",
+    "brand": "Wellcore",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 539,
+    "mrp": 539,
+    "unit": "",
+    "image_url": "/images/p03915.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p03917",
+    "name": "Nutrabay Gold Micronized Creatine Monohydrate (Orange)",
+    "brand": "Nutrabay",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 296,
+    "mrp": 296,
+    "unit": "",
+    "image_url": "/images/p03917.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p04042",
+    "name": "SynoCare Disposable Surgical Mask (Black)",
+    "brand": "SynoCare",
+    "category": "Masks Sanitizers",
+    "top_category": "Personal Care",
+    "subcategory": "",
+    "price": 365,
+    "mrp": 365,
+    "unit": "",
+    "image_url": "/images/p04042.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04081",
+    "name": "Silverex Ionic Gel",
+    "brand": "Silverex",
+    "category": "Prescription Medicines",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 113,
+    "mrp": 113,
+    "unit": "",
+    "image_url": "/images/p04081.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness",
+      "beauty"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04127",
+    "name": "Prolyte Liquid ORS (Orange) - Pack of 3",
+    "brand": "Prolyte",
+    "category": "Pure Otc",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 95,
+    "mrp": 95,
+    "unit": "",
+    "image_url": "/images/p04127.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04149",
+    "name": "FreeStyle Libre 2 Plus Sensor – Continuous Glucose Monitor (CGM)",
+    "brand": "FreeStyle",
+    "category": "Health Ortho Supports",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 4625,
+    "mrp": 4625,
+    "unit": "",
+    "image_url": "/images/p04149.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04173",
+    "name": "Tata 1mg Compact Nebulizer (for Respiratory Care)",
+    "brand": "Tata",
+    "category": "Healthcare Devices Test Kits",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 1542,
+    "mrp": 1542,
+    "unit": "",
+    "image_url": "/images/p04173.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04338",
+    "name": "B Natural Coconut Cola Soft Drink",
+    "brand": "B",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 57,
+    "mrp": 57,
+    "unit": "",
+    "image_url": "/images/p04338.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04339",
+    "name": "Coca-Cola Diet-Coke Diets & Lights - Pack of 6",
+    "brand": "Coca-Cola",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 297,
+    "mrp": 297,
+    "unit": "",
+    "image_url": "/images/p04339.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04340",
+    "name": "Diet Coke Diets & Lights",
+    "brand": "Diet Coke",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 50,
+    "mrp": 50,
+    "unit": "",
+    "image_url": "/images/p04340.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04341",
+    "name": "Thums Up Cola Soft Drink (750 ml) - Pack of 2",
+    "brand": "Thums Up",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 75,
+    "mrp": 75,
+    "unit": "",
+    "image_url": "/images/p04341.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p04342",
+    "name": "Thums Up Soft Drink",
+    "brand": "Thums Up",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 50,
+    "mrp": 50,
+    "unit": "",
+    "image_url": "/images/p04342.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04343",
+    "name": "Thums Up Cola Soft Drink (750 ml) - Pack of 4",
+    "brand": "Thums Up",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 151,
+    "mrp": 151,
+    "unit": "",
+    "image_url": "/images/p04343.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p04345",
+    "name": "Coca-Cola Soft Drink",
+    "brand": "Coca-Cola",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 40,
+    "mrp": 40,
+    "unit": "",
+    "image_url": "/images/p04345.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p04347",
+    "name": "Sprite Lime Flavored Soft Drink",
+    "brand": "Sprite",
+    "category": "Soft Drinks",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 36,
+    "mrp": 36,
+    "unit": "",
+    "image_url": "/images/p04347.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p04458",
+    "name": "Raw Pressery Coconut Water - Pack of 6",
+    "brand": "Raw",
+    "category": "Coconut Water",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 190,
+    "mrp": 190,
+    "unit": "",
+    "image_url": "/images/p04458.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04526",
+    "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco - Pack of 4",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 279,
+    "mrp": 279,
+    "unit": "",
+    "image_url": "/images/p04526.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04527",
+    "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 73,
+    "mrp": 73,
+    "unit": "",
+    "image_url": "/images/p04527.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04528",
+    "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco - Pack of 2",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 143,
+    "mrp": 143,
+    "unit": "",
+    "image_url": "/images/p04528.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04529",
+    "name": "Mogu Mogu Pineapple Fruit Drink - Pack of 4",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 279,
+    "mrp": 279,
+    "unit": "",
+    "image_url": "/images/p04529.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04530",
+    "name": "Mogu Mogu Pineapple Fruit Drink",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 73,
+    "mrp": 73,
+    "unit": "",
+    "image_url": "/images/p04530.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04531",
+    "name": "Mogu Mogu Pineapple Fruit Drink - Pack of 2",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 143,
+    "mrp": 143,
+    "unit": "",
+    "image_url": "/images/p04531.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p04533",
+    "name": "Mogu Mogu Orange Fruit Drink",
+    "brand": "Mogu Mogu",
+    "category": "Imported Beverages",
+    "top_category": "Beverages",
+    "subcategory": "",
+    "price": 68,
+    "mrp": 68,
+    "unit": "",
+    "image_url": "/images/p04533.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05126",
+    "name": "Hide & Seek Chocolate Chip Cookies",
+    "brand": "Hide & Seek",
+    "category": "Cookies",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 48,
+    "mrp": 48,
+    "unit": "",
+    "image_url": "/images/p05126.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05127",
+    "name": "Britannia Good Day Butter Cookies",
+    "brand": "Britannia",
+    "category": "Cookies",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 35,
+    "mrp": 35,
+    "unit": "",
+    "image_url": "/images/p05127.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05131",
+    "name": "Lotus Biscoff Caramelized Cookies",
+    "brand": "Lotus Biscoff",
+    "category": "Cookies",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 30,
+    "mrp": 30,
+    "unit": "",
+    "image_url": "/images/p05131.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05142",
+    "name": "Britannia Good Day Chunkies Chocochip Cookies (75 g) - Pack of 2",
+    "brand": "Britannia",
+    "category": "Cookies",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 74,
+    "mrp": 74,
+    "unit": "",
+    "image_url": "/images/p05142.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05165",
+    "name": "Britannia Tiger Krunch Choco chips Cookies - Pack of 2",
+    "brand": "Britannia",
+    "category": "Cookies",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 132,
+    "mrp": 132,
+    "unit": "",
+    "image_url": "/images/p05165.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05195",
+    "name": "Oreo Golden Vanilla Sandwich Cream Biscuits (Family Pack)",
+    "brand": "Oreo",
+    "category": "Cream Biscuits",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 76,
+    "mrp": 76,
+    "unit": "",
+    "image_url": "/images/p05195.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05363",
+    "name": "Britannia Vita Gold Marie Biscuits",
+    "brand": "Britannia",
+    "category": "Glucose Marie",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 145,
+    "mrp": 145,
+    "unit": "",
+    "image_url": "/images/p05363.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p05452",
+    "name": "The Baker's Dozen Dark Chocolate Cookies",
+    "brand": "The",
+    "category": "Gourmet Bakery",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 225,
+    "mrp": 225,
+    "unit": "",
+    "image_url": "/images/p05452.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "id": "p05469",
+    "name": "Sapphire Butter Biscuits Gift Pack (Gold Collection)",
+    "brand": "Sapphire",
+    "category": "Biscuit Gift Pack",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "",
+    "price": 299,
+    "mrp": 299,
+    "unit": "",
+    "image_url": "/images/p05469.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05630",
+    "name": "Mother's Recipe Tamarind Paste",
+    "brand": "Mother's",
+    "category": "Cooking Sauces Vinegar",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 59,
+    "mrp": 59,
+    "unit": "",
+    "image_url": "/images/p05630.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "time_tags": [
+      "anytime",
+      "evening"
+    ]
+  },
+  {
+    "id": "p05741",
+    "name": "Let's Try Signature Amritsari Tadka Namkeen - Pack of 2",
+    "brand": "Let's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 101,
+    "mrp": 101,
+    "unit": "",
+    "image_url": "/images/p05741.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05742",
+    "name": "Let's Try Signature Amritsari Tadka Namkeen",
+    "brand": "Let's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 51,
+    "mrp": 51,
+    "unit": "",
+    "image_url": "/images/p05742.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05743",
+    "name": "Haldiram's Classic Salted Peanuts",
+    "brand": "Haldiram's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 60,
+    "mrp": 60,
+    "unit": "",
+    "image_url": "/images/p05743.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05744",
+    "name": "Haldiram's Boondi",
+    "brand": "Haldiram's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 55,
+    "mrp": 55,
+    "unit": "",
+    "image_url": "/images/p05744.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05745",
+    "name": "Haldiram's Gupshup Peanuts",
+    "brand": "Haldiram's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 60,
+    "mrp": 60,
+    "unit": "",
+    "image_url": "/images/p05745.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05746",
+    "name": "Let's Try Signature Chana Dal Namkeen - Pack of 2",
+    "brand": "Let's",
+    "category": "Namkeen Snacks",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 101,
+    "mrp": 101,
+    "unit": "",
+    "image_url": "/images/p05746.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05831",
+    "name": "Act II Golden Sizzle Popcorn - Instant - Pack of 3",
+    "brand": "Act",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 29,
+    "mrp": 29,
+    "unit": "",
+    "image_url": "/images/p05831.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05852",
+    "name": "4700BC Hawaiian Barbeque Cheese Popcorn, Gourmet - Pack of 2",
+    "brand": "4700BC",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 91,
+    "mrp": 91,
+    "unit": "",
+    "image_url": "/images/p05852.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05867",
+    "name": "4700BC Microwave Cheese Popcorn with Seasoning - Pack of 3",
+    "brand": "4700BC",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 215,
+    "mrp": 215,
+    "unit": "",
+    "image_url": "/images/p05867.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05875",
+    "name": "4700BC Instant Barbeque Popcorn Jumbo Size",
+    "brand": "4700BC",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 27,
+    "mrp": 27,
+    "unit": "",
+    "image_url": "/images/p05875.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "snack"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05877",
+    "name": "4700BC Instant Natural Popcorn Jumbo Size - Pack of 3",
+    "brand": "4700BC",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 78,
+    "mrp": 78,
+    "unit": "",
+    "image_url": "/images/p05877.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05969",
+    "name": "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana",
+    "brand": "Mr.",
+    "category": "Makhana More",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 150,
+    "mrp": 150,
+    "unit": "",
+    "image_url": "/images/p05969.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05970",
+    "name": "Only Truth Premium Makhana",
+    "brand": "Only",
+    "category": "Makhana More",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 269,
+    "mrp": 269,
+    "unit": "",
+    "image_url": "/images/p05970.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ]
+  },
+  {
+    "id": "p05996",
+    "name": "Bingo Mad Angles Achaari Masti Crisps / Chips - Pack of 3",
+    "brand": "Bingo",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 51,
+    "mrp": 51,
+    "unit": "",
+    "image_url": "/images/p05996.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05997",
+    "name": "Bingo Mad Angles Achaari Masti Crisps / Chips",
+    "brand": "Bingo",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 19,
+    "mrp": 19,
+    "unit": "",
+    "image_url": "/images/p05997.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05998",
+    "name": "Uncle Chipps Spicy Treat Flavour Potato Chips",
+    "brand": "Uncle",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 20,
+    "mrp": 20,
+    "unit": "",
+    "image_url": "/images/p05998.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p05999",
+    "name": "Lay's India's Magic Masala Potato Chips",
+    "brand": "Lay's",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 25,
+    "mrp": 25,
+    "unit": "",
+    "image_url": "/images/p05999.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06000",
+    "name": "Kurkure Masala Munch Crisps - Pack of 3",
+    "brand": "Kurkure",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 54,
+    "mrp": 54,
+    "unit": "",
+    "image_url": "/images/p06000.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06001",
+    "name": "Kurkure Masala Munch Crisps",
+    "brand": "Kurkure",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 20,
+    "mrp": 20,
+    "unit": "",
+    "image_url": "/images/p06001.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06005",
+    "name": "Lay's American Style Cream & Onion Potato Chips",
+    "brand": "Lay's",
+    "category": "Chips Crisps",
+    "top_category": "Snacks & Munchies",
+    "subcategory": "",
+    "price": 25,
+    "mrp": 25,
+    "unit": "",
+    "image_url": "/images/p06005.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06255",
+    "name": "Beco Super Soft Bamboo Face Tissue Paper - Buy 3 Get 3 Free (2 Ply)",
+    "brand": "Beco",
+    "category": "Tissues Disposables",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 229,
+    "mrp": 229,
+    "unit": "",
+    "image_url": "/images/p06255.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06293",
+    "name": "Brass Aaradhya Akhand Diya by Shubhkart (9.5 x 12 cm)",
+    "brand": "Brass",
+    "category": "Home Decor",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 478,
+    "mrp": 478,
+    "unit": "",
+    "image_url": "/images/p06293.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06339",
+    "name": "Boldfit Wrist Strap Supporter For Gym",
+    "brand": "Boldfit",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p06339.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06346",
+    "name": "Lifelong Exercise Gym Gloves",
+    "brand": "Lifelong",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 176,
+    "mrp": 176,
+    "unit": "",
+    "image_url": "/images/p06346.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06348",
+    "name": "Boldfit Gym Gallon Plastic Bottle - 2 L",
+    "brand": "Boldfit",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 448,
+    "mrp": 448,
+    "unit": "",
+    "image_url": "/images/p06348.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06349",
+    "name": "Boldfit Gym Supporter Trunks for Men (Black)",
+    "brand": "Boldfit",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 329,
+    "mrp": 329,
+    "unit": "",
+    "image_url": "/images/p06349.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06352",
+    "name": "Cosco Stretch Resistance Band",
+    "brand": "Cosco",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "",
+    "price": 399,
+    "mrp": 399,
+    "unit": "",
+    "image_url": "/images/p06352.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06423",
+    "name": "Fresh Rosemary",
+    "brand": "Fresh",
+    "category": "Exotics",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 33,
+    "mrp": 33,
+    "unit": "",
+    "image_url": "/images/p06423.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06478",
+    "name": "Neem Leaves",
+    "brand": "Neem",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 16,
+    "mrp": 16,
+    "unit": "",
+    "image_url": "/images/p06478.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06492",
+    "name": "Ugaoo Golden Money Plant In Self Watering Pot",
+    "brand": "Ugaoo",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 289,
+    "mrp": 289,
+    "unit": "",
+    "image_url": "/images/p06492.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06493",
+    "name": "Ugaoo Syngonium Pink Premium Plant with White Ibiza Pot",
+    "brand": "Ugaoo",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 239,
+    "mrp": 239,
+    "unit": "",
+    "image_url": "/images/p06493.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06495",
+    "name": "Onion Pack of 2 (Pyaz)",
+    "brand": "Onion",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 81,
+    "mrp": 81,
+    "unit": "",
+    "image_url": "/images/p06495.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06496",
+    "name": "Onion (Pyaz)",
+    "brand": "Onion",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 41,
+    "mrp": 41,
+    "unit": "",
+    "image_url": "/images/p06496.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06497",
+    "name": "Green Chilli (Hari Mirch)",
+    "brand": "Green",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 16,
+    "mrp": 16,
+    "unit": "",
+    "image_url": "/images/p06497.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06498",
+    "name": "Orange Carrot (Gajar)",
+    "brand": "Orange",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 20,
+    "mrp": 20,
+    "unit": "",
+    "image_url": "/images/p06498.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06499",
+    "name": "Lemon",
+    "brand": "Lemon",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 22,
+    "mrp": 22,
+    "unit": "",
+    "image_url": "/images/p06499.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06500",
+    "name": "Desi Tomato - Pack of 2 (Tamatar)",
+    "brand": "Desi",
+    "category": "Fresh Vegetables",
+    "top_category": "Fruits & Vegetables",
+    "subcategory": "",
+    "price": 53,
+    "mrp": 53,
+    "unit": "",
+    "image_url": "/images/p06500.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06564",
+    "name": "Tata Sampann Hing Powder,Compounded Asafoetida (Bandhani Hing) (Bandhani Hing)",
+    "brand": "Tata Sampann",
+    "category": "Powdered Spice",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 124,
+    "mrp": 124,
+    "unit": "",
+    "image_url": "/images/p06564.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p06680",
+    "name": "Dates Laddu by Sweet Karam Coffee (No Added Sugar) - Pack of 2",
+    "brand": "Dates",
+    "category": "Dry Fruit Gift Packs",
+    "top_category": "Grocery Staples",
+    "subcategory": "",
+    "price": 728,
+    "mrp": 728,
+    "unit": "",
+    "image_url": "/images/p06680.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "id": "p06882",
+    "name": "I Can Color: Animals and Birds",
+    "brand": "I",
+    "category": "Baby Toddler Books",
+    "top_category": "Baby Care",
+    "subcategory": "",
+    "price": 89,
+    "mrp": 89,
+    "unit": "",
+    "image_url": "/images/p06882.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "baby"
+    ],
+    "goal_tags": [
+      "baby_care"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06923",
+    "name": "Lapcare Chillmate Laptop Cooling Pad (Black)",
+    "brand": "Lapcare",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 679,
+    "mrp": 679,
+    "unit": "",
+    "image_url": "/images/p06923.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06924",
+    "name": "Hammer 27 W Type C to Lightning Cable",
+    "brand": "Hammer",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p06924.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06925",
+    "name": "Hammer 65W Fast Charging Type C to Type C Cable",
+    "brand": "Hammer",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p06925.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06926",
+    "name": "Hammer 100W Fast Charging USB A to Type C Cable",
+    "brand": "Hammer",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p06926.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06927",
+    "name": "Caribou CBU - 02 Fire Retardant Extension Board",
+    "brand": "Caribou",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 298,
+    "mrp": 298,
+    "unit": "",
+    "image_url": "/images/p06927.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06928",
+    "name": "Lenovo Standard USB Type-C 65W Laptop Charger (65 W)",
+    "brand": "Lenovo",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 1455,
+    "mrp": 1455,
+    "unit": "",
+    "image_url": "/images/p06928.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06929",
+    "name": "Portronics 8 Pin Nylon Braided Type C to Lightning Cable",
+    "brand": "Portronics",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 199,
+    "mrp": 199,
+    "unit": "",
+    "image_url": "/images/p06929.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06930",
+    "name": "Zebronics Companion 116-K Wireless Keyboard (Black)",
+    "brand": "Zebronics",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 549,
+    "mrp": 549,
+    "unit": "",
+    "image_url": "/images/p06930.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06935",
+    "name": "Apple 20W USB-C Power Adapter",
+    "brand": "Apple",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 1799,
+    "mrp": 1799,
+    "unit": "",
+    "image_url": "/images/p06935.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06936",
+    "name": "Ambrane 3A Fast USB A to Type C Cable (1.5 m)",
+    "brand": "Ambrane",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 179,
+    "mrp": 179,
+    "unit": "",
+    "image_url": "/images/p06936.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06937",
+    "name": "boAt iPhone Super Charging Adapter (20 W)",
+    "brand": "boAt",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 549,
+    "mrp": 549,
+    "unit": "",
+    "image_url": "/images/p06937.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "breakfast",
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime",
+      "morning"
+    ]
+  },
+  {
+    "id": "p06954",
+    "name": "Panda Night 5 W Decorative Lamp (USB Rechargeable with Gesture Control) - DesiDiya",
+    "brand": "Panda",
+    "category": "Decorative Lights Lamps",
+    "top_category": "Home & Cleaning",
+    "subcategory": "",
+    "price": 408,
+    "mrp": 408,
+    "unit": "",
+    "image_url": "/images/p06954.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "electronics",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06995",
+    "name": "boAt Bassheads 95 Wired Earphones (Raging Red)",
+    "brand": "boAt",
+    "category": "Audio Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 279,
+    "mrp": 279,
+    "unit": "",
+    "image_url": "/images/p06995.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p06996",
+    "name": "boAt Storm Call 3 Women's Edition HD Smart Watch (Salmon Peach)",
+    "brand": "boAt",
+    "category": "Audio Accessories",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 1299,
+    "mrp": 1299,
+    "unit": "",
+    "image_url": "/images/p06996.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p07021",
+    "name": "Kent Stainless Steel Hand Blender (450 W, Silver)",
+    "brand": "Kent",
+    "category": "Appliances",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 1652,
+    "mrp": 1652,
+    "unit": "",
+    "image_url": "/images/p07021.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p07027",
+    "name": "Striff Blaze1 Camera Portable LED Light",
+    "brand": "Striff",
+    "category": "Appliances",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 518,
+    "mrp": 518,
+    "unit": "",
+    "image_url": "/images/p07027.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p07032",
+    "name": "Philips 8-in-1 Men's Beard Body Nose Hair Trimmer",
+    "brand": "Philips",
+    "category": "Appliances",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "",
+    "price": 1599,
+    "mrp": 1599,
+    "unit": "",
+    "image_url": "/images/p07032.svg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "electronics"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p07861",
+    "name": "Femora Clear Beer Mug (Glass)",
+    "brand": "Femora",
+    "category": "Barware",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 119,
+    "mrp": 119,
+    "unit": "",
+    "image_url": "/images/p07861.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "time_tags": [
+      "anytime"
+    ]
+  },
+  {
+    "id": "p07890",
+    "name": "Irida Naturals Wheat Straw Plate Set (Multicolour)",
+    "brand": "Irida",
+    "category": "Dining And Serveware",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 499,
+    "mrp": 499,
+    "unit": "",
+    "image_url": "/images/p07890.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p07913",
+    "name": "Lifelong 3 Plates Idli Maker (Stainless Steel)",
+    "brand": "Lifelong",
+    "category": "Cookware Sets",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 707,
+    "mrp": 707,
+    "unit": "",
+    "image_url": "/images/p07913.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p07919",
+    "name": "Prestige Nakshatra Plus Svachh Handi 10760 HA Nak+ IL Handi Pressure Cooker (Hard Anodised)",
+    "brand": "Prestige",
+    "category": "Cookware Sets",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 2039,
+    "mrp": 2039,
+    "unit": "",
+    "image_url": "/images/p07919.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p07937",
+    "name": "Nayasa Plastic Fusion Container Set",
+    "brand": "Nayasa",
+    "category": "Storage Containers",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 383,
+    "mrp": 383,
+    "unit": "",
+    "image_url": "/images/p07937.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p08019",
+    "name": "Borosil Go Sport Thermal Bottle (Black)",
+    "brand": "Borosil",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 809,
+    "mrp": 809,
+    "unit": "",
+    "image_url": "/images/p08019.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "hydration",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p08035",
+    "name": "MuscleBlaze Gym Shaker (Silver)",
+    "brand": "MuscleBlaze",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 499,
+    "mrp": 499,
+    "unit": "",
+    "image_url": "/images/p08035.webp",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p08043",
+    "name": "Swastika Indian White Marble Chakla - Roti Maker (Marble)",
+    "brand": "Swastika",
+    "category": "Kitchen Accessories",
+    "top_category": "Kitchen & Dining",
+    "subcategory": "",
+    "price": 419,
+    "mrp": 419,
+    "unit": "",
+    "image_url": "/images/p08043.jpg",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "p07026",
+    "name": "Boldfit Prime Digital Weighing Machine",
+    "brand": "Boldfit",
+    "category": "Appliances",
+    "top_category": "Electronics & Appliances",
+    "subcategory": "Weighing Scale",
+    "price": 458,
+    "mrp": 458,
+    "unit": "1 unit",
+    "need_tags": [
+      "fitness",
+      "wellness"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "image_url": "/images/p07026.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p03901",
+    "name": "Centrum Men Multivitamin (For 18+ Years)",
+    "brand": "Centrum",
+    "category": "Health Wellness Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "Multivitamins",
+    "price": 437,
+    "mrp": 437,
+    "unit": "1 pack",
+    "need_tags": [
+      "wellness",
+      "supplements"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning"
+    ],
+    "image_url": "/images/p03901.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p04110",
+    "name": "Supradyn Daily Multivitamin For Men & Women",
+    "brand": "Supradyn",
+    "category": "Non Prescription Medicines",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "Multivitamins",
+    "price": 68,
+    "mrp": 68,
+    "unit": "1 pack",
+    "need_tags": [
+      "wellness",
+      "supplements"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning"
+    ],
+    "image_url": "/images/p04110.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p03937",
+    "name": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein - 152 g (Double Rich Choco)",
+    "brand": "Optimum Nutrition",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "Whey",
+    "price": 940,
+    "mrp": 940,
+    "unit": "152 g",
+    "need_tags": [
+      "protein",
+      "fitness"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "image_url": "/images/p03937.svg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p03913",
+    "name": "MuscleBlaze Biozyme Performance Whey Protein Powder Sachets (Rich Chocolate)",
+    "brand": "MuscleBlaze",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "subcategory": "Whey",
+    "price": 799,
+    "mrp": 799,
+    "unit": "sachets",
+    "need_tags": [
+      "protein",
+      "fitness"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "image_url": "/images/p03913.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p02062",
+    "name": "Milky Mist Low Fat High Protein Paneer",
+    "brand": "Milky Mist",
+    "category": "Paneer Tofu",
+    "top_category": "Dairy & Breakfast",
+    "subcategory": "Paneer Tofu",
+    "price": 120,
+    "mrp": 160,
+    "unit": "200 g",
+    "need_tags": [
+      "protein",
+      "breakfast",
+      "cooking"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning",
+      "evening",
+      "anytime"
+    ],
+    "image_url": "/images/p02062.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  },
+  {
+    "id": "p90012",
+    "name": "Baker's Loaf Harvest Gold - High Protein Bread",
+    "brand": "Harvest Gold",
+    "category": "Bread Pav",
+    "top_category": "Bakery & Biscuits",
+    "subcategory": "Bread Pav",
+    "price": 72,
+    "mrp": 95,
+    "unit": "350 g",
+    "need_tags": [
+      "protein",
+      "breakfast",
+      "staples"
+    ],
+    "goal_tags": [
+      "fitness",
+      "weight_loss"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "image_url": "/images/p90012.jpg",
+    "in_stock": true,
+    "veg_flag": true
+  }
+]

@@ -1,0 +1,560 @@
+{
+  "mode": "groq+heuristic",
+  "count": 250,
+  "instructions": "Spot-check tags. Edit catalog.json if a tag is wrong; re-run candidates after edits.",
+  "sample": [
+    {
+      "id": "p00597",
+      "name": "LuvLap Anti Spill Baby Sipper (150 ml, Green)",
+      "top_category": "Baby Care",
+      "need_tags": [
+        "baby"
+      ],
+      "goal_tags": [
+        "baby_care"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00597.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p02102",
+      "name": "English Oven Zero Maida Atta/ Wheat Bread",
+      "top_category": "Bakery & Biscuits",
+      "need_tags": [
+        "staples"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p02102.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01477",
+      "name": "Laneige Glowy Tinted Lip Balm (Blueberry)",
+      "top_category": "Beauty",
+      "need_tags": [
+        "beauty",
+        "household"
+      ],
+      "goal_tags": [
+        "grooming"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01477.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01176",
+      "name": "Cocosutra Hazelnut Hot Chocolate",
+      "top_category": "Beverages",
+      "need_tags": [
+        "indulgence"
+      ],
+      "goal_tags": [
+        "indulgence"
+      ],
+      "time_tags": [
+        "evening"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01176.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01223",
+      "name": "Complan Kids Nutrition Drink Mix (Royal Chocolate)",
+      "top_category": "Dairy & Breakfast",
+      "need_tags": [
+        "breakfast",
+        "snack",
+        "hydration"
+      ],
+      "goal_tags": [
+        "convenience",
+        "wellness"
+      ],
+      "time_tags": [
+        "morning",
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01223.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p06923",
+      "name": "Lapcare Chillmate Laptop Cooling Pad (Black)",
+      "top_category": "Electronics & Appliances",
+      "need_tags": [
+        "household",
+        "electronics"
+      ],
+      "goal_tags": [
+        "explore"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p06923.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00161",
+      "name": "Banana",
+      "top_category": "Fruits & Vegetables",
+      "need_tags": [
+        "breakfast",
+        "wellness"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "afternoon",
+        "morning"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00161.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00037",
+      "name": "Rosier Bilona A2 Gir Ghee (Made from Curd)",
+      "top_category": "Grocery Staples",
+      "need_tags": [
+        "cooking",
+        "household"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "morning",
+        "afternoon"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00037.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00221",
+      "name": "Surf Excel Easy Wash Detergent Powder",
+      "top_category": "Home & Cleaning",
+      "need_tags": [
+        "household",
+        "cleaning"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00221.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00126",
+      "name": "Maggi Nutrilicious Veg Atta Noodles Made with Only Atta Flour",
+      "top_category": "Instant & Frozen",
+      "need_tags": [
+        "cooking",
+        "staples"
+      ],
+      "goal_tags": [
+        "convenience",
+        "household"
+      ],
+      "time_tags": [
+        "evening",
+        "late_night"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00126.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p07861",
+      "name": "Femora Clear Beer Mug (Glass)",
+      "top_category": "Kitchen & Dining",
+      "need_tags": [
+        "novelty"
+      ],
+      "goal_tags": [
+        "explore"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p07861.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00347",
+      "name": "ITC Master Chef Large Prawns Peeled & Deveined",
+      "top_category": "Meat Fish & Eggs",
+      "need_tags": [
+        "protein",
+        "breakfast"
+      ],
+      "goal_tags": [
+        "fitness",
+        "convenience"
+      ],
+      "time_tags": [
+        "morning"
+      ],
+      "veg_flag": false,
+      "image_url": "/images/p00347.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01894",
+      "name": "Herbal Brews Natural Cleansing Detox Foot Patch",
+      "top_category": "Personal Care",
+      "need_tags": [
+        "wellness"
+      ],
+      "goal_tags": [
+        "wellness"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01894.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00471",
+      "name": "PurePet Odor Control Lavender Cat Litter",
+      "top_category": "Pet Care",
+      "need_tags": [
+        "pet"
+      ],
+      "goal_tags": [
+        "pet_care"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00471.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p03845",
+      "name": "THE MODERN RITUAL Lemon Anti Hangover Effervescent Tablets",
+      "top_category": "Pharma & Wellness",
+      "need_tags": [
+        "novelty"
+      ],
+      "goal_tags": [
+        "explore"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p03845.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p02578",
+      "name": "Green Protein Crave Protein Bar",
+      "top_category": "Snacks & Munchies",
+      "need_tags": [
+        "snack",
+        "indulgence"
+      ],
+      "goal_tags": [
+        "indulgence"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p02578.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00997",
+      "name": "Rasgulla by Haldiram's",
+      "top_category": "Sweet Tooth",
+      "need_tags": [
+        "indulgence",
+        "novelty"
+      ],
+      "goal_tags": [
+        "explore",
+        "indulgence"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00997.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00628",
+      "name": "Oyo Baby Blanket (Pink)",
+      "top_category": "Baby Care",
+      "need_tags": [
+        "baby"
+      ],
+      "goal_tags": [
+        "baby_care"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00628.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p02103",
+      "name": "Harvest Gold White Bread",
+      "top_category": "Bakery & Biscuits",
+      "need_tags": [
+        "staples"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p02103.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01487",
+      "name": "RENEE Disney Moana Mini Tinted Lip Balm (Beachy Peachy)",
+      "top_category": "Beauty",
+      "need_tags": [
+        "beauty",
+        "household"
+      ],
+      "goal_tags": [
+        "grooming"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01487.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01190",
+      "name": "Brooke Bond Taaza Tea",
+      "top_category": "Beverages",
+      "need_tags": [
+        "beverages",
+        "hydration"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "morning"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01190.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p01267",
+      "name": "Amul Protein Blueberry Shake (20 g protein)",
+      "top_category": "Dairy & Breakfast",
+      "need_tags": [
+        "beverages",
+        "breakfast",
+        "hydration",
+        "protein"
+      ],
+      "goal_tags": [
+        "fitness"
+      ],
+      "time_tags": [
+        "morning"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p01267.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p06924",
+      "name": "Hammer 27 W Type C to Lightning Cable",
+      "top_category": "Electronics & Appliances",
+      "need_tags": [
+        "household",
+        "electronics"
+      ],
+      "goal_tags": [
+        "explore"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p06924.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00177",
+      "name": "Thai Guava (Amrud)",
+      "top_category": "Fruits & Vegetables",
+      "need_tags": [
+        "breakfast",
+        "wellness"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "afternoon",
+        "morning"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00177.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p02403",
+      "name": "Pillsbury Pancake Mix (Butterscotch)",
+      "top_category": "Grocery Staples",
+      "need_tags": [
+        "breakfast",
+        "cooking",
+        "indulgence",
+        "staples",
+        "wellness"
+      ],
+      "goal_tags": [
+        "household",
+        "indulgence",
+        "wellness"
+      ],
+      "time_tags": [
+        "evening",
+        "late_night",
+        "morning"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p02403.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00222",
+      "name": "Wheel Active 2 in 1 Detergent Powder",
+      "top_category": "Home & Cleaning",
+      "need_tags": [
+        "household",
+        "cleaning"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00222.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00949",
+      "name": "Kwality Wall's Feast Cadbury Crackle Frozen Dessert Stick",
+      "top_category": "Instant & Frozen",
+      "need_tags": [
+        "cooking",
+        "indulgence"
+      ],
+      "goal_tags": [
+        "convenience",
+        "indulgence"
+      ],
+      "time_tags": [
+        "evening",
+        "late_night"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p00949.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p07890",
+      "name": "Irida Naturals Wheat Straw Plate Set (Multicolour)",
+      "top_category": "Kitchen & Dining",
+      "need_tags": [
+        "household",
+        "staples"
+      ],
+      "goal_tags": [
+        "convenience"
+      ],
+      "time_tags": [
+        "morning",
+        "afternoon"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p07890.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p00348",
+      "name": "Godrej Real Good Large Prawns Peeled & Devined",
+      "top_category": "Meat Fish & Eggs",
+      "need_tags": [
+        "protein",
+        "breakfast"
+      ],
+      "goal_tags": [
+        "fitness",
+        "convenience"
+      ],
+      "time_tags": [
+        "morning"
+      ],
+      "veg_flag": false,
+      "image_url": "/images/p00348.svg",
+      "review_status": "pending"
+    },
+    {
+      "id": "p03277",
+      "name": "Joy Pure Aloe Multi Benefit Moisturizing Cream",
+      "top_category": "Personal Care",
+      "need_tags": [
+        "novelty"
+      ],
+      "goal_tags": [
+        "explore"
+      ],
+      "time_tags": [
+        "anytime"
+      ],
+      "veg_flag": true,
+      "image_url": "/images/p03277.svg",
+      "review_status": "pending"
+    }
+  ]
+}

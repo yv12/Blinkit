@@ -1,0 +1,32 @@
+{
+  "name": "blinkit-tinder-discovery",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open /legacy/order.html",
+    "dev:react": "vite --open /app.html",
+    "build": "vite build",
+    "preview": "vite preview",
+    "legacy": "npx --yes serve -l 4173 .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "fetch-images": "node scripts/fetch-images.mjs",
+    "sync-images": "node scripts/sync-local-images.mjs",
+    "optimize-images": "node scripts/optimize-card-images.mjs",
+    "llm:yash": "python scripts/llm_yash_candidates.py"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "sharp": "^0.34.5",
+    "vite": "^7.0.6",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@fontsource/bricolage-grotesque": "^5.3.0",
+    "@fontsource/outfit": "^5.3.0",
+    "framer-motion": "^12.43.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}

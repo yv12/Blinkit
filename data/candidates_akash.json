@@ -1,0 +1,1428 @@
+[
+  {
+    "product_id": "p02629",
+    "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 99,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "You buy paneer and oats every week — this is protein too, just grab-and-go.",
+    "bio": "Single, 20g protein, looking for someone who lifts.",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "protein",
+      "snack",
+      "staples"
+    ],
+    "goal_tags": [
+      "fitness",
+      "household",
+      "indulgence"
+    ],
+    "image_url": "/images/p02629.jpg"
+  },
+  {
+    "product_id": "p05452",
+    "name": "The Baker's Dozen Dark Chocolate Cookies",
+    "category": "Gourmet Bakery",
+    "top_category": "Bakery & Biscuits",
+    "price": 225,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Tempting, but I'll stick to my fitness goals, just like I did with the Amul Gold Full Cream Milk-based Amul Probiotic High Protein Curd from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p05452.jpg"
+  },
+  {
+    "product_id": "p03019",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original)",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 209,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03019.jpg"
+  },
+  {
+    "product_id": "p03028",
+    "name": "Harpic Disinfectant Toilet Bleach (White and Shine) Pack of 2",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 212,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03028.svg"
+  },
+  {
+    "product_id": "p01103",
+    "name": "Alpenliebe Eclairs Toffee Bouquet",
+    "category": "Candies Gum",
+    "top_category": "Sweet Tooth",
+    "price": 213,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same indulgence need, just a new category.",
+    "bio": "Single, packed with indulgence, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p01103.jpg"
+  },
+  {
+    "product_id": "p02432",
+    "name": "Cornitos Sliced Jalapeno Peppers - Pack of 3",
+    "category": "Ready To Cook Eat",
+    "top_category": "Instant & Frozen",
+    "price": 369,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02432.jpg"
+  },
+  {
+    "product_id": "p03018",
+    "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original) Pack of 3",
+    "category": "Toilet Bathroom Cleaners",
+    "top_category": "Home & Cleaning",
+    "price": 548,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime",
+      "evening"
+    ],
+    "need_tags": [
+      "cleaning",
+      "cooking",
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p03018.jpg"
+  },
+  {
+    "product_id": "p06680",
+    "name": "Dates Laddu by Sweet Karam Coffee (No Added Sugar) - Pack of 2",
+    "category": "Dry Fruit Gift Packs",
+    "top_category": "Grocery Staples",
+    "price": 728,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same indulgence need, just a new category.",
+    "bio": "Single, packed with indulgence, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06680.jpg"
+  },
+  {
+    "product_id": "p08019",
+    "name": "Borosil Go Sport Thermal Bottle (Black)",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "price": 809,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "You buy Quaker Rolled Instant Oats and Quaker Rolled Instant Oats Breakfast Cereal — this hits the same cooking need, just a new category.",
+    "bio": "Single, packed with cooking, looking for someone who already shops smart.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "cooking"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p08019.jpg"
+  },
+  {
+    "product_id": "p02590",
+    "name": "Yoga Bar Cookies & Cream 10g Protein Wafer Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 42,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Based on your love for Quaker Rolled Instant Oats, I think you'll crush the day with Yoga Bar Cookies & Cream 10g Protein Wafer Bar!",
+    "bio": "Fitness enthusiast Akash loves oats and protein bars to fuel his active lifestyle.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02590.svg"
+  },
+  {
+    "product_id": "p00997",
+    "name": "Rasgulla by Haldiram's",
+    "category": "Indian Sweets",
+    "top_category": "Sweet Tooth",
+    "price": 240,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "I'm loving the idea of adding some Indian sweets to my fitness journey, just like I did with the Amul Fresh Malai Paneer from my last purchase!",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "indulgence",
+      "novelty"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p00997.jpg"
+  },
+  {
+    "product_id": "p03917",
+    "name": "Nutrabay Gold Micronized Creatine Monohydrate (Orange)",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 296,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "You already know how delicious high-protein foods can be, so why not try Nutrabay Gold Micronized Creatine Monohydrate (Orange)?",
+    "bio": "Akash, a fitness enthusiast, already knows the importance of protein in his diet and has purchased Amul Protein Blueberry Shake (20 g protein) and Amul Probiotic High Protein Curd before.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p03917.jpg"
+  },
+  {
+    "product_id": "p07913",
+    "name": "Lifelong 3 Plates Idli Maker (Stainless Steel)",
+    "category": "Cookware Sets",
+    "top_category": "Kitchen & Dining",
+    "price": 707,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "I'd recommend the Lifelong 3 Plates Idli Maker for a quick and easy breakfast, just like you make with your Quaker Rolled Instant Oats and Amul Gold Full Cream Milk.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07913.jpg"
+  },
+  {
+    "product_id": "p02588",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 80,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Since you've purchased Amul Protein Blueberry Shake (20 g protein) before, I think you'll enjoy RiteBite Max Protein Daily Choco Berry 10 g Protein Bar.",
+    "bio": "Akash, a fitness enthusiast, has a history of buying high-protein products like Amul Protein Blueberry Shake.",
+    "confidence": 0.75,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02588.svg"
+  },
+  {
+    "product_id": "p02579",
+    "name": "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar - Pack of 2",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 156,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Considering your purchase of Amul Gold Full Cream Milk, I think you'll appreciate RiteBite Max Protein Daily Choco Almond 10 g Protein Bar - Pack of 2.",
+    "bio": "Akash, a fitness enthusiast, often buys milk and protein bars to stay healthy.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02579.jpg"
+  },
+  {
+    "product_id": "p00949",
+    "name": "Kwality Wall's Feast Cadbury Crackle Frozen Dessert Stick",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 194,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your usual Quaker Rolled Instant Oats, this late-night treat still fits the story.",
+    "bio": "Late-night soft yes. Cold, impulsive, honest.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00949.jpg"
+  },
+  {
+    "product_id": "p00951",
+    "name": "Amul Vanilla Magic Ice Cream Tub",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 195,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your usual Quaker Rolled Instant Oats, this late-night treat still fits the story.",
+    "bio": "Late-night soft yes. Cold, impulsive, honest.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00951.jpg"
+  },
+  {
+    "product_id": "p00953",
+    "name": "Huber & Holly Hazelnut Mudslide Mini Ice Cream Cone",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 199,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Given your usual Quaker Rolled Instant Oats, this late-night treat still fits the story.",
+    "bio": "Late-night soft yes. Cold, impulsive, honest.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "cooking",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00953.jpg"
+  },
+  {
+    "product_id": "p02591",
+    "name": "SuperYou Chocolate Wafer Protein Bar - Pack of 4",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 205,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Based on your purchase of Quaker Rolled Instant Oats, I think you'll enjoy SuperYou Chocolate Wafer Protein Bar - Pack of 4.",
+    "bio": "Akash, a fitness enthusiast, has a history of buying oats and protein bars.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration",
+      "indulgence",
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02591.jpg"
+  },
+  {
+    "product_id": "p05867",
+    "name": "4700BC Microwave Cheese Popcorn with Seasoning - Pack of 3",
+    "category": "Popcorn",
+    "top_category": "Snacks & Munchies",
+    "price": 215,
+    "level": "L2",
+    "shared_tag": "indulgence",
+    "tag_type": "need",
+    "bridge": "Popcorn for a snack? That's a great idea, just like my trusty Amul Fresh Malai Paneer!",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "explore",
+      "indulgence"
+    ],
+    "image_url": "/images/p05867.svg"
+  },
+  {
+    "product_id": "p00973",
+    "name": "Amul Chocolate Magic Sundae Ice Cream Tub",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 215,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Given your usual Quaker Rolled Instant Oats, this late-night treat still fits the story.",
+    "bio": "Late-night soft yes. Cold, impulsive, honest.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "need_tags": [
+      "beverages",
+      "cooking",
+      "hydration",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence"
+    ],
+    "image_url": "/images/p00973.jpg"
+  },
+  {
+    "product_id": "p02587",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 4",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 304,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Given your purchase of Amul Taaza Toned Milk, I think you'll appreciate RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 4.",
+    "bio": "Akash, a fitness enthusiast, often buys milk and protein bars to stay healthy.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02587.svg"
+  },
+  {
+    "product_id": "p02090",
+    "name": "Mother Dairy Salted Butter (500 g)",
+    "category": "Butter More",
+    "top_category": "Dairy & Breakfast",
+    "price": 310,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You've already paired Quaker Rolled Instant Oats with Amul Gold Full Cream Milk, so why not try Mother Dairy Salted Butter (500 g) for a richer breakfast?",
+    "bio": "Akash, a fitness enthusiast, has purchased Quaker Rolled Instant Oats and Amul Gold Full Cream Milk before, which suggests he enjoys a simple yet nutritious breakfast.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "staples"
+    ],
+    "goal_tags": [
+      "household"
+    ],
+    "image_url": "/images/p02090.svg"
+  },
+  {
+    "product_id": "p01286",
+    "name": "Nescafe Classic Black Roast Instant Coffee (Rich & Strong)",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "price": 404,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Nescafe Classic Black Roast Instant Coffee is a great addition to your breakfast, like you make with your Quaker Rolled Instant Oats.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01286.jpg"
+  },
+  {
+    "product_id": "p02169",
+    "name": "Mother Dairy - Dairy Whitener - Pack of 2",
+    "category": "Cream Whitener",
+    "top_category": "Dairy & Breakfast",
+    "price": 533,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You might already have a dairy whitener, but Mother Dairy - Dairy Whitener is a great option for a quick breakfast, like you make with your Quaker Rolled Instant Oats.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p02169.svg"
+  },
+  {
+    "product_id": "p02589",
+    "name": "RiteBite Max Protein Daily Choco Berry 10 g Protein Bar - Pack of 2",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 156,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Considering your purchase of Quaker Rolled Instant Oats Breakfast Cereal, I think you'll enjoy RiteBite Max Protein Daily Choco Berry 10 g Protein Bar.",
+    "bio": "Akash, a fitness enthusiast, has a history of buying oats and protein bars.",
+    "confidence": 0.65,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "late_night"
+    ],
+    "need_tags": [
+      "protein",
+      "snack"
+    ],
+    "goal_tags": [
+      "fitness",
+      "indulgence"
+    ],
+    "image_url": "/images/p02589.svg"
+  },
+  {
+    "product_id": "p02581",
+    "name": "Phab 10g Protein Cookies & Cream Millet Wafer Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 56,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Since you've purchased Amul Probiotic High Protein Curd before, I think you'll enjoy Phab 10g Protein Cookies & Cream Millet Wafer Bar.",
+    "bio": "Akash, a fitness enthusiast, has a history of buying high-protein products like Amul Probiotic High Protein Curd.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "image_url": "/images/p02581.svg"
+  },
+  {
+    "product_id": "p01223",
+    "name": "Complan Kids Nutrition Drink Mix (Royal Chocolate)",
+    "category": "Milk Drinks",
+    "top_category": "Dairy & Breakfast",
+    "price": 300,
+    "level": "L2",
+    "shared_tag": "breakfast",
+    "tag_type": "need",
+    "bridge": "You've already shown interest in Complan Kids Nutrition Drink Mix (Royal Chocolate), so why not try another Complan product?",
+    "bio": "Akash, a fitness enthusiast, has purchased Complan Kids Nutrition Drink Mix (Royal Chocolate) before, indicating he may be open to other Complan products.",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "anytime"
+    ],
+    "need_tags": [
+      "breakfast",
+      "snack",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience",
+      "wellness"
+    ],
+    "image_url": "/images/p01223.jpg"
+  },
+  {
+    "product_id": "p07937",
+    "name": "Nayasa Plastic Fusion Container Set",
+    "category": "Storage Containers",
+    "top_category": "Kitchen & Dining",
+    "price": 383,
+    "level": "L2",
+    "shared_tag": "staples",
+    "tag_type": "need",
+    "bridge": "Nayasa Plastic Fusion Container Set is a great addition to your kitchen, but it's not directly related to your breakfast needs, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07937.jpg"
+  },
+  {
+    "product_id": "p08043",
+    "name": "Swastika Indian White Marble Chakla - Roti Maker (Marble)",
+    "category": "Kitchen Accessories",
+    "top_category": "Kitchen & Dining",
+    "price": 419,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Swastika Indian White Marble Chakla - Roti Maker is a great addition to your kitchen, but it's not directly related to your breakfast needs, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p08043.jpg"
+  },
+  {
+    "product_id": "p07890",
+    "name": "Irida Naturals Wheat Straw Plate Set (Multicolour)",
+    "category": "Dining And Serveware",
+    "top_category": "Kitchen & Dining",
+    "price": 499,
+    "level": "L2",
+    "shared_tag": "staples",
+    "tag_type": "need",
+    "bridge": "Irida Naturals Wheat Straw Plate Set is a great addition to your kitchen, but it's not directly related to your breakfast needs, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "household",
+      "staples"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07890.jpg"
+  },
+  {
+    "product_id": "p08035",
+    "name": "MuscleBlaze Gym Shaker (Silver)",
+    "category": "Bottles Flasks",
+    "top_category": "Kitchen & Dining",
+    "price": 499,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "MuscleBlaze Gym Shaker is a great addition to your gym routine, but it's not a breakfast product, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "cooking"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p08035.webp"
+  },
+  {
+    "product_id": "p03914",
+    "name": "Wellcore Micronised Creatine",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 539,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Wellcore Micronised Creatine is a great protein supplement, but it's not a breakfast product, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p03914.jpg"
+  },
+  {
+    "product_id": "p03915",
+    "name": "Wellcore Micronised Creatine (Tropical Tango)",
+    "category": "Protein And Workout Supplements",
+    "top_category": "Pharma & Wellness",
+    "price": 539,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Wellcore Micronised Creatine (Tropical Tango) is a great protein supplement, but it's not a breakfast product, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein"
+    ],
+    "goal_tags": [
+      "fitness"
+    ],
+    "image_url": "/images/p03915.jpg"
+  },
+  {
+    "product_id": "p00037",
+    "name": "Rosier Bilona A2 Gir Ghee (Made from Curd)",
+    "category": "Grocery Staples",
+    "top_category": "Grocery Staples",
+    "price": 2024,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Rosier Bilona A2 Gir Ghee is a great addition to your cooking, but it's not directly related to your breakfast needs, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00037.jpg"
+  },
+  {
+    "product_id": "p07919",
+    "name": "Prestige Nakshatra Plus Svachh Handi 10760 HA Nak+ IL Handi Pressure Cooker (Hard Anodised)",
+    "category": "Cookware Sets",
+    "top_category": "Kitchen & Dining",
+    "price": 2039,
+    "level": "L2",
+    "shared_tag": "cooking",
+    "tag_type": "need",
+    "bridge": "Prestige Nakshatra Plus Svachh Handi is a great pressure cooker, but it's not directly related to your breakfast needs, Akash.",
+    "bio": "Fitness enthusiast Akash here, trying out new recipes with ease",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "cooking",
+      "household"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p07919.jpg"
+  },
+  {
+    "product_id": "p02578",
+    "name": "Green Protein Crave Protein Bar",
+    "category": "Energy Bars",
+    "top_category": "Snacks & Munchies",
+    "price": 627,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Considering your purchase of Amul Fresh Malai Paneer, I think you'll appreciate Green Protein Crave Protein Bar.",
+    "bio": "Akash, a fitness enthusiast, often buys high-protein products like Amul Fresh Malai Paneer.",
+    "confidence": 0.55,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "snack",
+      "indulgence"
+    ],
+    "goal_tags": [
+      "indulgence"
+    ],
+    "image_url": "/images/p02578.svg"
+  },
+  {
+    "product_id": "p01287",
+    "name": "Nescafe Classic - 100% Pure Instant Coffee Powder",
+    "category": "Coffee",
+    "top_category": "Beverages",
+    "price": 230,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Need a caffeine boost, just like I got from the Amul Taaza Toned Milk-based Nescafe Classic from my last purchase.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "beverages",
+      "hydration"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01287.jpg"
+  },
+  {
+    "product_id": "p06352",
+    "name": "Cosco Stretch Resistance Band",
+    "category": "Sports Fitness",
+    "top_category": "Pharma & Wellness",
+    "price": 399,
+    "level": "L3",
+    "shared_tag": "fitness",
+    "tag_type": "goal",
+    "bridge": "Time to level up my fitness game with some resistance bands, just like I'm doing with my Amul Protein Blueberry Shake (20 g protein)!",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.9,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "fitness_gear",
+      "household"
+    ],
+    "goal_tags": [
+      "explore"
+    ],
+    "image_url": "/images/p06352.jpg"
+  },
+  {
+    "product_id": "p03216",
+    "name": "Godrej Fab Top Load Liquid Detergent Refill",
+    "category": "Liquid Detergents",
+    "top_category": "Home & Cleaning",
+    "price": 412,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Taaza Toned Milk from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p03216.jpg"
+  },
+  {
+    "product_id": "p00287",
+    "name": "420 Rolling Tray - LIT",
+    "category": "Household Items",
+    "top_category": "Home & Cleaning",
+    "price": 449,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Gold Full Cream Milk from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00287.jpg"
+  },
+  {
+    "product_id": "p06293",
+    "name": "Brass Aaradhya Akhand Diya by Shubhkart (9.5 x 12 cm)",
+    "category": "Home Decor",
+    "top_category": "Home & Cleaning",
+    "price": 478,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Fresh Malai Paneer from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06293.jpg"
+  },
+  {
+    "product_id": "p06930",
+    "name": "Zebronics Companion 116-K Wireless Keyboard (Black)",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "price": 549,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Probiotic High Protein Curd from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06930.svg"
+  },
+  {
+    "product_id": "p00221",
+    "name": "Surf Excel Easy Wash Detergent Powder",
+    "category": "Household Needs",
+    "top_category": "Home & Cleaning",
+    "price": 778,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Taaza Toned Milk from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "household",
+      "cleaning"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p00221.jpg"
+  },
+  {
+    "product_id": "p06928",
+    "name": "Lenovo Standard USB Type-C 65W Laptop Charger (65 W)",
+    "category": "Electronic Accessories",
+    "top_category": "Electronics & Appliances",
+    "price": 1455,
+    "level": "L3",
+    "shared_tag": "convenience",
+    "tag_type": "goal",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Gold Full Cream Milk from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "electronics"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06928.svg"
+  },
+  {
+    "product_id": "p02403",
+    "name": "Pillsbury Pancake Mix (Butterscotch)",
+    "category": "Dessert Cake Mixes",
+    "top_category": "Grocery Staples",
+    "price": 217,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Pancakes for breakfast? That's a great idea, just like my trusty Quaker Rolled Instant Oats!",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "staples",
+      "wellness"
+    ],
+    "goal_tags": [
+      "household",
+      "indulgence",
+      "wellness"
+    ],
+    "image_url": "/images/p02403.jpg"
+  },
+  {
+    "product_id": "p03515",
+    "name": "Nivea Men Fresh Active Men's Roll On",
+    "category": "Deodorant Talc",
+    "top_category": "Personal Care",
+    "price": 185,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Nivea Men Fresh Active Men's Roll On is a great way to stay fresh and active, just like you enjoy Amul Fresh Malai Paneer as a post-workout snack.",
+    "bio": "I'm Akash, a fitness enthusiast who loves staying healthy and fresh.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "grooming"
+    ],
+    "image_url": "/images/p03515.jpg"
+  },
+  {
+    "product_id": "p00955",
+    "name": "Amul Butterscotch Bliss Ice Cream Tub",
+    "category": "Ice Cream Frozen Dessert",
+    "top_category": "Instant & Frozen",
+    "price": 215,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Given your usual Quaker Rolled Instant Oats, this late-night treat still fits the story.",
+    "bio": "Late-night soft yes. Cold, impulsive, honest.",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "cooking",
+      "indulgence",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience",
+      "indulgence",
+      "wellness"
+    ],
+    "image_url": "/images/p00955.svg"
+  },
+  {
+    "product_id": "p06493",
+    "name": "Ugaoo Syngonium Pink Premium Plant with White Ibiza Pot",
+    "category": "Flowers Leaves",
+    "top_category": "Fruits & Vegetables",
+    "price": 239,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Looks like I need a new breakfast buddy, just like my trusty Quaker Rolled Instant Oats!",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.7,
+    "veg_flag": true,
+    "time_tags": [
+      "afternoon",
+      "morning"
+    ],
+    "need_tags": [
+      "breakfast",
+      "wellness"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p06493.svg"
+  },
+  {
+    "product_id": "p01431",
+    "name": "Blue Tea Chamomile Flower Herbal Infusion",
+    "category": "Herbal Infusion",
+    "top_category": "Beverages",
+    "price": 299,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Fitness crowd that tracks protein often tracks recovery too — chamomile is the quiet hop.",
+    "bio": "Here for your wind-down arc. Soft, herbal, zero drama.",
+    "confidence": 0.62,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01431.jpg"
+  },
+  {
+    "product_id": "p01371",
+    "name": "Flurys Pure Chamomile Organic Herbal Infusion Bags",
+    "category": "Imported Tea Coffee",
+    "top_category": "Beverages",
+    "price": 234,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Time to unwind with a cup of tea, just like I did with the Flurys Pure Chamomile Organic Herbal Infusion Bags from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.6,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "beverages"
+    ],
+    "goal_tags": [
+      "convenience"
+    ],
+    "image_url": "/images/p01371.jpg"
+  },
+  {
+    "product_id": "p01317",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Ginger, Mint & Lemon)",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 177,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "One hop from your wellness vibe — a small lifestyle upgrade worth a peek.",
+    "bio": "Soft launch into wellness. No pressure, just good timing.",
+    "confidence": 0.55,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01317.jpg"
+  },
+  {
+    "product_id": "p01313",
+    "name": "Tetley Slim Care Green Tea Bags (With L-Carnitine, Lemon & Honey)",
+    "category": "Green Flavoured Tea",
+    "top_category": "Beverages",
+    "price": 177,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "One hop from your wellness vibe — a small lifestyle upgrade worth a peek.",
+    "bio": "Soft launch into wellness. No pressure, just good timing.",
+    "confidence": 0.55,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "hydration",
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p01313.jpg"
+  },
+  {
+    "product_id": "p04149",
+    "name": "FreeStyle Libre 2 Plus Sensor – Continuous Glucose Monitor (CGM)",
+    "category": "Health Ortho Supports",
+    "top_category": "Pharma & Wellness",
+    "price": 4625,
+    "level": "L4",
+    "shared_tag": "wellness",
+    "tag_type": "halo",
+    "bridge": "Not sure how this fits into my fitness goals, but I'll keep it in mind, just like I did with the Amul Probiotic High Protein Curd from my last order.",
+    "bio": "Akash, a fitness enthusiast",
+    "confidence": 0.5,
+    "veg_flag": true,
+    "time_tags": [
+      "anytime"
+    ],
+    "need_tags": [
+      "wellness"
+    ],
+    "goal_tags": [
+      "wellness"
+    ],
+    "image_url": "/images/p04149.jpg"
+  }
+]

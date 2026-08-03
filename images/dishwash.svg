@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#E0F2F1"/>
+  <circle cx="300" cy="230" r="90" fill="#00695C" opacity="0.15"/>
+  <text x="300" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#00695C" font-weight="700">DW</text>
+  <text x="300" y="400" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#00695C" font-weight="700">Dishwash</text>
+</svg>
