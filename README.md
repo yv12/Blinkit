@@ -1,24 +1,39 @@
 # Blinkit Discover
 
-A swipe-based product discovery experience for Blinkit — like Tinder, but for grocery.
+A swipe-based discovery layer for Blinkit — like Tinder, but for grocery.
 
-## What we’re trying to achieve
+Blinkit already recommends what you might buy next in the same aisle. This experience is built to do something harder: move shoppers **across categories** — from paneer to whey, from oats to a shaker — with a reason that feels honest, not random.
 
-Help shoppers find **relevant new products** they wouldn’t search for, without feeling random or spammy.
+## How recommendations work
 
-We want recommendations that:
-- feel personal (based on what you buy and swipe)
-- stay in the right aisle (no baby gear on a fitness path)
-- only show products with real photos
-- update live as you swipe, add to cart, and order
+Every card is tied to something the shopper already buys. We call that link a **bridge**.
 
-## How we plan to do it
+- You buy paneer and oats → we show a protein shake as “same need, new aisle”
+- You keep liking fitness snacks → we gently open gym gear, vitamins, or a scale
+- You keep skipping an aisle → we back off that path
 
-1. **Swipe deck** — users like / skip / add items; each swipe teaches the system what they care about.
-2. **Affinity engine** — category + tag weights shift Top picks and “Something different” rails in real time.
-3. **Aisle rules** — hard blocks for mismatched aisles (e.g. Baby Care unless the persona actually needs it).
-4. **Photo gate** — discovery only surfaces SKUs that have a real local photo.
-5. **Optional LLM** — Groq can write bridges / nudges; MVP runs fine on frozen candidates + rules.
+Swipes teach the system live. Likes, skips, saves, and cart adds shift what shows up next — so the deck gets more personal as you play, not after a long wait.
+
+## Where AI fits
+
+The brain of the product is rules + swipe signals (stage, aisle coherence, stock, photos). That part runs without an LLM and is what keeps the demo reliable.
+
+AI (Groq) is optional on top:
+- write short **bridges** and **bios** that explain *why* this product from another category
+- write **nudges** when something saved drops in price or fits the basket
+
+If AI is off or slow, frozen candidates + rules still serve a full deck. AI improves the story; it does not replace the recommendation logic.
+
+## Why this helps Blinkit
+
+Search and classic recommenders are strong at “more like what you already buy.” Cross-category purchase needs a different loop:
+
+1. Start from real order history (anchors)
+2. Suggest a nearby-but-new category with a clear bridge
+3. Learn from the swipe in the moment
+4. Unlock bolder cross-sell only after the shopper shows interest
+
+That turns discovery into a conversation — and opens baskets that a same-aisle feed usually won’t.
 
 ## Run locally
 
@@ -29,7 +44,7 @@ npm run sync-images
 npm run dev
 ```
 
-Open the app (defaults to `/legacy/order.html`). Home rails: `/legacy/index.html`.
+Open the app (defaults to home `/legacy/index.html`). Track-order swipe deck: `/legacy/order.html` or `npm run dev:order`.
 
 ```bash
 npm test

@@ -7,9 +7,12 @@ __pycache__/
 venv/
 node_modules/
 dist/
+.vercel
 .DS_Store
 *.log
 scripts/.cache/
 data/.cache/
 *.local
 .cursor/
+*.pem
+*credentials*

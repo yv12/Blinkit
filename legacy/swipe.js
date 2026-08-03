@@ -168,27 +168,57 @@ export function mountSwipe(root, opts) {
   root.querySelector("[data-save]").onclick = () => act("save", "right");
 
   let sx = 0, sy = 0, dragging = false;
+
+  function swipeThresholds() {
+    const w = window.innerWidth || 390;
+    const h = window.innerHeight || 700;
+    return {
+      x: Math.max(64, w * 0.22),
+      y: Math.max(72, h * 0.12),
+    };
+  }
+
+  function setScrollLock(on) {
+    const scroller = root.closest(".scroll") || document.querySelector(".scroll");
+    if (!scroller) return;
+    scroller.classList.toggle("swipe-dragging", !!on);
+  }
+
+  function resolveSwipe(dx, dy) {
+    const { x: thrX, y: thrY } = swipeThresholds();
+    if (dy < -thrY && Math.abs(dy) >= Math.abs(dx)) return act("add", "up");
+    if (dx > thrX) return act("save", "right");
+    if (dx < -thrX) return act("skip", "left");
+    card.style.transform = "";
+  }
+
   card.addEventListener("touchstart", e => {
     sx = e.touches[0].clientX;
     sy = e.touches[0].clientY;
     dragging = true;
+    setScrollLock(true);
     card.style.transition = "none";
   }, { passive: true });
   card.addEventListener("touchmove", e => {
     if (!dragging) return;
+    e.preventDefault();
     const dx = e.touches[0].clientX - sx;
     const dy = e.touches[0].clientY - sy;
     card.style.transform = `translate(${dx}px,${dy}px) rotate(${dx / 18}deg)`;
-  }, { passive: true });
+  }, { passive: false });
   card.addEventListener("touchend", e => {
     if (!dragging) return;
     dragging = false;
+    setScrollLock(false);
     card.style.transition = "";
     const dx = e.changedTouches[0].clientX - sx;
     const dy = e.changedTouches[0].clientY - sy;
-    if (dy < -90) return act("add", "up");
-    if (dx > 90) return act("save", "right");
-    if (dx < -90) return act("skip", "left");
+    resolveSwipe(dx, dy);
+  });
+  card.addEventListener("touchcancel", () => {
+    dragging = false;
+    setScrollLock(false);
+    card.style.transition = "";
     card.style.transform = "";
   });
 

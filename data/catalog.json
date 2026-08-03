@@ -6341,5 +6341,32 @@
     "image_url": "/images/p90012.jpg",
     "in_stock": true,
     "veg_flag": true
+  },
+  {
+    "id": "p09999",
+    "name": "Sleepy Owl Assorted Protein Cold Coffee Premix Sachets",
+    "brand": "Sleepy Owl",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "subcategory": "Protein Cold Coffee",
+    "price": 345,
+    "mrp": 345,
+    "unit": "3 sachets",
+    "image_url": "/images/p09999.png",
+    "in_stock": true,
+    "veg_flag": true,
+    "need_tags": [
+      "protein",
+      "beverages",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ]
   }
 ]

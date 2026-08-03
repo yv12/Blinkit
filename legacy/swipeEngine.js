@@ -249,9 +249,39 @@ export async function mountEngineSwipe(root, opts = {}) {
     });
   }
 
+  function swipeThresholds() {
+    const w = window.innerWidth || 390;
+    const h = window.innerHeight || 700;
+    return {
+      x: Math.max(64, w * 0.22),
+      y: Math.max(72, h * 0.12),
+    };
+  }
+
+  function setScrollLock(on) {
+    const scroller = root.closest(".scroll") || document.querySelector(".scroll");
+    if (!scroller) return;
+    scroller.classList.toggle("swipe-dragging", !!on);
+  }
+
+  function resolveSwipe(dx, dy) {
+    const { x: thrX, y: thrY } = swipeThresholds();
+    if (dy < -thrY && Math.abs(dy) >= Math.abs(dx)) return act("add", "up");
+    if (dx > thrX) return act("save", "right");
+    if (dx < -thrX) return act("skip", "left");
+    if (card) card.style.transform = "";
+  }
+
+  let cardTouchAbort = null;
+
   function bindCardChrome() {
     card = root.querySelector("[data-card]");
     if (!card) return;
+
+    cardTouchAbort?.abort();
+    cardTouchAbort = new AbortController();
+    const { signal } = cardTouchAbort;
+
     card.addEventListener(
       "touchstart",
       (e) => {
@@ -259,51 +289,77 @@ export async function mountEngineSwipe(root, opts = {}) {
         sx = e.touches[0].clientX;
         sy = e.touches[0].clientY;
         dragging = true;
+        setScrollLock(true);
         card.style.transition = "none";
       },
-      { passive: true },
+      { passive: true, signal },
     );
+    // passive:false so preventDefault can block native scroll / pull-to-refresh
     card.addEventListener(
       "touchmove",
       (e) => {
         if (!dragging) return;
+        e.preventDefault();
         const dx = e.touches[0].clientX - sx;
         const dy = e.touches[0].clientY - sy;
         card.style.transform = `translate(${dx}px,${dy}px) rotate(${dx / 18}deg)`;
         setDragHint(dx, dy);
       },
-      { passive: true },
+      { passive: false, signal },
     );
-    card.addEventListener("touchend", (e) => {
-      if (!dragging) return;
-      dragging = false;
-      card.style.transition = "";
-      delete card.dataset.hint;
-      const dx = e.changedTouches[0].clientX - sx;
-      const dy = e.changedTouches[0].clientY - sy;
-      if (dy < -90) return act("add", "up");
-      if (dx > 90) return act("save", "right");
-      if (dx < -90) return act("skip", "left");
-      card.style.transform = "";
-    });
+    card.addEventListener(
+      "touchend",
+      (e) => {
+        if (!dragging) return;
+        dragging = false;
+        setScrollLock(false);
+        card.style.transition = "";
+        delete card.dataset.hint;
+        const dx = e.changedTouches[0].clientX - sx;
+        const dy = e.changedTouches[0].clientY - sy;
+        resolveSwipe(dx, dy);
+      },
+      { signal },
+    );
+    card.addEventListener(
+      "touchcancel",
+      () => {
+        dragging = false;
+        setScrollLock(false);
+        if (card) {
+          card.style.transition = "";
+          card.style.transform = "";
+          delete card.dataset.hint;
+        }
+      },
+      { signal },
+    );
     // Desktop drag (mouse) — same affordance as touch
-    card.addEventListener("mousedown", (e) => {
-      if (e.button !== 0) return;
-      endCoach();
-      sx = e.clientX;
-      sy = e.clientY;
-      dragging = true;
-      card.style.transition = "none";
-      e.preventDefault();
-    });
-    card.addEventListener("keydown", (e) => {
-      if (e.key === "ArrowLeft") act("skip", "left");
-      if (e.key === "ArrowRight") act("save", "right");
-      if (e.key === "ArrowUp") act("add", "up");
-    });
+    card.addEventListener(
+      "mousedown",
+      (e) => {
+        if (e.button !== 0) return;
+        endCoach();
+        sx = e.clientX;
+        sy = e.clientY;
+        dragging = true;
+        card.style.transition = "none";
+        e.preventDefault();
+      },
+      { signal },
+    );
+    card.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key === "ArrowLeft") act("skip", "left");
+        if (e.key === "ArrowRight") act("save", "right");
+        if (e.key === "ArrowUp") act("add", "up");
+      },
+      { signal },
+    );
   }
 
-  // Window mouse listeners once (bindCardChrome can re-run after next hand)
+  // Window mouse listeners once
   window.addEventListener("mousemove", (e) => {
     if (!dragging || !card) return;
     const dx = e.clientX - sx;
@@ -318,10 +374,7 @@ export async function mountEngineSwipe(root, opts = {}) {
     delete card.dataset.hint;
     const dx = e.clientX - sx;
     const dy = e.clientY - sy;
-    if (dy < -90) return act("add", "up");
-    if (dx > 90) return act("save", "right");
-    if (dx < -90) return act("skip", "left");
-    card.style.transform = "";
+    resolveSwipe(dx, dy);
   });
 
   function render() {

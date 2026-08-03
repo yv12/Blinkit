@@ -3,6 +3,12 @@ import react from "@vitejs/plugin-react";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import {
+  assertProxySecret,
+  forwardGroqChat,
+  groqFallbackPayload,
+  readProxyEnv,
+} from "./api/_lib/groqChatHandler.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -34,25 +40,103 @@ function serveImgDir() {
   };
 }
 
-export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, process.cwd(), "");
-  const groqKey = (env.VITE_GROQ_API_KEY || env.GROQ_API_KEY || env.Gork_API_KEY || "").trim();
-  const groqModel = (env.VITE_GROQ_MODEL || env.GROQ_MODEL || "llama-3.3-70b-versatile").trim();
-  const useLlmNudges = String(env.VITE_USE_LLM_NUDGES || env.USE_LLM_NUDGES || "false").toLowerCase() === "true";
-  const useLlmDeck = String(env.VITE_USE_LLM_DECK || env.USE_LLM_DECK || "false").toLowerCase() === "true";
+function readRequestBody(req) {
+  return new Promise((resolve, reject) => {
+    const chunks = [];
+    req.on("data", (chunk) => chunks.push(chunk));
+    req.on("end", () => resolve(Buffer.concat(chunks).toString("utf8")));
+    req.on("error", reject);
+  });
+}
+
+/** Local parity with Vercel /api/groq/chat */
+function groqProxyPlugin(env) {
+  const { groqKey, groqModel, proxySecret } = readProxyEnv(env);
+
+  async function handleGroqChat(req, res, next) {
+    const url = req.url?.split("?")[0] || "";
+    if (url !== "/api/groq/chat") return next();
+
+    const sendJson = (status, body) => {
+      res.statusCode = status;
+      res.setHeader("Content-Type", "application/json");
+      res.setHeader("Cache-Control", "no-store");
+      res.end(JSON.stringify(body));
+    };
+
+    if (req.method === "OPTIONS") {
+      res.statusCode = 204;
+      res.end();
+      return;
+    }
+    if (req.method !== "POST") {
+      sendJson(405, { ok: false, reason: "method_not_allowed" });
+      return;
+    }
+
+    try {
+      const headers = {};
+      for (const [k, v] of Object.entries(req.headers || {})) {
+        headers[String(k).toLowerCase()] = Array.isArray(v) ? v[0] : v;
+      }
+      const auth = assertProxySecret(headers, proxySecret);
+      if (!auth.ok) {
+        sendJson(auth.status, auth.body);
+        return;
+      }
+
+      const raw = await readRequestBody(req);
+      let payload = {};
+      try {
+        payload = raw ? JSON.parse(raw) : {};
+      } catch {
+        sendJson(200, groqFallbackPayload("invalid_json"));
+        return;
+      }
+
+      const result = await forwardGroqChat({
+        groqKey,
+        defaultModel: groqModel,
+        payload,
+      });
+      sendJson(result.status, result.body);
+    } catch {
+      sendJson(200, groqFallbackPayload("upstream_error"));
+    }
+  }
 
   return {
-    plugins: [react(), serveImgDir()],
+    name: "groq-proxy",
+    configureServer(server) {
+      server.middlewares.use(handleGroqChat);
+    },
+    configurePreviewServer(server) {
+      server.middlewares.use(handleGroqChat);
+    },
+  };
+}
+
+export default defineConfig(({ mode }) => {
+  const env = loadEnv(mode, process.cwd(), "");
+  const { groqModel, proxySecret } = readProxyEnv(env);
+  const useLlmNudges =
+    String(env.VITE_USE_LLM_NUDGES || env.USE_LLM_NUDGES || "false").toLowerCase() === "true";
+  const useLlmDeck =
+    String(env.VITE_USE_LLM_DECK || env.USE_LLM_DECK || "false").toLowerCase() === "true";
+
+  return {
+    plugins: [react(), serveImgDir(), groqProxyPlugin(env)],
     assetsInclude: ["**/*.md"],
     define: {
-      "import.meta.env.VITE_GROQ_API_KEY": JSON.stringify(groqKey),
+      // Never inject GROQ_API_KEY. Proxy secret is a light abuse guard (visible in bundle).
       "import.meta.env.VITE_GROQ_MODEL": JSON.stringify(groqModel),
+      "import.meta.env.VITE_GROQ_PROXY_SECRET": JSON.stringify(proxySecret),
       "import.meta.env.VITE_USE_LLM_NUDGES": JSON.stringify(useLlmNudges ? "true" : "false"),
       "import.meta.env.VITE_USE_LLM_DECK": JSON.stringify(useLlmDeck ? "true" : "false"),
     },
-    // Primary UI: legacy/order.html (engine-backed). React demo at /app.html.
     server: {
-      open: "/legacy/order.html",
+      host: true,
+      open: "/legacy/index.html",
       watch: {
         ignored: [
           "**/images/**",
@@ -81,5 +165,3 @@ export default defineConfig(({ mode }) => {
     },
   };
 });
-
-

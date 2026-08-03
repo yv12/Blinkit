@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --open /legacy/order.html",
+    "dev": "vite --open /legacy/index.html",
+    "dev:order": "vite --open /legacy/order.html",
     "dev:react": "vite --open /app.html",
     "build": "vite build",
     "preview": "vite preview",

@@ -60,6 +60,35 @@
     "image_url": "/images/p05452.jpg"
   },
   {
+    "product_id": "p09999",
+    "name": "Sleepy Owl Assorted Protein Cold Coffee Premix Sachets",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "price": 345,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Akash buys protein shakes and bars — Sleepy Owl Protein Cold Coffee keeps the protein need but moves into beverages/coffee, a clean cross-category top-pick pattern.",
+    "bio": "Shake energy, coffee format.",
+    "confidence": 0.82,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "beverages",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p09999.png",
+    "in_stock": true
+  },
+  {
     "product_id": "p03019",
     "name": "Harpic Disinfectant Liquid Toilet Cleaner - (Original)",
     "category": "Toilet Bathroom Cleaners",

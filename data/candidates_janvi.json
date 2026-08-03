@@ -51,6 +51,35 @@
     "image_url": "/images/p04533.svg"
   },
   {
+    "product_id": "p09999",
+    "name": "Sleepy Owl Assorted Protein Cold Coffee Premix Sachets",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "price": 345,
+    "level": "L2",
+    "shared_tag": "beverages",
+    "tag_type": "need",
+    "bridge": "Janvi already buys Bru Instant Coffee — Sleepy Owl Protein Cold Coffee stays in the coffee habit but adds a protein need, showing how a coffee shopper can be led into wellness without leaving morning beverages.",
+    "bio": "Your coffee, now with 15g protein.",
+    "confidence": 0.8,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "beverages",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p09999.png",
+    "in_stock": true
+  },
+  {
     "product_id": "p04527",
     "name": "Mogu Mogu Grape Fruit Drink with Nata De Coco",
     "category": "Imported Beverages",

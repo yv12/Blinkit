@@ -14,8 +14,15 @@ import CartBadge from "./CartBadge.jsx";
 
 const UNDO_MS = 5000;
 const FLY_MS = 340;
-const SWIPE_X = 110;
-const SWIPE_Y = -95;
+
+function swipeThresholds() {
+  const w = typeof window !== "undefined" ? window.innerWidth : 390;
+  const h = typeof window !== "undefined" ? window.innerHeight : 700;
+  return {
+    x: Math.max(64, w * 0.22),
+    y: Math.max(72, h * 0.12),
+  };
+}
 
 function exitTarget(direction, width, height) {
   if (direction === "left") return { x: -width * 1.2, y: 40, rotate: -24, opacity: 0.2 };
@@ -46,6 +53,8 @@ export default function SwipeDeck({
 
   const cartRef = useRef(null);
   const stackRef = useRef(null);
+  const topCardRef = useRef(null);
+  const draggingRef = useRef(false);
   const undoTimer = useRef(null);
   const toastTimer = useRef(null);
   const heartTimer = useRef(null);
@@ -102,6 +111,18 @@ export default function SwipeDeck({
   const total = deck?.cards?.length || 0;
   const index = Math.min((deck?.cursor || 0) + 1, Math.max(total, 1));
   const cartCount = state?.cart?.length || 0;
+
+  // Block native scroll / pull-to-refresh while a card drag is active.
+  useEffect(() => {
+    const el = topCardRef.current;
+    if (!el) return undefined;
+    const onMove = (e) => {
+      if (!draggingRef.current) return;
+      e.preventDefault();
+    };
+    el.addEventListener("touchmove", onMove, { passive: false });
+    return () => el.removeEventListener("touchmove", onMove);
+  }, [topCard?.product_id]);
 
   const armUndo = useCallback(() => {
     clearTimeout(undoTimer.current);
@@ -213,11 +234,13 @@ export default function SwipeDeck({
 
   const handleDragEnd = useCallback(
     (_e, info) => {
+      draggingRef.current = false;
       if (busy || done) return;
       const { offset, velocity } = info;
-      const goLeft = offset.x < -SWIPE_X || velocity.x < -800;
-      const goRight = offset.x > SWIPE_X || velocity.x > 800;
-      const goTop = offset.y < SWIPE_Y || velocity.y < -700;
+      const { x: thrX, y: thrY } = swipeThresholds();
+      const goLeft = offset.x < -thrX || velocity.x < -800;
+      const goRight = offset.x > thrX || velocity.x > 800;
+      const goTop = offset.y < -thrY || velocity.y < -700;
 
       if (goTop && Math.abs(offset.y) > Math.abs(offset.x)) {
         commitSwipe("top");
@@ -380,6 +403,7 @@ export default function SwipeDeck({
 
               {topCard ? (
                 <motion.div
+                  ref={topCardRef}
                   key={topCard.product_id}
                   className="card-slot"
                   style={{
@@ -388,10 +412,14 @@ export default function SwipeDeck({
                     y,
                     rotate,
                     pointerEvents: busy || exiting ? "none" : "auto",
+                    touchAction: "none",
                   }}
                   drag={!busy && !exiting}
                   dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
                   dragElastic={0.9}
+                  onDragStart={() => {
+                    draggingRef.current = true;
+                  }}
                   onDragEnd={handleDragEnd}
                   whileTap={{ cursor: "grabbing" }}
                   initial={{ scale: 0.96, opacity: 0, y: 18 }}

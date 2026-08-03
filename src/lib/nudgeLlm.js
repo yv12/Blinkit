@@ -207,7 +207,16 @@ async function buildNudgeCopyViaLlm(match, opts = {}) {
   console.log("[nudgeLlm] === PARSED DATA ===\n", result.data);
 
   if (!result.ok) {
-    console.warn("[nudgeLlm] LLM failed, using default copy:", result.reason);
+    console.warn("[nudgeLlm] LLM failed, using fallback/default copy:", result.reason);
+    const fb = result.fallback;
+    if (fb?.notification_title && fb?.notification_body) {
+      return {
+        title: String(fb.notification_title),
+        body: String(fb.notification_body),
+        cta: String(fb.cta_label || "Abhi mangao").trim() || "Abhi mangao",
+        source: "api_fallback",
+      };
+    }
     return fallback;
   }
 

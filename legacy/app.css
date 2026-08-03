@@ -21,13 +21,27 @@
   --r-sm:10px; --r-md:14px; --r-lg:18px; --r-pill:22px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:Nunito,system-ui,sans-serif;background:#EFEFEF;display:flex;justify-content:center;padding:16px;color:var(--ink)}
+html,body{
+  height:100%;
+  overscroll-behavior:none;
+}
+body{
+  font-family:Nunito,system-ui,sans-serif;background:#EFEFEF;display:flex;justify-content:center;padding:16px;color:var(--ink);
+  overscroll-behavior:none;
+  min-height:100dvh;
+}
 .phone{
   position:relative;
   width:100%;max-width:390px;background:var(--page);border-radius:24px;overflow:hidden;
-  max-height:min(860px,100dvh);display:flex;flex-direction:column;
+  max-height:min(860px,100dvh);height:min(860px,100dvh);display:flex;flex-direction:column;
+  overscroll-behavior:none;
 }
-.scroll{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+.scroll{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:none}
+.scroll.swipe-dragging{overflow:hidden;touch-action:none}
+@media (max-width:480px){
+  body{padding:0}
+  .phone{max-width:none;width:100vw;height:100dvh;max-height:100dvh;border-radius:0}
+}
 
 .hero{background:var(--brand-yellow);padding:14px 16px 12px;position:relative}
 .hero-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}

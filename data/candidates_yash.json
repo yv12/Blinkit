@@ -56,6 +56,35 @@
     "in_stock": true
   },
   {
+    "product_id": "p09999",
+    "name": "Sleepy Owl Assorted Protein Cold Coffee Premix Sachets",
+    "category": "Cold Coffee Ice Tea",
+    "top_category": "Beverages",
+    "price": 345,
+    "level": "L2",
+    "shared_tag": "protein",
+    "tag_type": "need",
+    "bridge": "Yash already buys coffee-flavoured protein (Yoga Bar Coffee Rush) and high-protein dairy — Sleepy Owl Protein Cold Coffee is the same protein need in a morning coffee aisle, so it teaches cross-category: coffee shopper + protein shopper → one SKU.",
+    "bio": "Coffee kick. Protein hit. One sachet.",
+    "confidence": 0.88,
+    "veg_flag": true,
+    "time_tags": [
+      "morning",
+      "afternoon"
+    ],
+    "need_tags": [
+      "protein",
+      "beverages",
+      "breakfast"
+    ],
+    "goal_tags": [
+      "fitness",
+      "convenience"
+    ],
+    "image_url": "/images/p09999.png",
+    "in_stock": true
+  },
+  {
     "product_id": "p04110",
     "name": "Supradyn Daily Multivitamin For Men & Women",
     "category": "Non Prescription Medicines",
