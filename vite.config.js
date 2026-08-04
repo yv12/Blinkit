@@ -153,9 +153,14 @@ export default defineConfig(({ mode }) => {
       rollupOptions: {
         input: {
           main: path.resolve(__dirname, "index.html"),
-          order: path.resolve(__dirname, "legacy/order.html"),
-          home: path.resolve(__dirname, "legacy/index.html"),
           app: path.resolve(__dirname, "app.html"),
+          home: path.resolve(__dirname, "legacy/index.html"),
+          order: path.resolve(__dirname, "legacy/order.html"),
+          orderAgain: path.resolve(__dirname, "legacy/order-again.html"),
+          category: path.resolve(__dirname, "legacy/category.html"),
+          print: path.resolve(__dirname, "legacy/print.html"),
+          search: path.resolve(__dirname, "legacy/search.html"),
+          persona: path.resolve(__dirname, "legacy/persona.html"),
         },
       },
     },

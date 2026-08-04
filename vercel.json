@@ -3,8 +3,13 @@
   "outputDirectory": "dist",
   "rewrites": [
     { "source": "/", "destination": "/legacy/index.html" },
-    { "source": "/legacy/order", "destination": "/legacy/order.html" },
     { "source": "/legacy", "destination": "/legacy/index.html" },
+    { "source": "/legacy/order", "destination": "/legacy/order.html" },
+    { "source": "/legacy/order-again", "destination": "/legacy/order-again.html" },
+    { "source": "/legacy/category", "destination": "/legacy/category.html" },
+    { "source": "/legacy/print", "destination": "/legacy/print.html" },
+    { "source": "/legacy/search", "destination": "/legacy/search.html" },
+    { "source": "/legacy/persona", "destination": "/legacy/persona.html" },
     { "source": "/app", "destination": "/app.html" }
   ]
 }
