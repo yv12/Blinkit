@@ -11,6 +11,7 @@ import {
 } from "../lib/ladderBoost.js";
 import { isOffPersonaAisle, isBabyAisleProduct } from "../lib/aisleCoherence.js";
 import { allowsDietProduct, resolveDietMode } from "../lib/dietProfile.js";
+import { lastOrderAffinityBoost } from "../lib/orderFeedback.js";
 import { pickProbeCard, placeProbeInHand } from "./probe.js";
 
 function effectivePrice(candidate, state) {
@@ -123,6 +124,9 @@ export function rankScore(candidate, state, window, profile = null) {
     persona: profile?.needs ? { needs: profile.needs, goals: profile.goals || [] } : null,
     resolvedGoal: profile?.resolved_goal || null,
   });
+
+  // Live order write-back: reshuffle toward sibling / new categories
+  score += lastOrderAffinityBoost(candidate, state.basket_facts);
 
   // Drop mood-incompatible aisles from deck ranking (hard demote)
   if (

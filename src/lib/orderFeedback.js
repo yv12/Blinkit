@@ -24,6 +24,8 @@ export function buildBasketFacts(orderHistory = [], constraints = {}, dietMode =
     recent_categories: [...new Set(recent.map((h) => h.category).filter(Boolean))],
     last_ordered_id: last?.product_id || last?.id || null,
     last_ordered_name: last?.name || null,
+    last_ordered_category: last?.category || null,
+    last_ordered_top_category: last?.top_category || null,
     last_ordered_at: last?.ordered_at || null,
     last_ordered_ids: recent.map((h) => h.product_id || h.id).filter(Boolean),
     last_ordered_names: recent.map((h) => shortOrderName(h.name)).filter(Boolean),
@@ -79,15 +81,40 @@ export function applyJustOrderedBridges(cards = [], orderedItems = []) {
   return cards;
 }
 
-/** Soft score boost for cross-sell from last order categories/tags. */
+/**
+ * Soft score for cross-sell from the last live order.
+ * Goal: after add-to-cart / order, next cards leave that leaf aisle and open a
+ * sibling or new category that still fits the basket world.
+ */
 export function lastOrderAffinityBoost(product, basketFacts) {
   if (!product || !basketFacts?.last_ordered_id) return 0;
   let boost = 0;
+  const lastCat = basketFacts.last_ordered_category || null;
+  const lastTop = basketFacts.last_ordered_top_category || null;
   const recent = new Set(basketFacts.recent_categories || []);
   const tops = new Set(basketFacts.top_categories || []);
-  // Prefer a *new* category vs the last order (cross-sell), but same top-level goal aisle
-  if (product.category && recent.has(product.category)) boost -= 0.8;
-  if (product.top_category && tops.has(product.top_category)) boost += 1.1;
-  if (product.category && (basketFacts.categories || []).includes(product.category)) boost += 0.35;
+  const sameLeaf = lastCat && product.category === lastCat;
+
+  // Leave the exact aisle you just bought — affinity alone would re-serve it
+  if (sameLeaf) boost -= 2.4;
+  else if (product.category && recent.has(product.category)) boost -= 1.1;
+
+  // Sibling aisle in the same shopping world (paneer → yogurt, bar → shake)
+  if (lastTop && product.top_category === lastTop && !sameLeaf) {
+    boost += 2.0;
+  } else if (product.top_category && tops.has(product.top_category) && !sameLeaf) {
+    boost += 1.0;
+  }
+
+  // Open a new top category (L3 / cross-aisle feel) after a purchase
+  if (lastTop && product.top_category && product.top_category !== lastTop) {
+    boost += 0.7;
+  }
+
+  // Mild familiarity with categories already in the long basket (not last leaf)
+  if (!sameLeaf && product.category && (basketFacts.categories || []).includes(product.category)) {
+    boost += 0.25;
+  }
+
   return boost;
 }

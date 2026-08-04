@@ -110,4 +110,45 @@ describe("order feedback loop", () => {
       true,
     );
   });
+
+  it("after add-to-cart, next cards leave the ordered leaf category", () => {
+    const persona = loadJson("data/persona_yash.json");
+    const candidates = loadJson("data/candidates_yash.json");
+    const catalog = loadJson("data/catalog.json");
+    const eng = createEngine({
+      persona,
+      candidates,
+      catalog,
+      timeWindow: "morning",
+    });
+
+    // Prefer an Energy Bars card when present so the cross-aisle shift is measurable
+    const deck = eng.getDeck().cards;
+    const barIdx = deck.findIndex((c) => c.category === "Energy Bars");
+    if (barIdx >= 0) eng.getState().deck_cursor = barIdx;
+
+    const ordered = eng.currentCard();
+    expect(ordered).toBeTruthy();
+    const orderedCat = ordered.category;
+    const beforeRemaining = eng
+      .getDeck()
+      .cards.slice(eng.getDeck().cursor + 1)
+      .map((c) => c.product_id);
+
+    const res = eng.swipeTop();
+    expect(res.ok).toBe(true);
+    expect(eng.getPersona().basket_facts?.last_ordered_category).toBe(orderedCat);
+
+    const next = eng.getDeck().cards.slice(eng.getDeck().cursor, eng.getDeck().cursor + 4);
+    expect(next.length).toBeGreaterThan(0);
+    const sameLeaf = next.filter((c) => c.category === orderedCat).length;
+    // Majority of the next hand should open a different aisle
+    expect(sameLeaf).toBeLessThanOrEqual(Math.floor(next.length / 2));
+
+    const afterIds = next.map((c) => c.product_id);
+    const unchanged =
+      beforeRemaining.length >= afterIds.length &&
+      afterIds.every((id, i) => id === beforeRemaining[i]);
+    expect(unchanged).toBe(false);
+  });
 });
