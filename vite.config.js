@@ -40,6 +40,23 @@ function serveImgDir() {
   };
 }
 
+/**
+ * Service workers must stay as plain files at a stable URL.
+ * Vite never emits legacy/sw.js (only referenced as a string path), so copy it.
+ */
+function copyLegacyServiceWorker() {
+  const src = path.resolve("legacy/sw.js");
+  return {
+    name: "copy-legacy-service-worker",
+    closeBundle() {
+      if (!fs.existsSync(src)) return;
+      const outDir = path.resolve("dist/legacy");
+      fs.mkdirSync(outDir, { recursive: true });
+      fs.copyFileSync(src, path.join(outDir, "sw.js"));
+    },
+  };
+}
+
 function readRequestBody(req) {
   return new Promise((resolve, reject) => {
     const chunks = [];
@@ -125,7 +142,7 @@ export default defineConfig(({ mode }) => {
     String(env.VITE_USE_LLM_DECK || env.USE_LLM_DECK || "false").toLowerCase() === "true";
 
   return {
-    plugins: [react(), serveImgDir(), groqProxyPlugin(env)],
+    plugins: [react(), serveImgDir(), copyLegacyServiceWorker(), groqProxyPlugin(env)],
     assetsInclude: ["**/*.md"],
     define: {
       // Never inject GROQ_API_KEY. Proxy secret is a light abuse guard (visible in bundle).

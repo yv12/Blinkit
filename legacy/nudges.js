@@ -103,8 +103,18 @@ export async function initBackgroundNudges() {
   if (!("serviceWorker" in navigator) || !("Notification" in window)) {
     return { supported: false, reason: "browser" };
   }
-  const reg = await navigator.serviceWorker.register("./sw.js");
-  return { supported: true, reg };
+  try {
+    // Absolute path — Vite hashes nudges.js into /assets/, so "./sw.js" would
+    // resolve against the page URL and miss the file unless it is shipped to
+    // dist/legacy/sw.js (see copyLegacyServiceWorker in vite.config.js).
+    const reg = await navigator.serviceWorker.register("/legacy/sw.js", {
+      scope: "/legacy/",
+    });
+    return { supported: true, reg };
+  } catch (err) {
+    console.warn("[nudges] service worker registration failed", err);
+    return { supported: false, reason: "register_failed", error: err };
+  }
 }
 
 export async function requestNudgePermission() {
